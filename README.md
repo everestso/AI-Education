@@ -1,4 +1,4 @@
-# AI & Education
+# AI & Education / B. A.
 
 ## What is *University* in **Age of AI**? 
 
