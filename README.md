@@ -9,3 +9,7 @@
 
 [https://pni.princeton.edu/people/john-j-hopfield/now-what](https://pni.princeton.edu/people/john-j-hopfield/now-what)
 
+## Santa Fe Institute
+
+[https://www.youtube.com/live/Ysh6RBAZB7k?si=TKo0hGMgnRJ30Lcn](https://www.youtube.com/live/Ysh6RBAZB7k?si=TKo0hGMgnRJ30Lcn)
+
