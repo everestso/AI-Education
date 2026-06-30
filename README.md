@@ -38,7 +38,7 @@ These four figures represent the evolution of the American West:
 
 Together, they bridge the gap between the historical frontier and the legendary American West that continues to capture the imagination today.
 
-## Santa Fe Institute
+[Santa Fe Institute](https://www.youtube.com/live/Ysh6RBAZB7k?si=TKo0hGMgnRJ30Lcn)
 
-[https://www.youtube.com/live/Ysh6RBAZB7k?si=TKo0hGMgnRJ30Lcn](https://www.youtube.com/live/Ysh6RBAZB7k?si=TKo0hGMgnRJ30Lcn)
+[Zorro Ranch](https://en.wikipedia.org/wiki/Zorro_Ranch)
 
