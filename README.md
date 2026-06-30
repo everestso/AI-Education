@@ -25,7 +25,7 @@
   Lawman, Army scout, stagecoach driver, gambler, and gunfighter whose exploits in Kansas cattle towns made him one of the most legendary figures of the frontier. He was killed in Deadwood, Dakota Territory, while playing poker, giving rise to the famous "Dead Man's Hand."
 
 - **Calamity Jane (1852–1903)**  
-  Frontier woman, scout (according to some accounts), entertainer, and one of the West's most colorful personalities. Although much of her life became intertwined with legend, she is remembered for surviving the hardships of frontier life and for her association with Wild Bill Hickok and Buffalo Bill's Wild West.
+  Frontier woman, scout (according to some accounts), entertainer, and one of the West's most colorful personalities. Although much of her life became intertwined with legend, she is remembered for surviving the hardships of frontier life and for her association with Wild Bill Hickok and Buffalo Bill's Wild West. (Bonnie & Clyde)[https://en.wikipedia.org/wiki/Bonnie_and_Clyde]
 
 ## Together
 
