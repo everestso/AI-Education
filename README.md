@@ -22,15 +22,20 @@
     alt="Wild Bill Hickok, Texas Jack Omohundro, and Buffalo Bill (1873)">
 </a>
 
-- **Kit Carson (1809–1868)**  
-  Explorer, scout, mountain man, and guide whose career was launched by traveling the Santa Fe Trail. He became one of the most famous frontiersmen of the 19th century, guiding John C. Frémont's expeditions and playing key roles in the Mexican-American War and the settlement of the American Southwest.
+- **Wild Bill Hickok (1837–1876)**  
+  Lawman, Army scout, stagecoach driver, gambler, and gunfighter whose exploits in Kansas cattle towns made him one of the most legendary figures of the frontier. He was killed in Deadwood, Dakota Territory, while playing poker, giving rise to the famous "Dead Man's Hand."
+  
+- **Texas Jack Omohundro (1846–1880)**
+  Frontiersman, Army scout, cowboy, actor, and showman who served on the Great Plains during the Indian Wars. A close friend and performer alongside Buffalo Bill Cody and Wild Bill Hickok, he helped popularize the image of the American cowboy through stage productions and early Wild West exhibitions, becoming one of the best-known western celebrities of his era.
 
 - **Buffalo Bill Cody (1846–1917)**  
   Buffalo hunter, Army scout, Pony Express rider (according to tradition), and world-famous showman. Through **Buffalo Bill's Wild West**, he introduced millions of Americans and Europeans to the mythology of the American frontier and helped shape the popular image of the Old West.
 
-- **Wild Bill Hickok (1837–1876)**  
-  Lawman, Army scout, stagecoach driver, gambler, and gunfighter whose exploits in Kansas cattle towns made him one of the most legendary figures of the frontier. He was killed in Deadwood, Dakota Territory, while playing poker, giving rise to the famous "Dead Man's Hand."
+*Not in photo*
 
+- **Kit Carson (1809–1868)**  
+  Explorer, scout, mountain man, and guide whose career was launched by traveling the Santa Fe Trail. He became one of the most famous frontiersmen of the 19th century, guiding John C. Frémont's expeditions and playing key roles in the Mexican-American War and the settlement of the American Southwest.
+  
 - **Calamity Jane (1852–1903)**  
   Frontier woman, scout (according to some accounts), entertainer, and one of the West's most colorful personalities. Although much of her life became intertwined with legend, she is remembered for surviving the hardships of frontier life and for her association with Wild Bill Hickok and Buffalo Bill's Wild West. [Bonnie & Clyde](https://en.wikipedia.org/wiki/Bonnie_and_Clyde)
 
