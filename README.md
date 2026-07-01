@@ -14,7 +14,7 @@
 [Santa Fe Trail](https://en.wikipedia.org/wiki/Santa_Fe_Trail)
 
 # Legendary Figures of the American West
-## w/ Wagontrain to Stars Image
+## w/ Buffalo Bill's Wild West, Wagontrain to Stars, and others...
 
 <a href="https://commons.wikimedia.org/wiki/File:Wild_Bill_Hickok_and_Texas_Jack_Omohundro_and_Buffalo_Bill_1873.png">
   <img
@@ -28,6 +28,19 @@
     width="150"
     alt="ST-TOS">
 </a>
+<a href="https://upload.wikimedia.org/wikipedia/en/9/9f/WildWildWest_title_card.jpg">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/en/9/9f/WildWildWest_title_card.jpg"
+    width="150"
+    alt="ST-TOS">
+</a>
+<a href="https://upload.wikimedia.org/wikipedia/en/5/53/S99Cast.jpg">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/en/5/53/S99Cast.jpg"
+    width="150"
+    alt="ST-TOS">
+</a>
+
 
 
 - **Wild Bill Hickok (1837–1876)**  
