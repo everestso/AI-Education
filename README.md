@@ -14,6 +14,7 @@
 [Santa Fe Trail](https://en.wikipedia.org/wiki/Santa_Fe_Trail)
 
 # Legendary Figures of the American West
+## w/ Wagontrain to Stars Image
 
 <a href="https://commons.wikimedia.org/wiki/File:Wild_Bill_Hickok_and_Texas_Jack_Omohundro_and_Buffalo_Bill_1873.png">
   <img
@@ -21,6 +22,13 @@
     width="350"
     alt="Wild Bill Hickok, Texas Jack Omohundro, and Buffalo Bill (1873)">
 </a>
+<a href="https://upload.wikimedia.org/wikipedia/en/2/2d/ST_TOS_Cast.jpg">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/en/2/2d/ST_TOS_Cast.jpg"
+    width="150"
+    alt="ST-TOS">
+</a>
+
 
 - **Wild Bill Hickok (1837–1876)**  
   Lawman, Army scout, stagecoach driver, gambler, and gunfighter whose exploits in Kansas cattle towns made him one of the most legendary figures of the frontier. He was killed in Deadwood, Dakota Territory, while playing poker, giving rise to the famous "Dead Man's Hand."
