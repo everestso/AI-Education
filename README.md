@@ -15,6 +15,13 @@
 
 # Legendary Figures of the American West
 
+<a href="https://commons.wikimedia.org/wiki/File:Wild_Bill_Hickok_and_Texas_Jack_Omohundro_and_Buffalo_Bill_1873.png">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wild_Bill_Hickok_and_Texas_Jack_Omohundro_and_Buffalo_Bill_1873.png/500px-Wild_Bill_Hickok_and_Texas_Jack_Omohundro_and_Buffalo_Bill_1873.png"
+    width="350"
+    alt="Wild Bill Hickok, Texas Jack Omohundro, and Buffalo Bill (1873)">
+</a>
+
 - **Kit Carson (1809–1868)**  
   Explorer, scout, mountain man, and guide whose career was launched by traveling the Santa Fe Trail. He became one of the most famous frontiersmen of the 19th century, guiding John C. Frémont's expeditions and playing key roles in the Mexican-American War and the settlement of the American Southwest.
 
