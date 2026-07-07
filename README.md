@@ -73,5 +73,7 @@ Together, they bridge the gap between the historical frontier and the legendary 
 
 [Santa Fe Institute](https://www.youtube.com/live/Ysh6RBAZB7k?si=TKo0hGMgnRJ30Lcn)
 
+[Santa Fe Institute w/ Benjamin Allen](https://santafe.edu/events/evolution-in-structured-populations)
+
 [Zorro Ranch](https://en.wikipedia.org/wiki/Zorro_Ranch)
 
