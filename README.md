@@ -79,3 +79,397 @@ Together, they bridge the gap between the historical frontier and the legendary 
 
 [St. Thomas Common Sense](https://cogaffarchive.org/AIMag/StThomas-AIMag.pdf)
 
+# Modern AI Research Landscape (NeurIPS 2025)
+
+## I. Foundation Models and Large Language Models
+
+### Central Question
+
+> How can increasingly capable foundation models be trained, adapted, compressed, and deployed efficiently?
+
+### Typical Topics
+
+- Scaling laws
+- Fine-tuning
+- LoRA
+- Model compression
+- Quantization
+- Mixture-of-Experts (MoE)
+- Memory optimization
+- KV-cache compression
+- Long-context modeling
+
+### Representative Papers
+
+- *The Primacy of Magnitude in Low-Rank Adaptation*
+- *Block-Diagonal LoRA*
+- *QSVD*
+- *SALS*
+- *Blending Hybrid Quadratic-Linear Transformers*
+
+**Key Trend**
+
+These papers largely focus on making trillion-parameter models practical rather than simply making them larger.
+
+---
+
+## II. Reasoning and Agentic AI
+
+Probably the fastest growing area.
+
+### Central Question
+
+> How can language models plan, reason, critique themselves, and accomplish complex goals?
+
+### Current Research Directions
+
+- Reasoning traces
+- Planning
+- Self-verification
+- Self-reflection
+- Tool use
+- Planning agents
+- Long-horizon execution
+
+### Representative Papers
+
+- *GPO: Learning from Critical Steps*
+- *InstructFlow*
+- *Think Silently, Think Fast*
+- *Incentivizing LLMs to Self-Verify*
+- *Structural Entropy Guided Agent*
+- *MLE-Dojo* (agent engineering benchmark)
+
+**Key Trend**
+
+This area overlaps strongly with the modern AI Agent ecosystem, where planning, MCP, multi-agent workflows, reasoning, and evaluation become core architectural components rather than simply better prompting.
+
+---
+
+## III. Multimodal AI
+
+Current frontier.
+
+### Evolution of Foundation Models
+
+```
+Text
+  ↓
+Image
+  ↓
+Video
+  ↓
+Audio
+  ↓
+Robotics
+  ↓
+3D
+  ↓
+Everything Together
+```
+
+### Research Themes
+
+- Vision-Language Models
+- Multimodal LLMs
+- World Models
+- Video reasoning
+- Audio generation
+- Time-series grounding
+- Omnimodal models
+
+### Representative Papers
+
+- *OSKAR*
+- *TRACE*
+- *Praxis-VLM*
+- *Open Vision Reasoner*
+- *PhysVLM*
+- *VideoRFT*
+
+---
+
+## IV. Generative AI
+
+Still enormous.
+
+Research has expanded well beyond image generation.
+
+### Topics
+
+- Diffusion Models
+- Flow Matching
+- Video Generation
+- Image Editing
+- Gaussian Splatting
+- 3D Generation
+
+### Representative Papers
+
+- *Wan-Move*
+- *DCI*
+- *Diffusion Feature Field*
+- *Tortoise and Hare Guidance*
+- *Frame In-N-Out*
+- *LuxDiT*
+
+### Interesting Trend
+
+Early diffusion research focused primarily on generating images.
+
+Current work increasingly focuses on:
+
+- Controllability
+- Editing
+- Planning
+- Faster inference
+- Efficiency
+- Video generation
+- 3D world generation
+
+---
+
+## V. Reinforcement Learning
+
+RL has evolved substantially.
+
+### Research Themes
+
+- Offline RL
+- Data-efficient RL
+- World Models
+- Long-horizon planning
+- Multi-agent RL
+
+### Representative Papers
+
+- *UFO-RL*
+- *Scaling Offline RL*
+- *Imagine Beyond*
+- *NS-Gym*
+- *DMWM*
+
+**Key Trend**
+
+Modern reinforcement learning increasingly overlaps with language models through decision-making, planning, and agent architectures.
+
+---
+
+## VI. AI for Science
+
+One of the most exciting areas.
+
+### Research Areas
+
+- Proteins
+- Chemistry
+- Biology
+- Drug discovery
+- Molecular generation
+
+### Representative Papers
+
+- *NeuralPLexer3*
+- AlphaFold-inspired protein research
+- *BioCG*
+- *Rationalized Protein Design*
+- *DynaPhArM*
+
+**Key Trend**
+
+AI for Science has become one of the biggest success stories of deep learning.
+
+---
+
+## VII. Robotics and Embodied Intelligence
+
+### Fundamental Questions
+
+- How do robots learn?
+- How do robots plan?
+- How do robots manipulate objects?
+- How do robots interact with the physical world?
+
+### Representative Papers
+
+- *DexFlyWheel*
+- *MonoLift*
+- *EfficientNav*
+- *ESCA*
+- *Less is More (Offline Embodied Learning)*
+
+---
+
+## VIII. Interpretability and Understanding Neural Networks
+
+Still an active research direction.
+
+### Fundamental Questions
+
+- Why do models generalize?
+- What do neurons represent?
+- What features emerge?
+- Why do transformers work?
+
+### Representative Papers
+
+- *Register and CLS Tokens*
+- *RNN Dynamic Warping*
+- *Alternating Gradient Flows*
+- *Jacobian Interpretation*
+- *Feature Learning Theory*
+
+---
+
+## IX. Safety, Alignment, and Security
+
+One of the largest growing research areas.
+
+### Topics
+
+- AI safety
+- Jailbreak defense
+- Alignment
+- AI detection
+- Machine unlearning
+- Privacy
+- Fairness
+
+### Representative Papers
+
+- *Vulnerable Data-Aware Training*
+- *DNA-DetectLLM*
+- *VLLM Safety Paradox*
+- LLM Unlearning
+- Machine Unlearning
+- *Struct-Bench*
+
+---
+
+## X. Efficient AI
+
+### Research Emphasis
+
+How do we make models:
+
+- Smaller
+- Faster
+- Cheaper
+- Greener
+
+### Representative Topics
+
+- Compression
+- Sparse attention
+- Token pruning
+- Quantization
+- Cache optimization
+- Hardware-aware inference
+
+---
+
+## XI. Evaluation and Benchmarks
+
+This area has exploded recently.
+
+### Central Question
+
+> How do we know our models are actually improving?
+
+### Representative Benchmarks
+
+- PHYBench
+- Hyperphantasia
+- EndoBench
+- OpenLex3D
+- MLE-Dojo
+- Struct-Bench
+
+**Key Trend**
+
+The community increasingly recognizes that better benchmarks often drive progress just as much as better algorithms.
+
+---
+
+## XII. Mathematical Foundations
+
+NeurIPS continues to maintain a strong theoretical component.
+
+### Topics
+
+- Optimization
+- Generalization
+- Convex optimization
+- Bandits
+- Gaussian processes
+- Online learning
+- Information theory
+
+### Representative Papers
+
+- *Sparse Polyak*
+- *Ellipsoid Algorithm*
+- *Regret Bounds*
+- Gaussian Processes
+- *Spectral Analysis*
+
+---
+
+# Current "Hot" Research Areas
+
+| Rank | Area | Why It's Hot |
+|------|------|--------------|
+| ⭐⭐⭐⭐⭐ | Agentic AI | Autonomous systems, planning, tool use, workflows |
+| ⭐⭐⭐⭐⭐ | Multimodal Foundation Models | Text + image + video + audio + robotics |
+| ⭐⭐⭐⭐⭐ | Efficient LLMs | Compression, LoRA, quantization, inference |
+| ⭐⭐⭐⭐☆ | AI for Science | Biology, chemistry, medicine, proteins |
+| ⭐⭐⭐⭐☆ | World Models | Robotics, RL, autonomous driving |
+| ⭐⭐⭐⭐☆ | Reasoning Models | Self-verification, planning, long reasoning |
+| ⭐⭐⭐⭐☆ | Safety & Alignment | Reliability and deployment |
+
+---
+
+# Stellar Examples to Watch
+
+## AlphaFold → AI for Biology
+
+AI is now solving major problems in structural biology and drug discovery, with NeurIPS papers extending these ideas to protein structure prediction, molecular design, and computational biology.
+
+---
+
+## Deep Research–Style Agents
+
+Autonomous systems that search, plan, synthesize information, and produce reports are becoming one of the defining application areas of modern AI.
+
+---
+
+## Diffusion Beyond Images
+
+Diffusion models are rapidly expanding into:
+
+- Video generation
+- Robotics
+- Scientific forecasting
+- Molecular modeling
+- Scientific simulation
+
+---
+
+## Reasoning LLMs
+
+A rapidly growing body of work explores how language models can:
+
+- Plan
+- Verify
+- Critique
+- Self-correct
+- Improve their own reasoning
+
+rather than simply predict the next token.
+
+---
+
+## AI + Robotics
+
+The convergence of language models, vision, planning, and control is moving embodied AI from laboratory demonstrations toward capable autonomous systems operating in the real world.
+
