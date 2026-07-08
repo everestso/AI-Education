@@ -77,3 +77,5 @@ Together, they bridge the gap between the historical frontier and the legendary 
 
 [Zorro Ranch](https://en.wikipedia.org/wiki/Zorro_Ranch)
 
+[St. Thomas Common Sense](https://cogaffarchive.org/AIMag/StThomas-AIMag.pdf)
+
