@@ -79,6 +79,8 @@ Together, they bridge the gap between the historical frontier and the legendary 
 
 [St. Thomas Common Sense](https://cogaffarchive.org/AIMag/StThomas-AIMag.pdf)
 
+[CSM](https://csm.fresnostate.edu/index.html)
+
 # Modern AI Research Landscape (NeurIPS 2025)
 
 ## I. Foundation Models and Large Language Models
