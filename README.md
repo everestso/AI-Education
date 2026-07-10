@@ -5,6 +5,59 @@
 * What is "Fresno State vs. San Jose State vs. Berkeley vs. Stanford w/  **Age of AI**?
 * What is Learning/Understanding Abstractions (i.e., Calculus or SQL or Chess) w/ **Age of AI**?
 
+# U.S. Participation in the Afghanistan War (2001–2021)
+
+## Duration
+
+* **October 2001 – August 2021**
+* The longest war in U.S. history, lasting nearly **20 years**.
+
+---
+
+# U.S. Military Participation
+
+Approximately:
+
+* **More than 775,000 American service members** deployed to Afghanistan at least once.
+* Many personnel served **multiple combat tours** over the course of the war.
+
+---
+
+# U.S. Casualties
+
+Approximate totals:
+
+| Category                        |                Total |
+| ------------------------------- | -------------------: |
+| U.S. military personnel killed  |            **2,461** |
+| U.S. military personnel wounded | **More than 20,000** |
+
+These figures do not include the many veterans who later experienced long-term physical injuries, traumatic brain injuries (TBI), post-traumatic stress disorder (PTSD), or other lasting health effects associated with military service.
+
+---
+
+# Perspective
+
+Using the commonly cited deployment figures:
+
+* Approximately **775,000 Americans** served in Afghanistan.
+* About **2,500 Americans lost their lives**.
+* More than **20,000 were wounded in action**.
+
+Risk varied greatly depending on assignment. Front-line infantry units operating in heavily contested regions often faced much greater danger than personnel serving in logistics, aviation, intelligence, or support roles.
+
+---
+
+# Historical Significance
+
+The Afghanistan War represents:
+
+* The **longest military conflict in American history**.
+* A war in which an entire generation of U.S. service members served through repeated deployments.
+* A conflict that began as a response to the September 11, 2001 terrorist attacks and evolved into a prolonged counterterrorism, counterinsurgency, and nation-building effort.
+
+Although the number of U.S. casualties was significantly lower than in World War II, Korea, or Vietnam, the conflict's duration and repeated deployments made it one of the defining military experiences of the post-9/11 era.
+
 # Afghanistan: From the Soviet Invasion to the U.S. Intervention
 
 ## 1. Soviet Intervention (1979)
