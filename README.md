@@ -446,6 +446,8 @@ Together, they bridge the gap between the historical frontier and the legendary 
 
 [Zorro Ranch](https://en.wikipedia.org/wiki/Zorro_Ranch)
 
+[Erdogan gifts pistols to European leaders after NATO summit](https://youtu.be/n7XZHsDD5Qc?si=WpAp_LBwaHUEKE_i)
+
 # A Brief Overview of Persian Culture Leading to the Modern Iranian Regime
 
 One of the most remarkable aspects of Persian history is that it represents **one of the world's longest continuous civilizations**. Governments have changed many times over the past 2,500 years, but many elements of Persian identity have endured.
