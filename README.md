@@ -3,6 +3,39 @@
 One of the defining characteristics of Persian civilization has been its longstanding respect for **learning, mathematics, engineering, and the natural sciences**. While "physics" as a modern discipline did not exist in antiquity, Persian scholars made major contributions to astronomy, mechanics, optics, mathematics, engineering, and natural philosophy—the foundations upon which modern physics was later built.
 
 ---
+# Polarization of Communities of High Energy Conditions: Yin/Yang
+
+One way to view deep learning is through the lens of **feature polarization**. At the beginning of training, neurons respond weakly and somewhat randomly to many different input patterns. The network is highly disorganized, analogous to a high-energy, high-entropy physical system.
+
+As gradient descent minimizes the loss function, neurons begin to develop **correlated responses**. Groups of neurons gradually specialize to detect statistically significant features, evolving from simple patterns such as edges and textures to increasingly abstract concepts such as object parts, objects, and scenes.
+
+Rather than individual neurons representing concepts, **distributed groups of neurons** cooperate to encode meaningful features. These groups form **feature domains**—collections of neurons whose weights and activations become coordinated to represent the same underlying concept. Much like magnetic domains in a ferromagnet, the network self-organizes from disorder into structured regions of specialized computation.
+
+## Hierarchical Feature Polarization
+
+```text
+Pixels
+   ↓
+Edges
+   ↓
+Textures
+   ↓
+Parts
+   ↓
+Objects
+   ↓
+Concepts
+```
+
+From this perspective, learning can be viewed as a gradual **polarization** of the network into cooperative feature detectors. Each optimization step reduces the loss (an effective energy function), moving the network from a disordered collection of weak detectors toward a stable, low-energy configuration of specialized feature domains.
+
+## Two Forms of Polarization
+
+- **Weight Polarization:** Occurs during training as network parameters organize into stable feature detectors.
+- **Activation Polarization:** Occurs during inference, when only the feature domains relevant to the current input become active.
+
+Thus, **training builds the polarized structure of the network, while inference selectively excites the appropriate feature domains.**
+---
 
 # I. Ancient Persia (550 BC – AD 651)
 
