@@ -3,6 +3,8 @@
 
 [Professor Karl Sigmund](https://en.wikipedia.org/wiki/Karl_Sigmund) / [Math Genes](https://mathgenealogy.org/id.php?fChrono=1&id=70042)
 
+[Center for Mathematical Bio](https://mathbio.sas.upenn.edu/about/)
+
 # British Imperialism and the Pinnacle of the British Empire: India, the "Jewel in the Crown"
 
 The British Empire became the largest empire in history, spanning every inhabited continent. At its height in the early twentieth century, Britain governed nearly one-quarter of the world's land area and population.
