@@ -1,6 +1,8 @@
 # Martin Nowak - Can Mathematics Explain Biology?
 [https://youtu.be/MNJay8toO68?si=uSJHEX42qdFvpq3x](https://youtu.be/MNJay8toO68?si=uSJHEX42qdFvpq3x)
 
+[Professor Karl Sigmund](https://en.wikipedia.org/wiki/Karl_Sigmund)
+
 # British Imperialism and the Pinnacle of the British Empire: India, the "Jewel in the Crown"
 
 The British Empire became the largest empire in history, spanning every inhabited continent. At its height in the early twentieth century, Britain governed nearly one-quarter of the world's land area and population.
