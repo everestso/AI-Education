@@ -1,7 +1,7 @@
 # Martin Nowak - Can Mathematics Explain Biology?
 [https://youtu.be/MNJay8toO68?si=uSJHEX42qdFvpq3x](https://youtu.be/MNJay8toO68?si=uSJHEX42qdFvpq3x)
 
-[Professor Karl Sigmund](https://en.wikipedia.org/wiki/Karl_Sigmund) / [Math Genes](https://mathgenealogy.org/id.php?id=70042)
+[Professor Karl Sigmund](https://en.wikipedia.org/wiki/Karl_Sigmund) / [Math Genes](https://mathgenealogy.org/id.php?fChrono=1&id=70042)
 
 # British Imperialism and the Pinnacle of the British Empire: India, the "Jewel in the Crown"
 
