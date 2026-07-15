@@ -24,6 +24,61 @@ Hurdle classes typically:
 - Require significant independent study and problem-solving.
 - Serve as prerequisites for many upper-division courses.
 - Often include comprehensive exams, major projects, or other rigorous assessments.
+
+## Example: Hurdle Classes in Nuclear Physics and Nuclear Engineering
+
+A Nuclear Physics or Nuclear Engineering curriculum contains multiple hurdle classes that progressively build the mathematical, scientific, and engineering foundation required for advanced study.
+
+```text
+General Education
+        │
+        ▼
+Calculus I
+        │
+        ▼
+Calculus II
+        │
+        ▼
+Calculus III
+        │
+        ▼
+Differential Equations
+        │
+        ▼
+University Physics I
+        │
+        ▼
+University Physics II
+        │
+        ▼
+Modern Physics
+        │
+        ▼
+Nuclear Physics
+        │
+        ▼
+Reactor Physics
+        │
+        ▼
+Nuclear Engineering
+        │
+        ▼
+Senior Design / Research
+```
+
+### Major Hurdle Classes
+
+As students progress through the curriculum, several courses commonly serve as significant academic hurdles:
+
+- **Calculus Sequence** – Develops the mathematical language needed for advanced physics and engineering.
+- **University Physics** – Introduces mechanics, electricity, magnetism, and waves that underpin nuclear science.
+- **Modern Physics** – Bridges classical physics to quantum mechanics, relativity, and atomic structure.
+- **Nuclear Physics** – Introduces nuclear structure, radioactive decay, nuclear reactions, and particle interactions.
+- **Reactor Physics** – Applies nuclear principles to neutron transport, reactor behavior, and chain reactions.
+
+Each hurdle class builds upon the previous one, making mastery of earlier material essential for success in later coursework.
+
+By the time students reach upper-division Nuclear Engineering courses, they are expected to comfortably integrate concepts from mathematics, physics, chemistry, and engineering into the analysis and design of complex nuclear systems.
   
 # Social and Administrative Structure of the British Empire
 
