@@ -27,6 +27,22 @@ Hurdle classes typically:
 
 ## Example: Hurdle Classes in Nuclear Physics and Nuclear Engineering
 
+> "I was changing, too. My teenage years were close at hand, and whatever natural moodiness I was destined to foist upon my family was spiked with the confusion of waking up each day to a single-parent household for reasons I still didn’t really understand.
+>
+> To my mother’s credit, she did her best to fill both parental roles. She knew well the straits of adolescent emotion I was tipping into, and made a point to listen, always, as my need to vent grew more frequent. But it wasn’t a substitute for an intact family. I couldn’t shake the feeling that my parents had chosen some inexplicable dream over me.
+>
+> To make matters worse, the supposed second phase of the plan—the one in which my mother and I would join my father in America—was continually delayed by the bureaucratic hurdles imposed by both countries’ migration procedures. Although my father lucked into a visa relatively quickly, we fared quite differently. It would be more than three years before either of us saw him again.
+>
+> In the meantime, I was losing my edge as a student. It was seventh grade, the year of my first physics class, and I was excited by the thought of applying my skills to a new subject. But something was wrong from day one. My intuitions had run aground, robbing me of the fluency I’d displayed in my math classes and confounding every attempt at understanding.
+>
+> I failed to visualize even the simplest concepts—including fundamentals like force and velocity—and after a year of misfires, I limped across the finish line with a bruised ego and cratering test scores.
+>
+> Was it the emotional toll of my father’s move? Was it mounting anxiety over my mother’s mysterious exhaustion? Or—and my stomach turned as I considered the thought—was that elementary school teacher right all along? Was this the grim fate that awaits every girl’s intellect?
+>
+> The worst part—even worse than my performance in the class—was having no answer."
+>
+> — Dr. Fei-Fei Li, *The Worlds I See*
+
 A Nuclear Physics or Nuclear Engineering curriculum contains multiple hurdle classes that progressively build the mathematical, scientific, and engineering foundation required for advanced study.
 
 ```text
