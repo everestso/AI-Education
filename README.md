@@ -1,3 +1,223 @@
+# Hurdle Classes
+
+The concept of **hurdle classes** refers to courses that serve as major gateways within a university degree program. These classes are intentionally rigorous and are designed to ensure that students have mastered the foundational knowledge and skills necessary to continue into more advanced coursework.
+
+## What Is a Hurdle Class?
+
+A **hurdle class** is a course that students must successfully complete before progressing to higher-level courses in their major. These courses often have high standards and may have higher rates of students earning low grades, withdrawing, or changing majors.
+
+## Primary Purposes
+
+Hurdle classes are designed to:
+
+- Ensure students possess the necessary prerequisite knowledge.
+- Identify students who are well-prepared for advanced study.
+- Maintain academic standards within the discipline.
+- Encourage students to develop effective study habits early in their program.
+
+## Common Characteristics
+
+Hurdle classes typically:
+
+- Are taken during the freshman or sophomore years.
+- Cover fundamental concepts that later courses build upon.
+- Require significant independent study and problem-solving.
+- Serve as prerequisites for many upper-division courses.
+- Often include comprehensive exams, major projects, or other rigorous assessments.
+  
+# Social and Administrative Structure of the British Empire
+
+The British Empire was governed through a hierarchical administrative system designed to maintain political control, collect revenue, facilitate trade, and protect imperial interests. While colonial administration varied across regions and periods, a general pattern emerged throughout much of the empire.
+
+---
+
+# Imperial Hierarchy
+
+```text
+British Monarch
+        │
+British Parliament
+        │
+Colonial Office / India Office
+        │
+Governor or Viceroy
+        │
+Colonial Civil Service
+        │
+Military & Police
+        │
+Local Princes, Chiefs, or Administrators
+        │
+General Population
+```
+
+---
+
+# The Crown
+
+At the top stood:
+
+* The British Monarch
+* The British Parliament
+* Government ministries in London
+
+They established imperial policy, appointed senior officials, and exercised ultimate authority over colonial affairs.
+
+---
+
+# Governors and Viceroys
+
+Each major colony was administered by a Governor or, in the case of India, a **Viceroy**, who represented the Crown.
+
+Their responsibilities included:
+
+* Maintaining law and order
+* Collecting taxes
+* Supervising colonial administration
+* Directing military forces
+* Reporting to London
+
+---
+
+# The Colonial Civil Service
+
+The empire relied heavily on a professional bureaucracy.
+
+Officials managed:
+
+* Courts
+* Railways
+* Public works
+* Finance
+* Customs
+* Education
+* Agriculture
+
+In India, the **Indian Civil Service (ICS)** became one of the most influential administrative organizations in the empire.
+
+---
+
+# Military and Police
+
+Colonial governments depended upon:
+
+* British military units
+* Locally recruited soldiers
+* Colonial police forces
+
+For example, the **British Indian Army** became one of the largest volunteer armies in history and served throughout the empire.
+
+---
+
+# Local Rulers and Elites
+
+Britain often governed **indirectly**.
+
+Instead of replacing every local ruler, it frequently worked through:
+
+* Princes
+* Tribal leaders
+* Chiefs
+* Local nobility
+
+These leaders retained varying degrees of local authority while recognizing British sovereignty.
+
+India contained hundreds of **Princely States**, where local rulers governed internal affairs under British oversight.
+
+---
+
+# The General Population
+
+Most colonial subjects continued their everyday lives within their own communities, languages, religions, and traditions.
+
+However, political authority ultimately rested with the colonial government.
+
+Access to political power, education, and senior administrative positions often differed by colony and changed over time.
+
+---
+
+# Social Structure
+
+A simplified social hierarchy in many colonies often resembled:
+
+```text
+British political leadership
+        │
+British administrators
+        │
+European merchants and professionals
+        │
+Educated local elite
+        │
+Local rulers and officials
+        │
+Farmers, laborers, artisans, and merchants
+```
+
+The exact structure varied significantly from one colony to another.
+
+---
+
+# Education
+
+Britain established schools and universities in many colonies.
+
+These institutions often educated a local professional class that later became:
+
+* Lawyers
+* Judges
+* Teachers
+* Engineers
+* Civil servants
+* Political leaders
+
+Many prominent leaders of post-colonial independence movements were educated within these systems.
+
+---
+
+# Indirect Rule vs. Direct Rule
+
+Britain generally employed two broad approaches.
+
+### Direct Rule
+
+The colonial government administered territory through British officials.
+
+Examples included:
+
+* Hong Kong
+* Many African colonies
+
+### Indirect Rule
+
+Britain governed through existing local rulers who remained in office under British supervision.
+
+Examples included:
+
+* Much of British India
+* Northern Nigeria
+* Several African protectorates
+
+This approach often reduced administrative costs while preserving aspects of existing political structures.
+
+---
+
+# Historical Perspective
+
+The British Empire was less a single uniform system than a network of colonies, protectorates, dominions, and princely states.
+
+Its administrative structure sought to combine:
+
+* Central authority from London
+* Professional civil administration
+* Local cooperation
+* Maritime power
+* Economic integration
+
+Although political control ended with decolonization, many administrative institutions—including civil services, courts, parliamentary systems, and universities—continued after independence and were adapted by the new sovereign states.
+
+Today, historians generally view this legacy as complex. The empire established enduring governmental and legal institutions in many regions, while also operating within a colonial framework characterized by unequal political power and varying degrees of exclusion from decision-making for local populations.
+
 # The Rise, Peak, and Legacy of the British Empire
 
 ## The Imperial Peak (Late 1800s – Early 1900s)
