@@ -1,3 +1,27 @@
+# Deb Haaland, *A Voice Like Mine*: "Kill the Indian, Save the Man"
+
+In ***A Voice Like Mine***, Deb Haaland discusses one of the most painful chapters in the history of Native American education: the federal Indian boarding school system. Central to this history is the phrase:
+
+> **"Kill the Indian, save the man."**
+
+This slogan became associated with **Captain Richard Henry Pratt**, founder of the **Carlisle Indian Industrial School** in Pennsylvania in 1879.
+
+Importantly, the phrase referred to a policy of **forced cultural assimilation**, not physical extermination. The underlying belief was that Indigenous peoples could become accepted members of American society only if their traditional cultures, languages, religions, and identities were replaced with Euro-American customs and values.
+
+In practice, Native American children were often removed from their families and placed in boarding schools where they were expected to:
+
+* Speak only English.
+* Adopt Western clothing and hairstyles.
+* Convert to Christianity or participate in Christian religious practices.
+* Learn Euro-American customs and vocational skills.
+* Abandon their tribal languages, traditions, and cultural identities.
+
+The goal of these schools extended beyond academic education. They were intended to **assimilate Indigenous children into mainstream American society** by replacing their cultural identity with that of the dominant society.
+
+Today, historians generally view these policies as a form of **forced cultural assimilation** or **cultural erasure**. Many scholars and Indigenous communities argue that the boarding school system caused profound intergenerational harm through the loss of language, family connections, cultural traditions, and community identity.
+
+In the context of ***A Voice Like Mine***, this phrase serves as a powerful symbol of educational policies that sought to reshape Indigenous identity rather than preserve or respect Native cultures. Haaland uses this history to illustrate how schools became instruments of broader government efforts to assimilate Native peoples, while also emphasizing the resilience of Indigenous communities and the importance of preserving Native languages, cultures, and traditions.
+
 # Why Successful British Colonies Ultimately Broke Free
 
 One of history's great ironies is that **the British Empire helped create many of the institutions that eventually enabled its colonies to govern themselves.**
