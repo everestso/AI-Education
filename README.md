@@ -1,3 +1,70 @@
+## Surya Ganguli: From String Theory to Artificial Intelligence
+
+One of the fascinating figures behind the early development of diffusion models is **Surya Ganguli**, whose academic journey illustrates how ideas from theoretical physics can profoundly influence modern AI.
+
+### Ph.D. in String Theory
+
+Ganguli earned his Ph.D. in Physics from the **University of California, Berkeley** under the supervision of **Petr Hořava**, a renowned theoretical physicist. His dissertation, *Geometry from Algebra: The Holographic Emergence of Spacetime in String Theory* (2004), investigated one of the deepest questions in modern physics:
+
+> **Can spacetime itself emerge from something more fundamental?**
+
+Rather than assuming that space and time are fundamental ingredients of the universe, Ganguli studied mathematical frameworks in which **geometry emerges from more primitive algebraic relationships**. His work drew upon ideas from:
+
+- String theory
+- Quantum field theory
+- Holography (AdS/CFT correspondence)
+- Differential geometry
+- Statistical mechanics
+
+The overarching goal was to understand how simple mathematical interactions can give rise to the rich geometric structure of our universe.
+
+### Transition to AI
+
+Following his work in theoretical physics, Ganguli transitioned into **computational neuroscience** and later **machine learning**, where he applied the same style of thinking to intelligent systems.
+
+Rather than viewing neural networks as collections of algorithms, his research asks questions such as:
+
+- Why do deep neural networks generalize so well?
+- How do useful internal representations emerge?
+- What governs the dynamics of learning?
+- Can tools from statistical physics explain deep learning?
+
+This perspective naturally led to work on **diffusion models**, where stochastic processes inspired by statistical physics become the foundation of modern generative AI.
+
+### A Common Scientific Theme
+
+Although string theory, neuroscience, and machine learning appear to be very different disciplines, they are connected by a common intellectual question:
+
+> **How do simple local interactions produce complex global behavior?**
+
+In string theory:
+
+```text
+Quantum algebra
+        ↓
+Emergent spacetime
+```
+
+In neuroscience:
+
+```text
+Individual neurons
+        ↓
+Emergent cognition
+```
+
+In deep learning:
+
+```text
+Millions of learned parameters
+        ↓
+Emergent representations
+        ↓
+Intelligent behavior
+```
+
+This emphasis on **emergence** has become a hallmark of Ganguli's research. His career demonstrates how mathematical ideas developed in theoretical physics can provide powerful insights into the behavior of modern AI systems.
+
 # Deb Haaland, *A Voice Like Mine*: "Kill the Indian, Save the Man"
 
 In ***A Voice Like Mine***, Deb Haaland discusses one of the most painful chapters in the history of Native American education: the federal Indian boarding school system. Central to this history is the phrase:
