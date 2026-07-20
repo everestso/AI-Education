@@ -1,3 +1,13 @@
+## Queen Rania of Jordan — Brief Biography
+
+**Queen Rania Al Abdullah** was born **Rania Al-Yassin** in Kuwait in 1970 to a Palestinian family. She attended the **New English School in Kuwait** and later earned a **bachelor’s degree in Business Administration** from the **American University in Cairo** in 1991.
+
+Before joining Jordan’s royal family, she developed a distinctly modern **business and technology background**. She worked in **marketing for Citibank in Jordan**, gaining experience in the financial-services sector, and later worked for **Apple in Amman**, placing her within an international technology company during the expansion of personal computing.
+
+She married then-Prince Abdullah in 1993 and became **Queen of Jordan in 1999**, when he became King Abdullah II. As queen, she has become internationally known for her work in **education, children’s welfare, community development, entrepreneurship, technology access, and cross-cultural understanding**.
+
+Her early professional experience in **banking, corporate marketing, and the technology sector** helped distinguish her as a contemporary royal figure with practical exposure to multinational business and modernization.
+
 ## Surya Ganguli: From String Theory to Artificial Intelligence
 
 One of the fascinating figures behind the early development of diffusion models is **Surya Ganguli**, whose academic journey illustrates how ideas from theoretical physics can profoundly influence modern AI.
