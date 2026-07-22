@@ -1,3 +1,22 @@
+## Together
+
+These four figures represent the evolution of the American West:
+
+- **Kit Carson** — The era of exploration, the fur trade, and the Santa Fe Trail.
+- **Buffalo Bill Cody** — The transition from the frontier to its popular mythology.
+- **Wild Bill Hickok** — The age of frontier lawmen, gamblers, and cattle towns.
+- **Calamity Jane** — The rugged spirit of frontier life and the legends that grew from it.
+
+Together, they bridge the gap between the historical frontier and the legendary American West that continues to capture the imagination today.
+
+[Santa Fe Institute](https://www.youtube.com/live/Ysh6RBAZB7k?si=TKo0hGMgnRJ30Lcn)
+
+[Santa Fe Institute w/ Benjamin Allen](https://santafe.edu/events/evolution-in-structured-populations)
+
+[Zorro Ranch](https://en.wikipedia.org/wiki/Zorro_Ranch)
+
+[Daniel Siad w/ Zorro Ranch & Santa Fe](https://en.wikipedia.org/wiki/Daniel_Siad)
+
 ## Queen Rania of Jordan — Brief Biography
 
 **Queen Rania Al Abdullah** was born **Rania Al-Yassin** in Kuwait in 1970 to a Palestinian family. She attended the **New English School in Kuwait** and later earned a **bachelor’s degree in Business Administration** from the **American University in Cairo** in 1991.
@@ -1612,22 +1631,7 @@ Rather than one civilization replacing the other, Persian and Turkic cultures be
 - **Calamity Jane (1852–1903)**  
   Frontier woman, scout (according to some accounts), entertainer, and one of the West's most colorful personalities. Although much of her life became intertwined with legend, she is remembered for surviving the hardships of frontier life and for her association with Wild Bill Hickok and Buffalo Bill's Wild West. [Bonnie & Clyde](https://en.wikipedia.org/wiki/Bonnie_and_Clyde)
 
-## Together
 
-These four figures represent the evolution of the American West:
-
-- **Kit Carson** — The era of exploration, the fur trade, and the Santa Fe Trail.
-- **Buffalo Bill Cody** — The transition from the frontier to its popular mythology.
-- **Wild Bill Hickok** — The age of frontier lawmen, gamblers, and cattle towns.
-- **Calamity Jane** — The rugged spirit of frontier life and the legends that grew from it.
-
-Together, they bridge the gap between the historical frontier and the legendary American West that continues to capture the imagination today.
-
-[Santa Fe Institute](https://www.youtube.com/live/Ysh6RBAZB7k?si=TKo0hGMgnRJ30Lcn)
-
-[Santa Fe Institute w/ Benjamin Allen](https://santafe.edu/events/evolution-in-structured-populations)
-
-[Zorro Ranch](https://en.wikipedia.org/wiki/Zorro_Ranch)
 
 # AI & Education / B. A.
 
