@@ -2,6 +2,8 @@
 
 [Dan Kang (CEO)](https://calistogacurrents.substack.com/p/global-stack-llc-pitches-a-statewide)
 
+[California w/ Flock Cameras](https://www.californiacriminaldefenselawyerblog.com/flock-cameras-in-california-how-theyre-used-the-legal-risks-they-create-and-how-a-criminal-defense-attorney-can-help/)
+
 ## Together
 
 These four figures represent the evolution of the American West:
