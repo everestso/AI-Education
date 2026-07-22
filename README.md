@@ -2,7 +2,7 @@
 
 [Dan Kang (CEO)](https://calistogacurrents.substack.com/p/global-stack-llc-pitches-a-statewide) 
 
-+ [Road & Track Newport Beach](https://www.roadandtrack.com/car-culture/a35082728/side-glances-reflections-on-1499-monrovia/)
++ [Road & Track @ 1499 Monrovia, Newport Beach](https://www.roadandtrack.com/car-culture/a35082728/side-glances-reflections-on-1499-monrovia/)
 
 [California w/ Flock Cameras](https://www.californiacriminaldefenselawyerblog.com/flock-cameras-in-california-how-theyre-used-the-legal-risks-they-create-and-how-a-criminal-defense-attorney-can-help/)
 
