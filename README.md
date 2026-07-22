@@ -1,4 +1,7 @@
 # Global Stack LLC (Santa Ana, CA)
+
+[Dan Kang (CEO)](https://calistogacurrents.substack.com/p/global-stack-llc-pitches-a-statewide)
+
 ## Together
 
 These four figures represent the evolution of the American West:
