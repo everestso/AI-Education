@@ -1,3 +1,179 @@
+# China's Major Investment in the Ethiopia–Djibouti Corridor
+
+Yes. You are probably thinking of **Ethiopia**, which borders **Djibouti** and has been one of China's largest investment destinations in Africa over the past two decades.
+
+China's involvement in the **Djibouti–Ethiopia corridor** is one of the flagship examples of the **Belt and Road Initiative (BRI).**
+
+---
+
+## Why Ethiopia?
+
+Ethiopia has several characteristics that made it especially attractive for Chinese investment:
+
+- Population of over **120 million**, making it Africa's second most populous nation.
+- Landlocked since Eritrea became independent in 1993.
+- More than **90% of Ethiopia's imports and exports move through the Port of Djibouti**, making the transportation corridor strategically essential. 
+
+China recognized that connecting Ethiopia to the Red Sea through Djibouti could create a major manufacturing and export hub.
+
+---
+
+# Major Chinese Investments
+
+## 1. Addis Ababa–Djibouti Railway
+
+One of China's largest infrastructure projects in Africa.
+
+- Approximately **750 km (466 miles)** long
+- Cost roughly **$4 billion**
+- Electrified—the first cross-border electric railway in Africa
+- Reduced freight travel from roughly one week by truck to about **10 hours by rail**. 
+
+---
+
+## 2. Industrial Parks
+
+China invested heavily in manufacturing zones, including:
+
+- Eastern Industrial Park
+- Hawassa Industrial Park
+- Numerous Chinese-owned factories
+
+These facilities manufacture:
+
+- Textiles
+- Shoes
+- Electronics
+- Garments
+
+The long-term goal has been to develop Ethiopia into a manufacturing center similar to China's own industrial expansion during the 1980s and 1990s.
+
+---
+
+## 3. Roads and Highways
+
+China financed and constructed hundreds of miles of highways connecting:
+
+- Industrial centers
+- Population centers
+- The railway
+- The Port of Djibouti
+
+---
+
+## 4. Electrical Infrastructure
+
+Chinese investment also expanded:
+
+- Power transmission lines
+- Electrical grid capacity
+- Hydroelectric support infrastructure
+
+Reliable electricity is essential for industrial manufacturing.
+
+---
+
+## 5. Addis Ababa Light Rail
+
+China financed and built:
+
+- The Addis Ababa Light Rail
+- The first modern light rail system in Sub-Saharan Africa
+
+It serves as the backbone of public transportation within Ethiopia's capital.
+
+---
+
+# Chinese Investment in Djibouti
+
+Although Djibouti has a population of only about one million people, it occupies one of the world's most strategic locations.
+
+Chinese investments include:
+
+- Doraleh Multipurpose Port
+- Container terminals
+- Free Trade Zone
+- Airport development
+- Water pipeline from Ethiopia
+- China's first overseas military base (opened in 2017). 
+
+---
+
+# The Strategic Vision
+
+China's long-term strategy can be summarized as:
+
+```text
+Chinese investment
+        ↓
+Manufacturing in Ethiopia
+        ↓
+Rail transport
+        ↓
+Port of Djibouti
+        ↓
+Red Sea
+        ↓
+Suez Canal
+        ↓
+European markets
+```
+
+Rather than focusing solely on extracting natural resources, China sought to build an integrated industrial and logistics network capable of exporting manufactured goods to Europe.
+
+---
+
+# One of China's Largest African Projects
+
+The **Horn of Africa**, especially **Ethiopia and Djibouti**, became one of the largest concentrations of Chinese infrastructure investment anywhere on the African continent.
+
+The investment spans multiple sectors:
+
+- Rail transportation
+- Ports
+- Manufacturing
+- Roads
+- Energy infrastructure
+- Logistics
+- Military support
+
+Together these projects form one of the flagship corridors of the **Belt and Road Initiative (BRI).** 
+
+---
+
+# Historical Comparison: Britain vs. China
+
+An interesting historical comparison can be made between British imperial strategy and modern Chinese strategy.
+
+## British Strategy (19th Century)
+
+Britain emphasized control of strategic maritime choke points such as:
+
+- The Suez Canal
+- Aden
+- Gibraltar
+- Malta
+
+Its strength rested primarily on naval power and control of sea routes.
+
+## Chinese Strategy (21st Century)
+
+China has emphasized economic infrastructure:
+
+- Ports
+- Railways
+- Industrial parks
+- Logistics hubs
+- Manufacturing capacity
+
+Rather than conquering territory, China has sought to increase influence by financing and constructing the infrastructure that supports trade and economic development.
+
+---
+
+## Summary
+
+The Ethiopia–Djibouti corridor represents one of the most ambitious infrastructure and economic development efforts undertaken by China outside its own borders. It illustrates China's broader strategy of combining transportation, industry, energy, and logistics into an integrated economic corridor that connects inland Africa with global markets through the Red Sea and the Suez Canal.
+
 # Great Britain, India, and China: Similarities and Differences in Imperial Strategy
 
 This question touches on one of the most interesting comparisons in the history of the British Empire. There are **clear structural similarities** between Britain's expansion in India and its growing influence in China, but there are also **critical differences** that explain why India became a formal colony while China became what historians often call an **informal empire** or **semi-colony**.
