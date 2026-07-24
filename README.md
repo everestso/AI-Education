@@ -1,3 +1,150 @@
+# Underlying Causes of the Iranian Hostage Crisis (1979–1981)
+
+The Iranian Hostage Crisis was not simply a reaction to one event. It resulted from decades of political intervention, authoritarian rule, and anti-Western sentiment, particularly directed toward Britain and the United States.
+
+---
+
+## 1. British Control of Iranian Oil
+
+During the early 20th century:
+
+- Britain dominated Iran's oil industry through the **Anglo-Iranian Oil Company (AIOC)** (later BP).
+- Iran received only a small share of the profits.
+- Many Iranians viewed the arrangement as economic exploitation.
+
+This fueled growing nationalist resentment.
+
+---
+
+## 2. Nationalization of Oil (1951)
+
+Prime Minister **Mohammad Mossadegh** sought to reclaim Iran's natural resources.
+
+He:
+
+- Nationalized the Anglo-Iranian Oil Company.
+- Argued that Iran should control and benefit from its own oil.
+
+Britain responded with:
+
+- Economic sanctions
+- An international oil boycott
+- Diplomatic pressure
+
+---
+
+## 3. The 1953 Coup (Operation Ajax)
+
+Fearing instability and communist influence during the Cold War, Britain and the United States supported a covert operation to remove Mossadegh.
+
+The CIA and Britain's MI6 helped restore:
+
+- Shah Mohammad Reza Pahlavi
+
+To many Iranians, the coup became evidence that foreign powers would overthrow a democratically chosen leader to protect their strategic and economic interests.
+
+---
+
+## 4. Rule of the Shah
+
+After 1953, the Shah ruled with strong U.S. support.
+
+His government pursued rapid modernization, including:
+
+- Industrialization
+- Expanded education
+- Women's rights reforms
+- Close ties with Western governments
+
+However, critics charged that his regime:
+
+- Restricted political freedoms
+- Relied on the secret police (SAVAK)
+- Suppressed opposition through imprisonment and torture
+
+Many Iranians came to associate the Shah's rule with foreign backing.
+
+---
+
+## 5. Growing Islamic Opposition
+
+Ayatollah Ruhollah Khomeini emerged as the leading religious critic of the Shah.
+
+He argued that:
+
+- Western influence threatened Iran's Islamic identity.
+- The Shah was too dependent on the United States.
+- Iran needed an Islamic government independent of foreign control.
+
+---
+
+## 6. The Iranian Revolution (1978–1979)
+
+Mass demonstrations and strikes forced the Shah to leave Iran in January 1979.
+
+Khomeini returned from exile and established the Islamic Republic.
+
+The revolution was driven by a broad coalition that included:
+
+- Religious groups
+- Nationalists
+- Students
+- Leftist organizations
+- Many ordinary citizens dissatisfied with the monarchy
+
+---
+
+## 7. The Immediate Trigger
+
+In October 1979:
+
+- The United States admitted the Shah for cancer treatment.
+
+Many Iranians feared this signaled another attempt—similar to 1953—to restore him to power.
+
+On **November 4, 1979**, Iranian students seized the U.S. Embassy in Tehran.
+
+They demanded:
+
+- The Shah's return to Iran for trial.
+- The return of his wealth.
+- An end to perceived U.S. interference.
+
+---
+
+## 8. The Hostage Crisis
+
+- **52 American diplomats and citizens** were held hostage.
+- The crisis lasted **444 days**.
+- It dominated U.S. foreign policy during the Carter administration.
+- The hostages were released on **January 20, 1981**, the day Ronald Reagan was inaugurated.
+
+---
+
+# Long-Term Significance
+
+The Hostage Crisis:
+
+- Ended the close U.S.–Iran alliance.
+- Cemented the Islamic Republic's anti-American identity.
+- Led to decades of sanctions and diplomatic hostility.
+- Remains a defining event in modern U.S.–Iran relations.
+
+---
+
+# Timeline
+
+| Year | Event |
+|------|-------|
+| 1901 | British oil concession granted in Persia |
+| 1908 | Oil discovered; Anglo-Persian Oil Company formed |
+| 1951 | Mossadegh nationalizes Iranian oil |
+| 1953 | CIA/MI6-backed coup restores the Shah |
+| 1963–1978 | Growing opposition to the Shah |
+| 1979 | Iranian Revolution; Shah flees; Khomeini returns |
+| Nov. 1979 | U.S. Embassy seized; Hostage Crisis begins |
+| Jan. 1981 | Hostages released after 444 days |
+
 # Great Britain and the Middle East Oil Game
 
 Great Britain was the dominant Western power in the Middle East oil industry during the first half of the 20th century. Its influence combined colonial rule, protectorates, military power, and control of major oil companies. Much of the modern Middle East oil landscape was shaped by British policy.
