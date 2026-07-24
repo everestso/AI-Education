@@ -1,5 +1,7 @@
 # Cultural Assimilation Under British Rule in India
 
+[Mimicry](https://en.wikipedia.org/wiki/Homi_K._Bhabha)
+
 British rule in India is best understood as **institutional and educational assimilation rather than complete cultural assimilation**. Unlike the French model of direct cultural assimilation, the British generally sought to create a stable, governable colony by introducing British institutions while leaving much of India's religion, language, and social traditions intact.
 
 ## 1. Economic Integration
