@@ -1,3 +1,195 @@
+# Great Britain and the Middle East Oil Game
+
+Great Britain was the dominant Western power in the Middle East oil industry during the first half of the 20th century. Its influence combined colonial rule, protectorates, military power, and control of major oil companies. Much of the modern Middle East oil landscape was shaped by British policy.
+
+---
+
+## 1. Strategic Interests Before Oil (1800s)
+
+Before petroleum became important, Britain sought to protect the sea route to India by controlling key maritime chokepoints:
+
+- Suez Canal
+- Red Sea
+- Persian Gulf
+
+This led Britain to establish influence over:
+
+- Egypt
+- Aden (Yemen)
+- Kuwait
+- Bahrain
+- Qatar
+- Oman
+- Trucial States (modern UAE)
+
+---
+
+## 2. The Discovery of Persian Oil (1901–1908)
+
+- **1901:** William Knox D'Arcy received an oil concession from the Shah of Persia.
+- **1908:** Oil was discovered.
+- The **Anglo-Persian Oil Company (APOC)** was formed (later **British Petroleum (BP)**).
+
+This marked the beginning of Britain's direct involvement in Middle Eastern oil.
+
+---
+
+## 3. Oil Becomes National Security (1914)
+
+Winston Churchill recognized that the Royal Navy needed to convert from coal to oil.
+
+To secure a reliable supply:
+
+- Britain purchased a **51% stake** in APOC.
+- Middle Eastern oil became a strategic national asset.
+
+---
+
+## 4. World War I
+
+Britain fought the Ottoman Empire to secure oil-rich territory, capturing:
+
+- Basra
+- Baghdad
+- Mosul
+
+These regions became the foundation of modern Iraq's petroleum industry.
+
+---
+
+## 5. British Mandate of Iraq
+
+Following World War I, Britain governed Iraq under a League of Nations Mandate.
+
+Britain exercised substantial control over:
+
+- Government
+- Military
+- Foreign affairs
+- Oil development
+
+---
+
+## 6. Iraq Petroleum Company
+
+Britain dominated Iraq's oil through the **Iraq Petroleum Company (IPC)**.
+
+Major partners included:
+
+- Anglo-Persian Oil
+- Royal Dutch Shell
+- French interests
+- Later, American companies
+
+The **Red Line Agreement (1928)** divided much of the former Ottoman oil region among these firms.
+
+---
+
+## 7. The Persian Gulf Protectorates
+
+Britain maintained protectorate relationships with:
+
+- Kuwait
+- Bahrain
+- Qatar
+- Trucial States (UAE)
+
+Britain controlled:
+
+- Defense
+- Foreign policy
+
+British-led companies received many of the major oil concessions.
+
+---
+
+## 8. Oman
+
+Although never formally colonized, Oman relied heavily on Britain for:
+
+- Military support
+- Political advisers
+- Security
+
+British companies also received significant oil concessions.
+
+---
+
+## 9. Saudi Arabia: Britain's Missed Opportunity
+
+Saudi Arabia became the major exception.
+
+- **1933:** Standard Oil of California secured the principal oil concession.
+- This eventually evolved into **ARAMCO**.
+
+American, rather than British, influence became dominant in Saudi Arabia.
+
+---
+
+## 10. Iran and the Oil Nationalization Crisis
+
+Britain's greatest setback occurred in Iran.
+
+- The **Anglo-Iranian Oil Company** controlled most Iranian oil production.
+- In **1951**, Prime Minister **Mohammad Mossadegh** nationalized the industry.
+
+Britain responded with:
+
+- Economic embargoes
+- Legal challenges
+- Intelligence operations
+
+In **1953**, Britain's **MI6** and the U.S. **CIA** supported **Operation Ajax**, which removed Mossadegh and restored the Shah.
+
+---
+
+## 11. The Suez Crisis (1956)
+
+Egypt nationalized the Suez Canal.
+
+Britain, France, and Israel invaded Egypt but withdrew under strong U.S. and international pressure.
+
+The crisis marked the end of Britain as the dominant Western power in the Middle East.
+
+---
+
+## 12. Withdrawal from the Gulf (1971)
+
+Britain ended its military presence "East of Suez."
+
+Independence followed for:
+
+- Bahrain
+- Qatar
+- United Arab Emirates
+
+Although British political control ended, companies such as BP remained major players in regional energy development.
+
+---
+
+# British Influence by Country
+
+| Country | Level of British Influence |
+|----------|----------------------------|
+| Egypt | Military occupation (1882–1956) |
+| Iraq | League of Nations Mandate |
+| Kuwait | Protectorate |
+| Bahrain | Protectorate |
+| Qatar | Protectorate |
+| UAE (Trucial States) | Protectorates |
+| Oman | Strong informal influence |
+| Iran | Economic dominance through APOC/BP |
+| Saudi Arabia | Limited; U.S. became dominant |
+
+---
+
+# Key Takeaways
+
+- Britain was the **principal Western power** in Middle Eastern oil from roughly **1900 to 1956**.
+- British influence ranged from **formal colonial administration** to **protectorates**, **economic control**, and **ownership of oil companies**.
+- The creation of **BP**, the British Mandate in Iraq, and Britain's Gulf protectorates gave London enormous leverage over global oil supplies.
+- Following the **Suez Crisis (1956)**, British influence declined while the **United States** emerged as the dominant external power in the region.
+
 # China's Major Investment in the Ethiopia–Djibouti Corridor
 
 Yes. You are probably thinking of **Ethiopia**, which borders **Djibouti** and has been one of China's largest investment destinations in Africa over the past two decades.
