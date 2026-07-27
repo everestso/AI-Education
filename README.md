@@ -1,3 +1,201 @@
+# The "Use-It or Lose-It" Principle of Military Power
+
+Unlike many national assets, military capability cannot simply be stored indefinitely and expected to remain fully effective.
+
+Its value depends upon continual maintenance, training, testing, and adaptation.
+
+The principle is less about "using" military force in war than about continuously exercising the entire military system.
+
+---
+
+# 1. Personnel Readiness
+
+Military skills deteriorate without practice.
+
+Regular activities include:
+
+- Field exercises
+- Flight hours
+- Naval deployments
+- Live-fire training
+- Joint operations
+- Command exercises
+
+Experience cannot be stockpiled.
+
+---
+
+# 2. Testing Equipment
+
+Weapons systems must be continually evaluated.
+
+This includes:
+
+- Reliability testing
+- Operational exercises
+- Environmental testing
+- Software updates
+- Maintenance cycles
+
+Equipment that appears effective on paper may reveal weaknesses only through sustained operational use or realistic training.
+
+---
+
+# 3. Organizational Learning
+
+Military organizations constantly refine:
+
+- Doctrine
+- Command structures
+- Logistics
+- Communications
+- Intelligence integration
+
+Exercises often expose problems that peacetime planning alone cannot identify.
+
+---
+
+# 4. Technological Evolution
+
+Potential adversaries continuously improve.
+
+Military effectiveness therefore requires ongoing:
+
+- Research
+- Experimentation
+- Procurement
+- Modernization
+
+Failure to adapt can rapidly erode military advantage.
+
+---
+
+# 5. Industrial Capacity
+
+Defense industries require continuous activity.
+
+Without ongoing production:
+
+- Skilled workers retire.
+- Supply chains disappear.
+- Specialized manufacturing capability is lost.
+- Restarting production becomes slow and expensive.
+
+Many countries therefore procure equipment steadily rather than only during crises.
+
+---
+
+# 6. Stockpile Renewal
+
+Military inventories have finite lifespans.
+
+Examples include:
+
+- Missiles
+- Ammunition
+- Explosives
+- Batteries
+- Electronic components
+
+These items eventually expire, requiring replacement regardless of whether they are used in combat.
+
+---
+
+# 7. Operational Experience
+
+Real-world operations provide insights unavailable through simulation alone.
+
+These may include:
+
+- Peacekeeping
+- Disaster relief
+- Anti-piracy missions
+- Humanitarian assistance
+- Limited combat operations
+
+Such missions help validate doctrine and reveal practical challenges.
+
+---
+
+# 8. Deterrence
+
+Military capability must also be visible.
+
+Exercises, deployments, and multinational operations communicate that a force is:
+
+- Ready
+- Capable
+- Credible
+
+Deterrence depends not only on possessing military power but on convincing others that it can be effectively employed if necessary.
+
+---
+
+# The Strategic Cycle
+
+Military capability follows a continuous cycle:
+
+```
+Research
+      ↓
+Development
+      ↓
+Production
+      ↓
+Training
+      ↓
+Exercises
+      ↓
+Evaluation
+      ↓
+Modernization
+      ↓
+Research
+```
+
+The cycle never truly ends.
+
+---
+
+# Historical Examples
+
+Throughout history, major powers have relied on continual military activity to sustain readiness.
+
+Examples include:
+
+- The Roman legions conducting regular frontier patrols and engineering projects.
+- The Royal Navy maintaining a constant global presence during the nineteenth century.
+- The U.S. military conducting multinational exercises and rotational deployments.
+- Modern navies performing freedom-of-navigation operations and joint exercises.
+
+Most of this activity occurs below the threshold of war.
+
+---
+
+# The Broader Principle
+
+Military power resembles a living institution more than a stored asset.
+
+Its effectiveness depends upon continual investment in:
+
+- People
+- Technology
+- Organizations
+- Industry
+- Experience
+
+Without sustained readiness and adaptation, even the most advanced military gradually loses credibility and effectiveness.
+
+---
+
+# An Important Caveat
+
+The "use-it or lose-it" principle does **not** imply that nations benefit from seeking armed conflict.
+
+Professional militaries generally prefer rigorous training, realistic exercises, and limited operational missions over major wars, because large-scale conflict is costly, unpredictable, and destructive.
+
+The objective is to maintain a force that is **ready enough that it rarely has to fight**, while remaining capable if deterrence fails.
+
 # The Role of Military Force in Neo-Imperialism
 
 Military force remains important in the modern world, but its role has shifted.
