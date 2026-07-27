@@ -1,3 +1,170 @@
+# Neo-Imperialism and the Constraint of the Global Economy
+
+One of the defining characteristics of modern great-power competition is that military force increasingly operates within a highly interconnected global economy.
+
+Unlike the colonial era, where wars were often fought over distant territories with relatively limited global economic integration, today's major powers are deeply dependent upon:
+
+- Global trade
+- International finance
+- Supply chains
+- Energy markets
+- Technology ecosystems
+- Maritime commerce
+
+This creates a new strategic constraint.
+
+---
+
+# The Economic Constraint
+
+Modern military operations are judged by two simultaneous objectives:
+
+1. Achieve strategic or political goals.
+2. Avoid unnecessary disruption to the broader international economic system.
+
+Success therefore requires balancing military effectiveness against economic stability.
+
+---
+
+# Why This Matters
+
+Every major economy today depends upon global networks.
+
+Disruptions to:
+
+- Oil shipments
+- Container shipping
+- Semiconductor production
+- Financial markets
+- Internet infrastructure
+
+can quickly affect countries far removed from the conflict.
+
+As a result, military actions increasingly carry worldwide economic consequences.
+
+---
+
+# The Coalition Constraint
+
+When conflict begins harming the economies of neutral countries or allies, political pressure often grows.
+
+Allies may begin urging restraint because they face:
+
+- Inflation
+- Energy shortages
+- Supply chain disruptions
+- Reduced exports
+- Domestic political pressure
+
+Military coalitions therefore operate within economic as well as military limits.
+
+---
+
+# Military Power Under Economic Constraints
+
+Modern military planning increasingly seeks to:
+
+- Limit escalation.
+- Protect major trade routes.
+- Avoid uncontrolled regional wars.
+- Preserve critical infrastructure where possible.
+- Maintain confidence in international markets.
+
+Military success alone may be insufficient if it comes at the cost of severe global economic instability.
+
+---
+
+# Strategic Chokepoints
+
+Locations such as:
+
+- Strait of Hormuz
+- Suez Canal
+- Bab el-Mandeb
+- Taiwan Strait
+
+matter because they connect the world economy.
+
+Disrupting them can produce consequences far beyond the immediate battlefield.
+
+---
+
+# Economic Feedback
+
+Modern conflicts generate rapid international feedback.
+
+```
+Military Action
+        ↓
+Market Reaction
+        ↓
+Economic Disruption
+        ↓
+Political Pressure
+        ↓
+Diplomatic Influence
+        ↓
+Military Decision-Making
+```
+
+Economic consequences now influence military strategy in near real time.
+
+---
+
+# Examples
+
+## Ukraine
+
+The war affected:
+
+- Global grain exports
+- Energy markets
+- Fertilizer supplies
+- Shipping insurance
+- European energy security
+
+Many governments adjusted their policies not only because of military developments but also because of economic consequences.
+
+---
+
+## Middle East
+
+Concerns over disruptions to:
+
+- Oil production
+- LNG shipments
+- Maritime shipping
+- Insurance costs
+
+often influence the responses of countries well beyond the region.
+
+Even the possibility of disruption can move global markets.
+
+---
+
+# A New Strategic Principle
+
+Classical empires often sought victory by controlling territory.
+
+Modern great powers increasingly seek to achieve political objectives while preserving the stability of the global systems upon which their own prosperity depends.
+
+Military operations therefore face a dual challenge:
+
+- Demonstrate credible force.
+- Avoid destabilizing the international economic order that sustains national wealth.
+
+---
+
+# A Central Tension of Neo-Imperialism
+
+This creates one of the defining paradoxes of modern great-power competition.
+
+The nations with the greatest capacity to project military power are often the same nations that benefit most from a stable, predictable, and interconnected global economy.
+
+Consequently, military strategy increasingly involves managing escalation as carefully as applying force.
+
+The objective is not merely to prevail in conflict, but to do so without causing cascading economic damage that weakens allies, strengthens competitors, or undermines one's own long-term strategic position.
+
 # Modern Warfare and Neo-Imperialism
 
 ## A Historical Evolution of Power
