@@ -1,3 +1,212 @@
+# The Role of Military Force in Neo-Imperialism
+
+Military force remains important in the modern world, but its role has shifted.
+
+Classical empires often used military power to **conquer and directly govern territory**.
+
+Modern great powers more often use military strength to **protect systems of influence** rather than administer colonies.
+
+---
+
+# Classical Imperialism
+
+Military power directly enabled empire.
+
+Armies and navies were used to:
+
+- Conquer territory
+- Suppress rebellions
+- Install colonial governments
+- Protect trade monopolies
+- Expand imperial borders
+
+Economic wealth flowed from political control.
+
+---
+
+# Neo-Imperialism
+
+Military force is usually one step removed.
+
+Instead of governing territory, military power helps preserve conditions favorable to:
+
+- International trade
+- Investment
+- Strategic alliances
+- Energy supplies
+- Maritime commerce
+- Technological leadership
+
+Economic influence becomes the primary instrument, while military power provides strategic backing.
+
+---
+
+# Military as a Security Guarantee
+
+Modern military power performs several functions.
+
+## Protecting Trade Routes
+
+Global commerce depends upon secure:
+
+- Sea lanes
+- Shipping chokepoints
+- Undersea communication cables
+- Air routes
+
+Historically Britain performed this role.
+
+Today, the United States Navy provides security across many major maritime routes, while China has expanded its own naval presence to protect its growing overseas trade.
+
+---
+
+## Deterrence
+
+Military strength discourages rivals from interfering with:
+
+- Trade
+- Investments
+- Strategic infrastructure
+- Allies
+
+Often, the military's greatest influence lies in **not** being used.
+
+---
+
+## Supporting Alliances
+
+Security partnerships frequently reinforce economic relationships.
+
+Examples include:
+
+- NATO
+- U.S.–Japan alliance
+- U.S.–South Korea alliance
+- China's expanding security partnerships in parts of Asia and Africa
+
+Economic cooperation and military cooperation often reinforce one another.
+
+---
+
+## Protecting Overseas Interests
+
+Modern powers increasingly maintain military capabilities that can support:
+
+- Citizens abroad
+- Commercial shipping
+- Overseas infrastructure
+- Strategic investments
+
+These missions differ from governing colonies but reflect the globalization of national interests.
+
+---
+
+# Comparing Britain, the United States, and China
+
+## British Empire
+
+Military power enabled:
+
+- Colonial conquest
+- Permanent occupation
+- Imperial administration
+
+Military force and government were inseparable.
+
+---
+
+## United States
+
+The United States generally does not seek formal colonies.
+
+Instead, it projects power through:
+
+- Global military bases
+- Naval dominance
+- Alliances
+- Air power
+- Deterrence
+
+These capabilities support a broader international system in which the U.S. plays a leading role.
+
+---
+
+## China
+
+China has expanded:
+
+- Naval capabilities
+- Overseas logistics facilities
+- Maritime presence
+- Strategic infrastructure investments
+
+Its Belt and Road Initiative is primarily economic, but growing military capabilities can help protect overseas interests.
+
+---
+
+# The Key Difference
+
+Classical imperialism often sought:
+
+> **Control territory first; wealth follows.**
+
+Neo-imperial influence often seeks:
+
+> **Build economic influence first; maintain the stability needed for it to endure.**
+
+Military force remains part of the equation, but usually serves as an enabling condition rather than the principal mechanism of governance.
+
+---
+
+# A Useful Framework
+
+Military power can be viewed as operating on three levels.
+
+### 1. Direct Control
+
+- Occupation
+- Colonial administration
+- Territorial conquest
+
+This is the classical imperial model.
+
+---
+
+### 2. Strategic Influence
+
+- Alliances
+- Forward deployment
+- Naval presence
+- Security guarantees
+
+This characterizes much of modern great-power competition.
+
+---
+
+### 3. Credible Backstop
+
+Often the greatest value of military strength is that it rarely needs to be employed.
+
+Its existence influences decisions by allies, competitors, and investors by shaping expectations about what actions are feasible or too risky.
+
+---
+
+# Summary
+
+Military force has not disappeared from global politics—it has evolved.
+
+Modern great powers typically rely first on:
+
+- Economic influence
+- Technology
+- Finance
+- Diplomacy
+- International institutions
+
+Military power provides the strategic foundation that protects these interests when diplomacy or economic tools are insufficient.
+
+In this sense, military power functions less as the engine of modern influence than as its ultimate guarantor.
+
 # Modern Wealth, Global Inequality, and "Neo-Imperialism"
 
 The classical British Empire accumulated wealth through direct political control over territory, taxation, trade monopolies, and access to strategic resources.
