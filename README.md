@@ -1,3 +1,283 @@
+# Modern Warfare and Neo-Imperialism
+
+## A Historical Evolution of Power
+
+Over the past five centuries, the dominant mechanism for projecting national power has gradually shifted.
+
+| Era | Primary Source of Power | Primary Military Function |
+|------|-------------------------|---------------------------|
+| Age of Exploration | Naval exploration | Open trade routes and establish colonies |
+| Classical Colonialism | Territorial empire | Conquer and administer territory |
+| Industrial Age | Industrial production | Protect colonies and resources |
+| Cold War | Nuclear deterrence | Prevent great-power war through balance |
+| Information Age | Technology, finance, data | Protect global economic and information systems |
+
+The military has evolved from **occupying land** to **protecting networks**.
+
+---
+
+# Classical Imperialism
+
+Classical empires sought control over:
+
+- Territory
+- Populations
+- Resources
+- Taxation
+- Trade routes
+
+Military conquest produced political authority.
+
+Political authority generated economic wealth.
+
+The chain was:
+
+```
+Military
+      ↓
+Political Control
+      ↓
+Economic Extraction
+      ↓
+National Wealth
+```
+
+---
+
+# Neo-Imperialism
+
+Modern great powers often seek influence through systems rather than direct territorial rule.
+
+Examples include:
+
+- Financial markets
+- Reserve currencies
+- Technology platforms
+- Intellectual property
+- Supply chains
+- Energy infrastructure
+- Digital communications
+- International standards
+
+The military now primarily protects these systems.
+
+The chain becomes:
+
+```
+Military Credibility
+         ↓
+Stable International Order
+         ↓
+Economic Networks
+         ↓
+Technological Leadership
+         ↓
+National Wealth
+```
+
+---
+
+# Modern Warfare Reflects This Shift
+
+Recent conflicts demonstrate that military objectives increasingly target networks rather than permanent occupation.
+
+Examples include:
+
+## Ukraine
+
+Military emphasis includes:
+
+- Drone warfare
+- Precision missile strikes
+- Electronic warfare
+- Logistics disruption
+- Infrastructure attacks
+- Cyber operations
+
+The objective often extends beyond battlefield victory to degrading the opponent's military and economic systems.
+
+---
+
+## Israel–Hamas
+
+Operations have included:
+
+- Precision air strikes
+- Urban combat
+- Intelligence-driven targeting
+- Tunnel warfare
+- Maritime restrictions
+- Information operations
+
+Military action focuses on both physical and organizational networks.
+
+---
+
+## Israel–Iran / U.S.–Iran
+
+Competition has centered on:
+
+- Ballistic missiles
+- Long-range drones
+- Cyber operations
+- Air defense
+- Intelligence
+- Strategic deterrence
+
+Direct territorial conquest has played a relatively limited role.
+
+---
+
+# Strategic Chokepoints
+
+Modern military competition frequently centers on controlling flows rather than territory.
+
+Examples include:
+
+- Strait of Hormuz
+- Suez Canal
+- Bab el-Mandeb
+- Taiwan Strait
+- South China Sea
+- Major undersea communication cables
+
+The objective is often to influence:
+
+- Trade
+- Energy
+- Shipping
+- Communications
+
+rather than annex land.
+
+---
+
+# The New Domains of Warfare
+
+Modern militaries increasingly operate across interconnected domains.
+
+| Domain | Strategic Objective |
+|---------|---------------------|
+| Land | Territorial control when necessary |
+| Sea | Protect commerce and maritime access |
+| Air | Precision strike and deterrence |
+| Space | Navigation, communications, surveillance |
+| Cyber | Disrupt networks and infrastructure |
+| Information | Shape perceptions and political will |
+| Economic | Influence financial and technological systems |
+
+Victory increasingly depends on coordinating these domains.
+
+---
+
+# Military Power as Strategic Insurance
+
+Military strength now serves multiple purposes.
+
+It:
+
+- Protects trade routes.
+- Deters aggression.
+- Reassures allies.
+- Safeguards overseas investments.
+- Supports diplomatic leverage.
+- Reinforces economic credibility.
+
+Much of its influence comes from its **credible availability**, not its continual use.
+
+---
+
+# Neo-Imperial Competition
+
+Modern competition increasingly revolves around leadership in:
+
+- Artificial intelligence
+- Semiconductor technology
+- Financial systems
+- Global supply chains
+- Critical minerals
+- Telecommunications
+- Maritime infrastructure
+- Space systems
+
+Military capability provides strategic backing for these forms of influence.
+
+---
+
+# The New "Empire"
+
+The nineteenth century asked:
+
+> **Who controls the territory?**
+
+The twenty-first century increasingly asks:
+
+> **Who controls the networks?**
+
+Those networks include:
+
+- Data
+- Capital
+- Shipping
+- Technology
+- Communications
+- Energy
+- Standards
+- Artificial intelligence
+
+Military power remains essential, but it increasingly functions as the guarantor of access to these networks rather than as the direct administrator of colonies.
+
+---
+
+# A Synthesis
+
+Viewed across history, the evolution of great-power competition can be summarized as:
+
+```
+Colonial Era
+Military
+      ↓
+Territory
+      ↓
+Resources
+      ↓
+Wealth
+
+↓
+
+Industrial Era
+Industry
+      ↓
+Military
+      ↓
+Empire
+      ↓
+Wealth
+
+↓
+
+Modern Era
+Technology
+      ↓
+Economic Networks
+      ↓
+Military Security
+      ↓
+Global Influence
+      ↓
+National Wealth
+```
+
+The central objective has remained remarkably consistent:
+
+**To secure long-term national prosperity by controlling the systems upon which economic power depends.**
+
+What has changed is the primary object of control.
+
+For nineteenth-century empires, that object was territory.
+
+For twenty-first-century great powers, it is increasingly networks.
+
 # The "Use-It or Lose-It" Principle of Military Power
 
 Unlike many national assets, military capability cannot simply be stored indefinitely and expected to remain fully effective.
