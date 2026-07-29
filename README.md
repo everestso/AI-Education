@@ -20,9 +20,9 @@ This meeting was held in St. Thomas, U. S. Virgin Islands, on April 14-16, 2002.
   width="300"
 />
 
-[https://en.wikipedia.org/wiki/National_Crime_Syndicate](https://en.wikipedia.org/wiki/National_Crime_Syndicate)
-
 # Westec Security, Nicole Brown Simpson, and the O.J. Simpson Trial
+
+[https://en.wikipedia.org/wiki/National_Crime_Syndicate](https://en.wikipedia.org/wiki/National_Crime_Syndicate)
 
 ## Overview
 
