@@ -3,7 +3,7 @@
 
 [https://cogaffarchive.org/AIMag/StThomas-AIMag.pdf](https://cogaffarchive.org/AIMag/StThomas-AIMag.pdf)
 
-[MOSSAD](https://en.wikipedia.org/wiki/Mossad)
+[MOSSAD](https://en.wikipedia.org/wiki/Mossad) / [Quds Force](https://en.wikipedia.org/wiki/Quds_Force)
 
 [Long Island Lolita](https://en.wikipedia.org/wiki/Amy_Fisher)
 
