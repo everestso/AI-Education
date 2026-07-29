@@ -11,6 +11,12 @@
 
 [Benjamin Netanyahu](https://en.wikipedia.org/wiki/Benjamin_Netanyahu) / [Henry Kissinger](https://en.wikipedia.org/wiki/Henry_Kissinger) / [Golda Meir](https://en.wikipedia.org/wiki/Golda_Meir)
 
+<img
+  src="dl.2.jpg"
+  alt="license"
+  width="300"
+/>
+
 # Nuisance IT Issues
 
 ## Overview
