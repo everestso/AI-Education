@@ -1,3 +1,14 @@
+# THE ST. THOMAS COMMON SENSE SYMPOSIUM:
+## DESIGNING ARCHITECTURES FOR HUMAN-LEVEL INTELLIGENCE
+
+[https://cogaffarchive.org/AIMag/StThomas-AIMag.pdf](https://cogaffarchive.org/AIMag/StThomas-AIMag.pdf)
+
+[MOSSAD](https://en.wikipedia.org/wiki/Mossad)
+
+[Long Island Lolita](https://en.wikipedia.org/wiki/Amy_Fisher)
+
+[Long Island Iced Tea](https://en.wikipedia.org/wiki/Long_Island_iced_tea)
+
 # Nuisance IT Issues
 
 ## Overview
