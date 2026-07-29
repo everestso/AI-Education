@@ -1,4 +1,7 @@
 # THE ST. THOMAS COMMON SENSE SYMPOSIUM:
+
+This meeting was held in St. Thomas, U. S. Virgin Islands, on April 14-16, 2002. The meeting included the following participants: Larry Birnbaum, Ken Forbus, Ben Kuipers, Douglas Lenat, Henry Lieberman, Henry Minsky, Marvin Minsky, Erik Mueller, Srini Narayanan, Ashwin Ram, Doug Riecken, Roger Schank, Mary Shepard, Push Singh, Jeffrey Mark Siskind, Aaron Sloman, Oliver Steele, Linda Stone, Vernor Vinge, and Michael Witbrock. 
+
 ## DESIGNING ARCHITECTURES FOR HUMAN-LEVEL INTELLIGENCE
 
 [https://cogaffarchive.org/AIMag/StThomas-AIMag.pdf](https://cogaffarchive.org/AIMag/StThomas-AIMag.pdf)
