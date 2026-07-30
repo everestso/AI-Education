@@ -2,7 +2,7 @@
 
 This meeting was held in St. Thomas, U. S. Virgin Islands, on April 14-16, 2002. The meeting included the following participants: Larry Birnbaum, Ken Forbus, Ben Kuipers, Douglas Lenat, Henry Lieberman, Henry Minsky, Marvin Minsky, Erik Mueller, Srini Narayanan, Ashwin Ram, Doug Riecken, Roger Schank, Mary Shepard, Push Singh, Jeffrey Mark Siskind, Aaron Sloman, Oliver Steele, Linda Stone, Vernor Vinge, and Michael Witbrock. 
 
-[Roger Schank w/ Case-Based Reasoning](https://en.wikipedia.org/wiki/Case-based_reasoning)
+[Roger Schank w/ Case-Based Reasoning](https://en.wikipedia.org/wiki/Case-based_reasoning) w/ [Janet Kolodner & Sliding Tiles](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780934613415500210)
 
 ## DESIGNING ARCHITECTURES FOR HUMAN-LEVEL INTELLIGENCE
 
