@@ -12,6 +12,239 @@ This meeting was held in St. Thomas, U. S. Virgin Islands, on April 14-16, 2002.
 
 ( [MOSSAD](https://en.wikipedia.org/wiki/Mossad) x [Quds Force](https://en.wikipedia.org/wiki/Quds_Force) ) / [Boltzmann machine](https://en.wikipedia.org/wiki/Boltzmann_machine)
 
+# Temporal Reasoning Example: Who Took the Microfilm?
+
+One of the classic examples in AI temporal reasoning comes from the 1994 AAAI paper **"Temporal Reasoning with Constraints on Fluents and Events"** by Eddie Schwalb, Kalev Kask, and Rina Dechter. The paper introduces a logical language for representing **events**, **states of the world (fluents)**, and **temporal constraints** so that an AI system can reason about what **must have happened**, **what could have happened**, and **what is impossible**. :contentReference[oaicite:0]{index=0}
+
+---
+
+## The Story
+
+Imagine the following situation:
+
+> **8:00 AM:** The microfilm is deposited in a secure safe.
+>
+> **11:00 AM:** The microfilm is discovered to be missing.
+>
+> **John's whereabouts**
+> - At the bar from **8:10–8:30**
+> - At the poker table from **8:35–9:00**
+> - Back at the bar from **9:10–12:00**
+>
+> **Fred's whereabouts**
+> - At the bar from **8:30–10:00**
+> - Back at the bar from **10:45–12:00**
+>
+> The bar is open from **7:30 AM to 12:00 PM**.
+>
+> Anyone who leaves the bar, steals the microfilm, and returns requires **at least 15 minutes**.
+
+Now suppose we ask:
+
+- **Did Fred take the microfilm?**
+- **Could John have taken the microfilm?**
+- **What are all of the possible sequences of events that satisfy every fact in the story?**
+
+Humans can reason through these questions fairly naturally, even without knowing the exact distances or walking speeds. The challenge is enabling a computer to perform the same kind of reasoning. :contentReference[oaicite:1]{index=1}
+
+---
+
+## Why This Problem Is Interesting
+
+The problem is **not** simply keeping track of times.
+
+Instead, an AI system must combine several different kinds of information:
+
+- Facts that are always true (the microfilm was present at 8:00).
+- Facts that change over time (the microfilm disappears before 11:00).
+- People's locations during different intervals.
+- Constraints on how long actions require.
+- Unknown events that may or may not have occurred.
+
+The AI must determine **which possible worlds (scenarios)** satisfy every constraint simultaneously.
+
+---
+
+## The Paper's Main Idea
+
+The paper introduces a language called **HOT (Holds, Occurs, Temporal)**.
+
+Rather than representing only facts, HOT represents three kinds of information:
+
+### 1. Holds
+
+A **fluent** (a property that can change over time) is true during an interval.
+
+Examples:
+
+- The microfilm is in the safe.
+- John is at the bar.
+- Fred is at the poker table.
+
+These are represented as:
+
+```text
+Holds(fluent, start_event, end_event)
+```
+
+---
+
+### 2. Occurs
+
+Represents events that may or may not happen.
+
+Examples:
+
+- John steals the microfilm.
+- Fred leaves the bar.
+- The safe is opened.
+
+```text
+Occurs(event)
+```
+
+---
+
+### 3. Temporal Constraints
+
+Relationships between events.
+
+Examples:
+
+- Event A happens before Event B.
+- Two events are 15 minutes apart.
+- One interval overlaps another.
+
+The language supports both:
+
+- **Qualitative relationships**
+  - before
+  - after
+  - overlaps
+  - during
+  - starts
+  - finishes
+
+- **Quantitative timing constraints**
+  - exact times
+  - minimum durations
+  - allowable time intervals
+
+:contentReference[oaicite:2]{index=2}
+
+---
+
+## Why "Fluents"?
+
+A **fluent** is simply a property whose truth can change over time.
+
+For example:
+
+| Time | Microfilm in Safe |
+|------|--------------------|
+| 8:00 | True |
+| 9:30 | True |
+| 10:10 | False |
+| 11:00 | False |
+
+Unlike ordinary logical propositions (such as **2 + 2 = 4**), fluents are **time-dependent**.
+
+---
+
+## Reasoning About Possibilities
+
+Instead of trying to guess exactly what happened, the system searches for **consistent scenarios**.
+
+A scenario is a complete assignment of:
+
+- which events occurred,
+- when they occurred,
+- which fluents were true during which intervals,
+
+while satisfying every temporal constraint.
+
+The AI can then answer questions such as:
+
+- Must Fred have stolen the film?
+- Could John have stolen it?
+- Are both possible?
+- Is neither possible?
+
+This style of reasoning is much closer to **detective work** than traditional programming.
+
+---
+
+## Why This Was Important
+
+Many earlier temporal logic systems were expressive but computationally expensive.
+
+The contribution of this paper was to combine:
+
+- propositional logic,
+- temporal interval reasoning,
+- constraint satisfaction,
+
+into a framework where much of the reasoning could leverage existing constraint propagation algorithms.
+
+Rather than answering only **yes/no** questions, the system computes every **consistent scenario**, allowing it to determine:
+
+- what **must** have occurred,
+- what **might** have occurred,
+- what **could not** have occurred.
+
+:contentReference[oaicite:3]{index=3}
+
+---
+
+## Why It Still Matters Today
+
+Although published in **1994**, this paper illustrates ideas that remain central to modern AI:
+
+- Knowledge Representation
+- Automated Reasoning
+- Planning
+- Constraint Satisfaction
+- Event Reasoning
+- Commonsense Inference
+
+Modern AI agents still need to reason about:
+
+- calendars,
+- schedules,
+- workflows,
+- robotics,
+- autonomous vehicles,
+- business processes,
+
+where actions have temporal constraints and events change the state of the world.
+
+---
+
+## Key Takeaway
+
+This paper demonstrates that intelligent reasoning is not just about storing facts—it is about reasoning over **time**, **events**, and **changing states of the world**.
+
+By representing:
+
+- what is true,
+- what happened,
+- when events occurred,
+- and how events constrain one another,
+
+an AI system can infer what is **possible**, **necessary**, and **impossible**, much like a human detective reconstructing the events surrounding a mystery.
+
+---
+
+## Reference
+
+Schwalb, E., Kask, K., & Dechter, R. (1994). **Temporal Reasoning with Constraints on Fluents and Events.** *Proceedings of the Twelfth National Conference on Artificial Intelligence (AAAI-94).* :contentReference[oaicite:4]{index=4}
+
+**ResearchGate (full paper):**
+
+https://www.researchgate.net/publication/2641853_Temporal_Reasoning_with_Constraints_on_Fluents_and_Events#fullTextFileContent
+
+(PDF) Temporal Reasoning with Constraints on Fluents and Events. Available from: https://www.researchgate.net/publication/2641853_Temporal_Reasoning_with_Constraints_on_Fluents_and_Events#fullTextFileContent [accessed Jul 30 2026].
+
 | 1 | 0 | 0 | 1 |
 |------|----------|----------|----------|
 | <img src="wooden-puppet-doll-obeying-master-260nw-2576744107.jpg" alt="license" width="200" /> | <img src="dl.2.jpg" alt="license" width="300" />    |<img src="7b6c2375880a442e58f571887af58203.jpg" alt="license" width="100" /> | <img src="meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ==.jpg" alt="license" width="300" /> |
