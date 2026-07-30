@@ -6,7 +6,7 @@ This meeting was held in St. Thomas, U. S. Virgin Islands, on April 14-16, 2002.
 
 [https://cogaffarchive.org/AIMag/StThomas-AIMag.pdf](https://cogaffarchive.org/AIMag/StThomas-AIMag.pdf)
 
-[MOSSAD](https://en.wikipedia.org/wiki/Mossad) / [Quds Force](https://en.wikipedia.org/wiki/Quds_Force)
+( [MOSSAD](https://en.wikipedia.org/wiki/Mossad) x [Quds Force](https://en.wikipedia.org/wiki/Quds_Force) ) / [Boltzmann machine](https://en.wikipedia.org/wiki/Boltzmann_machine)
 
 | 0 | 1 | 2 | 3 |
 |------|----------|----------|----------|
