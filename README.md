@@ -6,6 +6,8 @@ This meeting was held in St. Thomas, U. S. Virgin Islands, on April 14-16, 2002.
 
 [https://cogaffarchive.org/AIMag/StThomas-AIMag.pdf](https://cogaffarchive.org/AIMag/StThomas-AIMag.pdf)
 
+["One Thousand and One Nights" by Hanan Al-Shaykh Hanan Al-Shaykh (Author) ](https://www.amazon.com/One-Thousand-Nights-AL-SHAYKH-HANAN/dp/140882776X)
+
 ( [MOSSAD](https://en.wikipedia.org/wiki/Mossad) x [Quds Force](https://en.wikipedia.org/wiki/Quds_Force) ) / [Boltzmann machine](https://en.wikipedia.org/wiki/Boltzmann_machine)
 
 | 0 | 1 | 2 | 3 |
