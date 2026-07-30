@@ -8,6 +8,10 @@ This meeting was held in St. Thomas, U. S. Virgin Islands, on April 14-16, 2002.
 
 [MOSSAD](https://en.wikipedia.org/wiki/Mossad) / [Quds Force](https://en.wikipedia.org/wiki/Quds_Force)
 
+| 0 | 1 | 2 | 3 |
+|------|----------|----------|----------|
+| <img src="wooden-puppet-doll-obeying-master-260nw-2576744107.jpg" alt="license" width="200" /> | <img src="dl.2.jpg" alt="license" width="300" />    |<img src="7b6c2375880a442e58f571887af58203.jpg" alt="license" width="100" /> | <img src="meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ==.jpg" alt="license" width="300" /> |
+
 [Long Island Lolita](https://en.wikipedia.org/wiki/Amy_Fisher)
 
 [Long Island Iced Tea](https://en.wikipedia.org/wiki/Long_Island_iced_tea)
