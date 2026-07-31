@@ -2,6 +2,13 @@
 
 I recently remembered a gift from an aunt—an illustrated copy of *One Thousand and One Nights*. At the time, as a seven-year-old immersed in a steady stream of Disney stories and familiar Western fairy tales, it felt intriguing but also a little puzzling. It seemed to come from a different imaginative world, one whose settings, heroes, and rhythms were unlike anything I had been reading. Looking back from today's far more interconnected and multicultural world, I see that gift differently. It wasn't a lesson about the Middle East, nor a complete picture of another culture. Instead, it was a gentle **invitation east**—an invitation to discover that beyond the stories I already knew were other traditions, other histories, and other ways of seeing the world. It was less a map than a window, quietly suggesting that there was a much larger world waiting to be explored.
 
+<a href="https://i.ebayimg.com/images/g/pmYAAeSw45BpfSYq/s-l1600.webp">
+  <img
+    src="https://i.ebayimg.com/images/g/pmYAAeSw45BpfSYq/s-l1600.webp"
+    width="250"
+    alt="Sears Pool Table Ad"
+</a>
+
 # The Feast of Purim ( Quds & Mossad w/o MI6 )
 
 **Purim** is a joyful Jewish holiday commemorating the events described in the **Book of Esther**, when the Jewish people living in the **Persian Empire** were saved from a plot to destroy them.
