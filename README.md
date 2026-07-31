@@ -1,3 +1,7 @@
+# My Invitation East
+
+I recently remembered a gift from my aunt—an illustrated copy of *One Thousand and One Nights*. At the time, as a seven-year-old immersed in a steady stream of Disney stories and familiar Western fairy tales, it felt intriguing but also a little puzzling. It seemed to come from a different imaginative world, one whose settings, heroes, and rhythms were unlike anything I had been reading. Looking back from today's far more interconnected and multicultural world, I see that gift differently. It wasn't a lesson about the Middle East, nor a complete picture of another culture. Instead, it was a gentle **invitation east**—an invitation to discover that beyond the stories I already knew were other traditions, other histories, and other ways of seeing the world. It was less a map than a window, quietly suggesting that there was a much larger world waiting to be explored.
+
 # *One Thousand and One Nights* (The Arabian Nights): Brief Overview
 
 *One Thousand and One Nights* (*Alf Layla wa-Layla*) is one of the world's most influential collections of folk tales. It is **not a single book written by one author**, but rather a compilation of stories gathered and expanded over several centuries from across the **Middle East, Persia, India, and the broader Islamic world**.
