@@ -9,6 +9,13 @@ I recently remembered a gift from an aunt—an illustrated copy of *One Thousand
     alt="Sears Pool Table Ad"
 </a>
 
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV45Ex7KZin-mFBcZRiLtlKD7nc8MZLNgXwNaQ5gOAUAdS7THGnkRr9Bf1&s=10">
+  <img
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV45Ex7KZin-mFBcZRiLtlKD7nc8MZLNgXwNaQ5gOAUAdS7THGnkRr9Bf1&s=10"
+    width="150"
+    alt="Tag In"
+</a>
+
 <a href="https://www.big5sportinggoods.com/catalogimage/img/product/rwd/zoom/3710_10357_4300_000_zoom_02.jpg">
   <img
     src="https://www.big5sportinggoods.com/catalogimage/img/product/rwd/zoom/3710_10357_4300_000_zoom_02.jpg"
