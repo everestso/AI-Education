@@ -1,3 +1,32 @@
+# Manuel Müller: German Biathlete
+
+**Manuel Müller** (born 1989) is a former **German biathlete** who competed internationally during the late 2000s and early 2010s. Representing Germany, he became one of the country's top junior biathletes before competing at the senior level in the **IBU Cup**, the primary international circuit below the Biathlon World Cup.
+
+## Highlights
+
+- **Nationality:** German
+- **Sport:** Biathlon (cross-country skiing and rifle shooting)
+- **Born:** 1989
+- **Club:** SC Oberstdorf (Germany)
+
+### Major Achievements
+
+- **2008 Junior World Championships**
+  - Silver Medal
+
+- **2009 Junior World Championships**
+  - Gold Medal – Individual Event
+
+- **2010 Junior World Championships**
+  - Gold Medal – Pursuit
+  - Gold Medal – Relay
+
+Following a successful junior career, Müller competed on Germany's IBU Cup team before retiring from elite international competition in 2013.
+
+## Legacy
+
+Although Manuel Müller did not become a long-term Biathlon World Cup star, he was one of Germany's most accomplished junior biathletes of his generation. His multiple Junior World Championship titles reflect Germany's strong tradition of developing elite athletes in one of the nation's most successful winter sports.
+
 # The German Surname **Müller (Mueller)**
 
 **Müller** (often written **Mueller** when the umlaut "ü" cannot be used) is one of the **most common German surnames**. It is the German equivalent of the English surname **Miller**.
