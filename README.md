@@ -7,7 +7,7 @@ Looking for Seasonal Work.</br>
 Will Work tirelessly and consistently for hours without breaks.</br>
 Desired salary: $1.00 an hour.
 
-# Boozy Bonfire Parties or "Figure it out... I'm Busy!"
+# Boozy Bonfire Parties or "Figure It Out... I'm Busy!"
 ## A quote from Nobody's Girl: A Memoir of Surviving Abuse and Fighting for Justice (2025)
 ## by Virginia Roberts Giuffre
 
