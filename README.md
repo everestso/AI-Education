@@ -1,3 +1,6 @@
+# Considering Context Tokens
+<img src="context_2026_08_12a.jpg" width="400" />
+
 # Robotic Automation for Fruit Packing Industry
 Looking for Seasonal Work.</br> 
 | | | |
