@@ -128,3 +128,8 @@ The common question becomes:
 
 This makes *Revenge*, *The Substance*, and *Furious* interesting companion works for examining **female agency, violence, transformation, identity, and the instability of the boundary between victim and predator**.
 
+# The Photo
+| | |
+|---|---|
+| <img src="PXL_20260812_150715698.jpg" width="200" /> | |
+
