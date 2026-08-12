@@ -131,5 +131,5 @@ This makes *Revenge*, *The Substance*, and *Furious* interesting companion works
 # The Photo
 | | |
 |---|---|
-| <img src="PXL_20260812_150715698.jpg" width="200" /> | |
+| <img src="PXL_20260812_150715698.jpg" width="200" /> | <img src="PXL_20260812_155754535.jpg" width="200" /> | 
 
