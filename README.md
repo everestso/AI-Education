@@ -1,7 +1,8 @@
 # The Photo (Gamma not Beta)
-<a href="franka-reach-3f-step-0.mp4">
-  <img src="franka-reach-3f-step-0.gif" width="500">
-</a>
+
+| | |
+|--|--|
+| <a href="franka-reach-3f-step-0.mp4"> <img src="franka-reach-3f-step-0.gif" width="500"> </a> | <img src="0e463a17-6d6b-418f-8c6f-58b4a11bc17b-copied-media~2.jpg" width="400" /> |
 
 | | | | |
 |---|---|---|---|
