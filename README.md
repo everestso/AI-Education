@@ -1,4 +1,4 @@
-# The Photo
+# The Photo (Gamma not Beta)
 | | | | |
 |---|---|---|---|
 | <img src="PXL_20260812_150715698.jpg" width="200" /> | <img src="PXL_20260812_155754535.jpg" width="200" /> | <img src="PXL_20260812_162141192.jpg" width="200" /> | <img src="PXL_20260812_662141192.jpg" width="200" /> |
