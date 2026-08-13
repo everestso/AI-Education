@@ -1,12 +1,12 @@
 # The Photo (Gamma not Beta)
 
-| | |
-|--|--|
-| <a href="franka-reach-3f-step-0.mp4"> <img src="franka-reach-3f-step-0.gif" width="500"> </a> | <img src="0e463a17-6d6b-418f-8c6f-58b4a11bc17b-copied-media~2.jpg" width="400" /> |
+| | | |
+|--|--|--|
+| <img src="0e463a17-6d6b-418f-8c6f-58b4a11bc17b-copied-media~2.jpg" width="400" /> | <a href="franka-reach-3f-step-0.mp4"> <img src="franka-reach-3f-step-0.gif" width="350"> </a> | <img src="PXL_20260812_181424827.jpg" width="400" /> |
 
 | | | | |
 |---|---|---|---|
-| <img src="PXL_20260812_150715698.jpg" width="200" /> | <img src="PXL_20260812_155754535.jpg" width="200" /> | <img src="PXL_20260812_162141192.jpg" width="200" /> | <img src="PXL_20260812_662141192.jpg" width="200" /> |
+| <img src="PXL_20260812_150715698.jpg" width="200" /> | <img src="PXL_20260812_155754535.jpg" width="200" /> | <img src="PXL_20260812_162141192.jpg" width="200" /> | <img src="PXL_20260812_662141192.jpg" width="200" /> | 
 
 # Considering Context Tokens
 <img src="context_2026_08_12a.jpg" width="400" />
