@@ -7,16 +7,16 @@
 
 | | | | |
 |---|---|---|---|
-| <img src="PXL_20260812_150715698.jpg" width="300" /> </br> Physical Trauma vs. Mental Trauma</br> Trauma Trigger Tokens | <img src="PXL_20260812_155754535.jpg" width="200" /> | <img src="PXL_20260812_162141192.jpg" width="200" /> | <img src="PXL_20260812_662141192.jpg" width="200" /> | 
+| <img src="PXL_20260812_150715698.jpg" width="300" /> </br> Physical Trauma vs. Mental Trauma</br> Trauma Trigger Tokens | <img src="PXL_20260812_155754535.jpg" width="200" /> | <img src="PXL_20260812_162141192.jpg" width="200" /> | <img src="PXL_20260812_662141192.jpg" width="200" /> |
 
 # Considering Context Tokens
 <img src="context_2026_08_12a.jpg" width="400" />
 
 # Robotic Automation for Fruit Packing Industry
 Looking for Seasonal Work.</br> 
-| | | |
-|---|---|---|
-| <img src="optimus3c.jpg" width="200" />| <img src="boozybonfireparties1.jpg" width="150" /> |<img src="opt3b.png" width="300" /> |
+| | |  | |
+|---|---|---|---|
+| <img src="optimus3c.jpg" width="200" />| <img src="boozybonfireparties1.jpg" width="150" /> |<img src="opt3b.png" width="300" /> | <a href="g1-fixedbase-step-0.mp4"> <img src="g1-fixedbase-step-0.gif" width="500"> </a> |
 
 Will Work tirelessly and consistently for hours without breaks.</br>
 Desired salary: $1.00 an hour.
