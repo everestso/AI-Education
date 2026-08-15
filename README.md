@@ -2,7 +2,7 @@
 
 | | | |
 |--|--|--|
-| <img src="0e463a17-6d6b-418f-8c6f-58b4a11bc17b-copied-media~2.jpg" width="400" /> | <a href="g1-fixedbase-step-0.mp4"> <img src="g1-fixedbase-step-0.gif" width="450"> </a> | <img src="PXL_20260812_181424827.jpg" width="400" /> |
+| <img src="0e463a17-6d6b-418f-8c6f-58b4a11bc17b-copied-media~2.jpg" width="400" /> | (1) [goal1, risk1] Clear/Recognized</br> <a href="g1-fixedbase-step-0.mp4"> <img src="g1-fixedbase-step-0.gif" width="450"> </a></br>(2) Sol=[Act1, Act2, Act3] ; Exec Sol</br>(3) State=[True(goal1), False(Risk1)]   | <img src="PXL_20260812_181424827.jpg" width="400" /> |
 | <img src="MV5BMjE2OTU3MTg5OF5BMl5BanBnXkFtZTYwMDk0NzY5._V1_.jpg" width="200" /></br> Pick A Sticker.</br>Bully Groups | ```import isaaclab_tasks```</br>```from isaaclab_tasks.utils import parse_env_cfg```</br>```env_cfg = parse_env_cfg(```</br>```  "Isaac-PickPlace-FixedBaseUpperBodyIK-G1-Abs-v0",```</br>```  device="cuda:0",num_envs=1)```</br></br> **Trauma Symptoms:** </br> Mal-adaptations | <img src="179483_0097_V1-1-728x410.jpg " width="400" /> |
 
 | | | | |
