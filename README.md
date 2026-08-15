@@ -10,9 +10,9 @@
 | <img src="PXL_20260812_150715698.jpg" width="300" /> </br>Physical Trauma vs. Mental Trauma</br>*Trauma Trigger Tokens* | <img src="PXL_20260812_155754535.jpg" width="200" /> | <img src="PXL_20260812_162141192.jpg" width="200" /> | <img src="PXL_20260812_662141192.jpg" width="200" /> |
 
 # Considering Context Tokens
-| | |
-|--|--|
-| <img src="context_2026_08_12a.jpg" width="400" /> | <img src="PXL_20260815_025751534.MP.jpg" width="200" /> |
+| | | |
+|--|--|--|
+| <img src="context_2026_08_12a.jpg" width="400" /> | <img src="PXL_20260815_025751534.MP.jpg" width="200" /> | <a href="pong_dqn_best.mp4"> <img src="pong_dqn_best.gif" width="200"> </a> |
 
 # Robotic Automation for Fruit Packing Industry
 Looking for Seasonal Work.</br> 
