@@ -7,7 +7,7 @@
 
 | | | | |
 |---|---|---|---|
-| <img src="PXL_20260812_150715698.jpg" width="300" /> Physical Trauma vs. Mental Trauma</br> Trauma Trigger Tokens | <img src="PXL_20260812_155754535.jpg" width="200" /> | <img src="PXL_20260812_162141192.jpg" width="200" /> | <img src="PXL_20260812_662141192.jpg" width="200" /> |
+| <img src="PXL_20260812_150715698.jpg" width="300" /> </br>Physical Trauma vs. Mental Trauma</br> Trauma Trigger Tokens | <img src="PXL_20260812_155754535.jpg" width="200" /> | <img src="PXL_20260812_162141192.jpg" width="200" /> | <img src="PXL_20260812_662141192.jpg" width="200" /> |
 
 # Considering Context Tokens
 <img src="context_2026_08_12a.jpg" width="400" />
