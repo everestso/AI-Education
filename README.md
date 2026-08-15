@@ -2,8 +2,8 @@
 
 | | | |
 |--|--|--|
-| <img src="0e463a17-6d6b-418f-8c6f-58b4a11bc17b-copied-media~2.jpg" width="400" /> | (1) [goal1, risk1] Clear/Recognized</br>*How Handle??*</br> <a href="g1-fixedbase-step-0.mp4"> <img src="g1-fixedbase-step-0.gif" width="450"> </a></br>(2) Sol=[Act1, Act2, Act3] ; Exec Sol</br>(3) State=[True(goal1), False(Risk1)]   | <img src="PXL_20260812_181424827.jpg" width="400" /> |
-| <img src="MV5BMjE2OTU3MTg5OF5BMl5BanBnXkFtZTYwMDk0NzY5._V1_.jpg" width="200" /></br> Pick A Sticker.</br>Bully Groups | ```import isaaclab_tasks```</br>```from isaaclab_tasks.utils import parse_env_cfg```</br>```env_cfg = parse_env_cfg(```</br>```  "Isaac-PickPlace-FixedBaseUpperBodyIK-G1-Abs-v0",```</br>```  device="cuda:0",num_envs=1)```</br></br> **Trauma Symptoms:** </br> Mal-adaptations | <img src="179483_0097_V1-1-728x410.jpg " width="400" /> |
+| <img src="0e463a17-6d6b-418f-8c6f-58b4a11bc17b-copied-media~2.jpg" width="400" /> | (1) [goal1, risk1] Clear/Recognized</br>*How Handle??*</br>```[Send/Offer/Provide](Sol)``` via **The Ride**</br> <a href="g1-fixedbase-step-0.mp4"> <img src="g1-fixedbase-step-0.gif" width="450"> </a></br>(2) ```Sol=[Act1, Act2, Act3] ; Exec Sol```</br>(3) ```State=[True(goal1), False(Risk1)]```   | <img src="PXL_20260812_181424827.jpg" width="400" /> |
+| <img src="MV5BMjE2OTU3MTg5OF5BMl5BanBnXkFtZTYwMDk0NzY5._V1_.jpg" width="200" /></br> Pick A Sticker.</br>Bully Groups | ```import gymnasium as gym```</br>```import torch```</br>```import isaaclab_tasks```</br>```from isaaclab_tasks.utils import parse_env_cfg```</br>```env_cfg = parse_env_cfg(```</br>```  "Isaac-PickPlace-FixedBaseUpperBodyIK-G1-Abs-v0",```</br>```  device="cuda:0",num_envs=1)```</br>```env = gym.make(```</br>```  "Isaac-PickPlace-FixedBaseUpperBodyIK-G1-Abs-v0",```</br>```  cfg=env_cfg, render_mode="rgb_array")```</br></br> **Trauma Symptoms:** </br> Mal-adaptations | <img src="179483_0097_V1-1-728x410.jpg " width="400" /> |
 
 | | | | |
 |---|---|---|---|
@@ -13,6 +13,7 @@
 | | | |
 |--|--|--|
 | <img src="context_2026_08_12a.jpg" width="400" /> | <img src="PXL_20260815_025751534.MP.jpg" width="200" /> | <a href="pong_dqn_best.mp4"> <img src="pong_dqn_best.gif" width="200"> </a> |
+| | ```import ale_py```</br>```import gymnasium as gym```</br>```gym.register_envs(ale_py)```</br>```env = gym.make("ALE/Pong-v5")``` | |
 
 # Robotic Automation for Fruit Packing Industry
 Looking for Seasonal Work.</br> 
