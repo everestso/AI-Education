@@ -13,7 +13,7 @@
 | | | |
 |--|--|--|
 | <img src="context_2026_08_12a.jpg" width="400" /> | <img src="PXL_20260815_025751534.MP.jpg" width="200" /> | <a href="pong_dqn_best.mp4"> <img src="pong_dqn_best.gif" width="200"> </a> |
-| | ```import ale_py```</br>```import gymnasium as gym```</br>```gym.register_envs(ale_py)```</br>```env = gym.make("ALE/Pong-v5")``` | |
+| | ```import ale_py```</br>```import gymnasium as gym```</br>```gym.register_envs(ale_py)```</br>```env = gym.make("ALE/Pong-v5")``` | <a href="ale_breakout_v5_dqn_final_ale_breakout_v5.mp4"> <img src="ale_breakout_v5_dqn_final_ale_breakout_v5.gif" width="200"> </a> |
 
 # Robotic Automation for Fruit Packing Industry
 Looking for Seasonal Work.</br> 
