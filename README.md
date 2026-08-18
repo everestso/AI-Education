@@ -1,18 +1,8 @@
 # The Photo (Gamma not Beta)
 
-<h2 align="center">Unitree G1</h2>
-
-<p align="center">
-  <a href="https://youtu.be/xwgaMdHzW40">
-    <img src="https://img.youtube.com/vi/xwgaMdHzW40/maxresdefault.jpg"
-         alt="Watch the video on YouTube"
-         width="700">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://youtu.be/xwgaMdHzW40">▶️ Watch on YouTube</a>
-</p>
+| | |
+|--|--|
+|  <a href="https://youtu.be/xwgaMdHzW40"> <img src="https://img.youtube.com/vi/xwgaMdHzW40/maxresdefault.jpg"  alt="Watch the video on YouTube" width="400"> </a> | <a href="https://youtu.be/OXuqGuTgXGU?si=STW1k__127y8Txj3"> <img src="https://img.youtube.com/vi/OXuqGuTgXGU/maxresdefault.jpg" alt="Watch the video on YouTube" width="400">  </a> |
 
 | | | |
 |----|--|--|
