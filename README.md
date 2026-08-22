@@ -1,3 +1,7 @@
+| | |
+|--|--|
+|<img src="PXL_20260812_181424827.jpg" width="300"> | <img src="PXL_20260820_162913934.jpg" width="200">|
+
 # The Cultural Cenote
 
 Modern American culture is often described as something built from European traditions and then modified over time by Indigenous, African, and later immigrant influences.
