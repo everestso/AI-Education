@@ -1,5 +1,19 @@
 [Serendipity](https://youtu.be/FXUiEPrK_II?si=nnpePcH0BEqRqDNK)
 
+<h2 align="center">Featured Video</h2>
+
+<p align="center">
+  <a href="https://youtu.be/FXUiEPrK_II">
+    <img src="https://img.youtube.com/vi/FXUiEPrK_II/maxresdefault.jpg"
+         alt="Watch the video on YouTube"
+         width="700">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/FXUiEPrK_II">▶️ Watch on YouTube</a>
+</p>
+
 | | |
 |--|--|
 |<img src="PXL_20260812_181424827.jpg" width="300"> | <img src="PXL_20260820_162913934.jpg" width="200">|
