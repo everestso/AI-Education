@@ -1,4 +1,56 @@
 [Serendipity](https://youtu.be/FXUiEPrK_II?si=nnpePcH0BEqRqDNK)
+## Video Summary: “Serendipity, Discovery and Joy in Chemistry”
+
+[Watch the video on YouTube](https://www.youtube.com/watch?v=FXUiEPrK_II)
+
+In this 2017 Fresno State Talk, chemistry professor Dr. Joy Goto combines autobiography, chemistry instruction, and scientific research to explain how curiosity, mentors, students, and unexpected discoveries shaped her career. The lecture was part of a series honoring professors selected for their ability to engage and inspire students. [Fresno State News](https://www.fresnostatenews.com/2017/02/03/fresno-state-talks-lecture-series-covers-chemistry-camaraderie-and-bob-dylan/)
+
+Goto describes her development as if it were a chemical reaction: childhood experiences, teachers, family members, mentors, and research opportunities acted as “catalysts,” transforming “little Joy” into a scientist, professor, and mentor. Her early fascination with colorful chemical reactions—especially fireworks and chemistry kits—developed into a broader interest in understanding how matter changes and how chemistry can benefit society.
+
+A central theme is that science becomes meaningful when students move beyond textbook knowledge and participate in research. Goto presents research as a careful investigation of the unknown that allows students to make genuine discoveries and potentially improve people’s lives.
+
+### Her Scientific Journey
+
+Goto organizes her research career around three proteins, molecules, or disease problems:
+
+- Copper-zinc superoxide dismutase (SOD) and amyotrophic lateral sclerosis (ALS)
+- Amyloid precursor protein and Alzheimer’s disease
+- The environmental neurotoxin BMAA and the neurodegenerative condition ALS-PDC
+
+She explains that oxygen metabolism can produce reactive molecules called free radicals. The SOD enzyme normally helps neutralize these damaging molecules, but changes in the enzyme have been associated with inherited forms of ALS.
+
+Her postdoctoral research shifted toward Alzheimer’s disease and the abnormal processing and folding of proteins. Small protein fragments can accumulate into plaques and tangles, interfering with normal neurological function. She uses a language metaphor to make this understandable:
+
+- Nucleotides and amino acids are the alphabet.
+- Codons and small protein structures are words.
+- Genes and complete proteins are sentences.
+
+A misplaced or abnormal “letter” can therefore alter the resulting word, sentence, and biological function.
+
+### BMAA and Fruit-Fly Research
+
+The final scientific section focuses on BMAA, a molecule produced by cyanobacteria and investigated for a possible connection to ALS-PDC, a disease historically found at unusually high rates in Guam. BMAA may accumulate through the food chain and chemically resemble substances normally used by the nervous system, including glutamate.
+
+Goto’s Fresno State research group used fruit flies as a model organism because they reproduce quickly, have well-understood genetics, and possess neurons that share important characteristics with human neurons. Students fed fruit flies BMAA and observed:
+
+- Tremors and abnormal movement
+- Reduced climbing ability
+- Changes in electrical signaling between neurons
+- Decreased survival or neurological function
+
+The researchers also investigated whether the amino acid L-serine could reduce some of BMAA’s effects. Their fruit-fly results contributed to broader collaborative research using vertebrate models and, at the time of the lecture, early human investigations. These findings are presented as promising research directions, not as proof of an established treatment.
+
+### Teaching and Mentorship
+
+The lecture repeatedly returns to Goto’s identity as a teacher. She uses models, demonstrations, audience questions, and familiar analogies to make molecular science tangible. She also emphasizes that much of the laboratory work was performed by Fresno State undergraduate and graduate students.
+
+For Goto, mentoring students is not separate from scientific discovery. Student research connects classroom concepts with unanswered questions and allows students to see themselves as contributors to science.
+
+### Conclusion
+
+Goto ends with a luminol demonstration that produces visible blue light. The experiment brings her story full circle: she was originally attracted to chemistry by the beauty of visible reactions, and she continues to use that sense of wonder to motivate students and guide research.
+
+The video’s larger message is that science is both intellectual and deeply human. Discovery grows from curiosity, careful observation, collaboration, mentorship, and a willingness to follow unexpected results. The “joy” in chemistry is therefore both Dr. Goto herself and the excitement of making the invisible workings of nature understandable.
 
 <h2 align="center">Featured Video</h2>
 
