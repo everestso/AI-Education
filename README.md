@@ -9,6 +9,22 @@ Goto describes her development as if it were a chemical reaction: childhood expe
 
 A central theme is that science becomes meaningful when students move beyond textbook knowledge and participate in research. Goto presents research as a careful investigation of the unknown that allows students to make genuine discoveries and potentially improve people’s lives.
 
+### Fresno, Family, and Hiroshima
+
+Goto was born and raised in Fresno and describes herself as a third-generation Japanese American with ancestral roots in Hiroshima. Although the video concentrates primarily on her scientific development, later interviews reveal an important personal connection between her family and one of the defining events of the twentieth century.
+
+Goto’s mother was born near Hiroshima and was approximately eleven years old when the United States dropped the atomic bomb on the city on August 6, 1945. According to Goto, her mother lived several miles from the hypocenter and remembered seeing the mushroom cloud.
+
+> “For me, [the event] is pretty personal. My mother was born in Hiroshima, not directly in the city but about 5 miles from the epicenter. When she was a child, she saw the mushroom cloud.”
+
+—Dr. Joy Goto, quoted by [Fresno State Today](https://today.fresnostate.edu/fresno-state-to-commemorate-80th-anniversary-of-wwii-atomic-bombings/)
+
+A second account similarly reports that her mother was eleven years old and living approximately ten to twelve miles from the hypocenter. In that interview, Goto also connected her family story to the larger history of Japanese settlement in the Central Valley, noting that Fresno County attracted many immigrants from the Hiroshima region, particularly through agriculture. [The kNOw Youth Media](https://theknowfresno.org/08/18/2025/fresno-community-commemorates-hiroshima-and-nagasaki-atomic-bombings/)
+
+The available sources do not provide the complete story of when or how her mother came to the United States. Nevertheless, this family connection helps explain Goto’s continuing involvement in Fresno’s Japanese American community, the Japanese American Citizens League, human-rights activities, and local commemorations of the Hiroshima and Nagasaki bombings.
+
+Her mother’s experience also adds another dimension to the lecture’s emphasis on science serving humanity. Chemistry can produce beautiful and beneficial transformations, but the history of Hiroshima demonstrates that scientific knowledge can also be used destructively. Although Goto does not develop this contrast explicitly in the video, her family history gives special significance to her emphasis on responsible scientific communication, mentorship, community service, and research intended to reduce human suffering.
+
 ### Her Scientific Journey
 
 Goto organizes her research career around three proteins, molecules, or disease problems:
@@ -46,11 +62,15 @@ The lecture repeatedly returns to Goto’s identity as a teacher. She uses model
 
 For Goto, mentoring students is not separate from scientific discovery. Student research connects classroom concepts with unanswered questions and allows students to see themselves as contributors to science.
 
+Her commitment to mentorship also reflects the educational values of her own family. Goto has credited her parents, teachers, and two older brothers with teaching her to strive and instilling a strong respect for education. She presents scientific development not as the work of an isolated individual but as a process shaped by family, teachers, collaborators, and students.
+
 ### Conclusion
 
 Goto ends with a luminol demonstration that produces visible blue light. The experiment brings her story full circle: she was originally attracted to chemistry by the beauty of visible reactions, and she continues to use that sense of wonder to motivate students and guide research.
 
 The video’s larger message is that science is both intellectual and deeply human. Discovery grows from curiosity, careful observation, collaboration, mentorship, and a willingness to follow unexpected results. The “joy” in chemistry is therefore both Dr. Goto herself and the excitement of making the invisible workings of nature understandable.
+
+Her family’s connection to Hiroshima adds a deeper historical dimension to that message. Science cannot be separated entirely from the people, communities, and historical events it affects. Goto’s career—combining scientific research, education, mentorship, community engagement, and efforts to understand human disease—illustrates one way scientific knowledge can be directed toward discovery, healing, and service.
 
 <h2 align="center">Featured Video</h2>
 
