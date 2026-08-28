@@ -1,3 +1,5 @@
+[Serendipity](https://youtu.be/FXUiEPrK_II?si=nnpePcH0BEqRqDNK)
+
 | | |
 |--|--|
 |<img src="PXL_20260812_181424827.jpg" width="300"> | <img src="PXL_20260820_162913934.jpg" width="200">|
