@@ -1,3 +1,27 @@
+## The Mask as Identity: Two Film Examples
+
+Popular culture provides two almost opposite ways of thinking about **the mask as identity**.
+
+| *Mask* (1985) | *The Mask* (1994) |
+|:---:|:---:|
+| <a href="https://youtu.be/hEt-7A3EugY"><img src="https://img.youtube.com/vi/hEt-7A3EugY/hqdefault.jpg" alt="Mask (1985) Trailer" width="350"></a> | <a href="https://youtu.be/LZl69yk5lEY"><img src="https://img.youtube.com/vi/LZl69yk5lEY/hqdefault.jpg" alt="The Mask (1994) Trailer" width="350"></a> |
+| [▶️ Watch on YouTube](https://youtu.be/hEt-7A3EugY) | [▶️ Watch on YouTube](https://youtu.be/LZl69yk5lEY) |
+| Society judges Rocky Dennis through his unusual appearance. **Breaking the mask means seeing the authentic person beyond an identity imposed by others.** | A restrained bank clerk puts on a magical mask that releases an uninhibited alter ego. **Putting on the physical mask paradoxically breaks his social mask.** |
+
+### Connecting the Films to Octavio Paz
+
+These films provide accessible parallels to the idea of ***la ruptura de la máscara***—**"the breaking of the mask"**—in discussions of Octavio Paz's *Piedra de Sol* (*Sunstone*).
+
+In *Mask*, **human connection and love help others see beyond an imposed identity**. In *The Mask*, **desire and uninhibited behavior disrupt a socially controlled identity**.
+
+Paz pushes the idea further: **love and erotic encounter can become disruptive forces capable of breaking through social conventions and the identities they impose.**
+
+The progression becomes:
+
+**Mask → Desire / Encounter → Disruption → Recognition → Love → Transformation**
+
+> **The mask is the identity through which society recognizes us. Breaking the mask creates the possibility of recognizing one another—and ourselves—differently.**
+
 # The Thirteenth Returns: Love, Cyclical Time, and the Breaking of the Mask in Octavio Paz's *Sunstone*
 
 ## An English-Language Introduction to a Conversation Connecting Octavio Paz, Gérard de Nerval, Fresno State, and UCLA
