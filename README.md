@@ -1,3 +1,610 @@
+# The Thirteenth Returns: Love, Cyclical Time, and the Breaking of the Mask in Octavio Paz's *Sunstone*
+
+## An English-Language Introduction to a Conversation Connecting Octavio Paz, Gérard de Nerval, Fresno State, and UCLA
+
+One intriguing thread in modern Latin American literature begins with an unusual phrase:
+
+> **“Vuelve otra vez la Trece — ¡y es aún la Primera!”**
+
+A natural English rendering is:
+
+> **“The Thirteenth returns again—and it is still the First!”**
+
+The phrase comes from Octavio Paz's Spanish translation of the French poet **Gérard de Nerval's “Arthémis.”** Nerval's original poem provides the epigraph to Paz's great 1957 poem ***Piedra de Sol***, generally translated into English as ***Sunstone***.
+
+The idea is paradoxical but central:
+
+**The thirteenth returns and becomes the first.**
+
+An ending becomes another beginning.
+
+That simple idea opens into a much larger literary exploration of **cyclical time, memory, erotic love, social identity, historical consciousness, and the possibility of human transformation**.
+
+It has also generated an interesting scholarly trail extending from Paz and the broader Latin American literary community to **Fresno State and UCLA**.
+
+---
+
+# Octavio Paz and *Piedra de Sol* (*Sunstone*)
+
+**Octavio Paz (1914–1998)** was a Mexican poet, essayist, diplomat, and one of the most influential Latin American intellectuals of the twentieth century. He received the **1990 Nobel Prize in Literature**.
+
+His *Piedra de Sol* (*Sunstone*) was published in 1957.
+
+The poem is constructed around **cycles**.
+
+It contains **584 hendecasyllabic lines**, corresponding to the approximately 584-day synodic cycle of Venus recognized in the Mesoamerican calendrical tradition. In Paz's original note to the poem, the completion of that Venus cycle represented both **the end of one cycle and the beginning of another**.
+
+The poem reinforces this structurally.
+
+Its opening six lines return at the end.
+
+Therefore:
+
+**The poem ends where it began.**
+
+But the reader who returns to the beginning is no longer quite the same reader, because the entire experience of the poem now stands between the first encounter with those lines and their return.
+
+The cycle can therefore be represented as:
+
+**Beginning**
+
+↓
+
+**Experience**
+
+↓
+
+**Memory**
+
+↓
+
+**Return**
+
+↓
+
+**Beginning Again**
+
+This is not necessarily repetition in the sense of simply doing the same thing again.
+
+It can be **renewal**.
+
+---
+
+# Gérard de Nerval and “The Thirteenth Returns”
+
+Paz deliberately placed lines from French Romantic poet **Gérard de Nerval's “Arthémis”** at the beginning of *Piedra de Sol*.
+
+Paz later translated the poem into Spanish, rendering Nerval's enigmatic opening as:
+
+> **“Vuelve otra vez la Trece — ¡y es aún la Primera!”**
+
+The expression suggests a clock moving beyond twelve.
+
+After twelve comes thirteen—but thirteen can also be understood as **one again**.
+
+Thus:
+
+**12 → 13**
+
+can simultaneously become:
+
+**12 → 1**
+
+The end of one cycle becomes the beginning of another.
+
+Modern scholarship has repeatedly recognized the Nerval epigraph as an important clue to the circular structure of *Piedra de Sol*. Paz combines this European literary reference with Mesoamerican calendrical symbolism and the Venus cycle.
+
+That combination itself is significant.
+
+Paz is bringing together:
+
+**European Romanticism**
+
+*
+
+**Mesoamerican cosmology**
+
+*
+
+**modern Mexican literature**
+
+*
+
+**astronomical cycles**
+
+into a single poetic structure.
+
+---
+
+# UCLA and the Nerval–Paz Connection
+
+The relationship continues to attract contemporary scholarly attention.
+
+A recent **UCLA dissertation** independently examines Paz's relationship with Nerval's *Arthémis*, including Paz's translations of the poem.
+
+The UCLA researcher observes that Paz's translation places particular emphasis on the idea that **the thirteenth hour is also the first**.
+
+The dissertation then makes an especially interesting comparison: Nerval suggests cyclical return, but Paz carries the principle much further in *Piedra de Sol* by making the poem itself return structurally to its beginning.
+
+In other words:
+
+**Nerval provides the idea of return.**
+
+**Paz turns return into poetic architecture.**
+
+This demonstrates that the Nerval connection is not an incidental curiosity. It belongs to an established scholarly discussion surrounding *Piedra de Sol*.
+
+---
+
+# Fresno State: María Jiménez and “The Thirteenth Returns”
+
+The same phrase became the title of graduate research at **California State University, Fresno (Fresno State)**.
+
+Graduate student **María Jiménez** wrote a thesis titled:
+
+> ***Vuelve otra vez la trece: El amor y la ruptura de la máscara en Piedra de sol***
+
+A useful English translation is:
+
+> ***The Thirteenth Returns Again: Love and the Breaking of the Mask in Sunstone***
+
+The Fresno State thesis record confirms that Jiménez studied Octavio Paz and that her thesis chair was **Dr. Saúl Jiménez-Sandoval**, who later became president of Fresno State.
+
+The title is revealing because it combines three concepts:
+
+**cyclical return**
+
+*
+
+**love**
+
+*
+
+**breaking the mask**
+
+These ideas provide an especially useful entry point into *Piedra de Sol* for an English-speaking reader.
+
+---
+
+# What Is “The Mask”?
+
+The Spanish phrase:
+
+> **“la ruptura de la máscara”**
+
+literally means:
+
+> **“the rupture/breaking of the mask.”**
+
+But the “mask” need not mean a physical disguise.
+
+Within the broader intellectual world surrounding Paz, the mask can represent the **social identities people wear**:
+
+* status,
+* titles,
+* class,
+* respectability,
+* institutional roles,
+* expected behavior,
+* political identities,
+* gender expectations,
+* and the identity a person presents to society.
+
+The mask is therefore the socially recognizable **version of the self**.
+
+The deeper question becomes:
+
+> **What happens when an authentic encounter with another human being breaks through that constructed identity?**
+
+This is where **love** becomes much more than romantic sentiment.
+
+---
+
+# Saúl Jiménez-Sandoval: Love, Memory, and Being
+
+Jiménez-Sandoval later developed his own substantial interpretation of *Piedra de Sol* in:
+
+> **“Love, Memory and Being in Octavio Paz's Piedra de Sol”**
+
+published in 2014 in *The Willow and the Spiral: Essays on Octavio Paz and the Poetic Imagination*.
+
+Jiménez-Sandoval interprets Paz partly through philosopher **Henri Bergson**, particularly Bergson's ideas about memory, consciousness, perception, and voluntary action.
+
+For Jiménez-Sandoval, the past does not simply disappear.
+
+Instead:
+
+**Past ↔ Present**
+
+Memory brings the past into present consciousness.
+
+That consciousness allows the individual to interpret the present differently.
+
+And that creates the possibility of choosing a different future.
+
+The process can be represented as:
+
+**Past**
+
+↓
+
+**Memory**
+
+↓
+
+**Consciousness**
+
+↓
+
+**Recognition**
+
+↓
+
+**Choice**
+
+↓
+
+**Action**
+
+↓
+
+**Becoming**
+
+Jiménez-Sandoval therefore interprets *Piedra de Sol* not merely as a poem about remembering but as a poem about **what remembering makes possible**.
+
+---
+
+# Love as a Source of Transformative Power
+
+This is where love becomes particularly important.
+
+Jiménez-Sandoval does not treat erotic love merely as pleasure.
+
+Indeed, in his reading of the poem, purely sexual fulfillment proves insufficient.
+
+Something more profound must happen.
+
+The encounter with another person can move from:
+
+**sexual attraction**
+
+↓
+
+**erotic encounter**
+
+↓
+
+**recognition of another human being**
+
+↓
+
+**breaking the isolation of the self**
+
+↓
+
+**communion**
+
+↓
+
+**social consciousness**
+
+The isolated **“I”** begins becoming part of a **“we.”**
+
+Love therefore becomes a force capable of disrupting established identity.
+
+---
+
+# Erotic Love as a Disruptive Force
+
+This makes the eroticism of *Piedra de Sol* particularly important.
+
+Sexual desire is potentially **disruptive** because it does not necessarily respect the neat categories through which society organizes human beings.
+
+Society says:
+
+**This is your position.**
+
+**This is your proper role.**
+
+**These are the people you should desire.**
+
+**This is respectable.**
+
+**This is forbidden.**
+
+**This is who you are supposed to be.**
+
+Erotic desire can respond:
+
+**No.**
+
+Desire therefore possesses a potentially subversive quality.
+
+Jiménez-Sandoval cites scholarship describing the revolutionary potential of love and eroticism precisely because they can challenge a **repressive and hierarchical environment**.
+
+This does not mean that every sexual impulse is inherently liberating.
+
+Jiménez-Sandoval's interpretation is more demanding.
+
+Sexuality becomes transformative when erotic encounter develops into **recognition of the other as another human being**.
+
+Thus:
+
+**Sexual Desire → Disruption**
+
+but potentially:
+
+**Love → Recognition → Transformation**
+
+---
+
+# Love Breaks the Mask
+
+This makes María Jiménez's thesis title particularly suggestive.
+
+If the **mask** represents socially imposed identity, love potentially allows two people to encounter one another beneath those categories.
+
+The sequence becomes:
+
+**Social Identity**
+
+↓
+
+**Mask**
+
+↓
+
+**Erotic Encounter**
+
+↓
+
+**Recognition**
+
+↓
+
+**Breaking the Mask**
+
+↓
+
+**Authentic Relationship**
+
+↓
+
+**Transformation**
+
+Jiménez-Sandoval's published analysis of Paz strongly overlaps with this idea.
+
+He describes historical and personal consciousness as capable of shattering society's **“masks, titles, laws and pretensions”**—structures that establish hierarchies and separate people both from others and from themselves.
+
+Love therefore becomes more than emotion.
+
+It becomes a form of **social and existential power**.
+
+---
+
+# The Cycle Does Not Have to Mean Imprisonment
+
+This brings us back to the thirteenth returning as the first.
+
+Cyclical time can have two very different meanings.
+
+One possibility is:
+
+**Repetition without consciousness**
+
+↓
+
+**same pattern**
+
+↓
+
+**same outcome**
+
+↓
+
+**repeat again**
+
+But Paz allows another possibility:
+
+**Return**
+
+↓
+
+**Memory**
+
+↓
+
+**Recognition**
+
+↓
+
+**Transformation**
+
+↓
+
+**New Beginning**
+
+The person returns to the beginning carrying the experience of the previous cycle.
+
+The starting point may look familiar.
+
+But the consciousness arriving there has changed.
+
+That is the difference between **repetition** and **renewal**.
+
+---
+
+# A Broader Latin American Literary Conversation
+
+These questions extend well beyond *Piedra de Sol*.
+
+Twentieth-century Latin American literature repeatedly explores tensions among:
+
+* indigenous and European cultural inheritance,
+* colonialism and independence,
+* tradition and modernity,
+* myth and scientific rationalism,
+* capitalism and human value,
+* individual identity and collective history,
+* memory and forgetting,
+* political power and personal freedom,
+* sexuality and social convention,
+* linear progress and cyclical history.
+
+Paz's achievement in *Piedra de Sol* is partly to place many of these tensions inside the experience of a single consciousness.
+
+The individual remembers.
+
+The individual desires.
+
+The individual loves.
+
+The individual encounters history.
+
+And personal experience gradually opens toward a much larger question:
+
+> **How can human beings become something different from what history and society have already told them they must be?**
+
+---
+
+# From Nerval to Paz to Fresno State to UCLA
+
+The intellectual trail can therefore be summarized:
+
+### Gérard de Nerval — *Arthémis*
+
+**The Thirteenth returns and becomes the First.**
+
+Time can return.
+
+↓
+
+### Octavio Paz — *Piedra de Sol* / *Sunstone*
+
+Paz combines Nerval's return with Mesoamerican cyclical time, the Venus cycle, memory, history, sexuality, and love.
+
+The poem itself circles back to its beginning.
+
+↓
+
+### María Jiménez — Fresno State
+
+***The Thirteenth Returns Again: Love and the Breaking of the Mask in Sunstone***
+
+The title brings together:
+
+**cyclical return + love + disruption of social identity**
+
+Her thesis was chaired by **Saúl Jiménez-Sandoval**.
+
+↓
+
+### Saúl Jiménez-Sandoval — Fresno State
+
+***Love, Memory and Being in Octavio Paz's Piedra de Sol***
+
+Jiménez-Sandoval develops a philosophical interpretation connecting:
+
+**memory + love + history + consciousness + justice + voluntary action + becoming**
+
+↓
+
+### Contemporary UCLA Scholarship
+
+The Nerval–Paz relationship continues to receive scholarly attention, including close examination of Paz's translation of *Arthémis* and the significance of the **thirteenth returning as the first**.
+
+The conversation therefore extends across generations and institutions.
+
+---
+
+# A Powerful Way to Read *Piedra de Sol*
+
+For an English-speaking reader encountering Paz for the first time, one productive framework is:
+
+> **We inherit history, memory, identities, and social masks—but those inheritances do not necessarily determine what we must become.**
+
+The cycle returns.
+
+The past becomes present.
+
+But something can interrupt automatic repetition.
+
+For Paz, that disruptive power can emerge through **love**.
+
+Erotic attraction breaks ordinary boundaries.
+
+Authentic recognition breaks the mask.
+
+Memory brings forgotten experience into consciousness.
+
+Consciousness makes choice possible.
+
+And choice opens the possibility of becoming.
+
+The cycle therefore becomes:
+
+**History**
+
+↓
+
+**Inherited Identity**
+
+↓
+
+**Desire**
+
+↓
+
+**Love**
+
+↓
+
+**Breaking the Mask**
+
+↓
+
+**Recognition**
+
+↓
+
+**Memory**
+
+↓
+
+**Conscious Choice**
+
+↓
+
+**Transformation**
+
+↓
+
+**Return**
+
+↓
+
+**A New Beginning**
+
+Perhaps that is the deeper meaning contained in the strange phrase with which this discussion began:
+
+> **The Thirteenth returns—and becomes the First.**
+
+We return to places history has taken us before.
+
+The transformative possibility lies in **not necessarily returning as the same person**.
+
+---
+
+## References and Further Context
+
+* **Octavio Paz**, *Piedra de Sol* (*Sunstone*), first published in 1957.
+* **Gérard de Nerval**, *Arthémis*, from *Les Chimères* (1854). Paz used its opening as the epigraph to *Piedra de Sol* and later translated the poem into Spanish. The Nerval connection and Paz's translations are documented in scholarship on *Piedra de Sol*.
+* Paz's original structural conception connected the poem's **584 hendecasyllabic lines** with the 584-day Venus cycle and described its completion as the end of one cycle and beginning of another.
+* **María Jiménez**, *Vuelve otra vez la trece: El amor y la ruptura de la máscara en Piedra de sol*, Fresno State graduate thesis. Fresno State's thesis listing identifies **Saúl Jiménez-Sandoval as chair**.
+* **Saúl Jiménez-Sandoval**, “Love, Memory and Being in Octavio Paz's *Piedra de Sol*,” in *The Willow and the Spiral: Essays on Octavio Paz and the Poetic Imagination*, edited by Roberto Cantú, Cambridge Scholars Publishing, 2014.
+* Contemporary **UCLA dissertation research** analyzes Paz's translations of Nerval's *Arthémis* and specifically examines his emphasis on the thirteenth returning as the first.
+
+
 [Serendipity](https://youtu.be/FXUiEPrK_II?si=nnpePcH0BEqRqDNK)
 ## Video Summary: “Serendipity, Discovery and Joy in Chemistry”
 
