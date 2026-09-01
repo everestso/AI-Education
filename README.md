@@ -1,3 +1,7 @@
+# Tijuana Growth
+|<img src="bbbf4837-d58e-42ca-bbed-abccf54aab85-copied-media~2.jpg" width="250" /> |<img src="PXL_20260901_155311620~2.jpg" width="300" />  | <img src="PXL_20260901_154358746.MP~2.jpg" width="400" /> |
+|--|--|--|
+
 ## The Mask as Identity: Two Film Examples
 
 Popular culture provides two almost opposite ways of thinking about **the mask as identity**.
