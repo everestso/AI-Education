@@ -18,11 +18,10 @@ The historical record cannot reveal all of Winchester’s private beliefs, and i
 
 ## References
 
-[^1]: Mary Jo Ignoffo, *Captive of the Labyrinth: Sarah L. Winchester, Heiress to the Rifle Fortune*, revised and updated edition (University of Missouri Press, 2022). See the [publisher’s overview](https://www.penguinrandomhouse.com/books/554887/captive-of-the-labyrinth-by-mary-jo-ignoffo/).
+1. Mary Jo Ignoffo, *Captive of the Labyrinth: Sarah L. Winchester, Heiress to the Rifle Fortune*, revised and updated edition (University of Missouri Press, 2022). [Publisher’s overview](https://www.penguinrandomhouse.com/books/554887/captive-of-the-labyrinth-by-mary-jo-ignoffo/)
 
-[^2]: Los Altos History Museum, [“Museum Talk Reveals Insights into Winchester and Merriman Homes”](https://www.losaltoshistory.org/2025/09/museum-talk-reveals-insights-into-winchester-and-merriman-homes/), discussing the architectural relationship between Llanada Villa and Isabel Merriman’s El Sueño.
+2. Los Altos History Museum, [“Museum Talk Reveals Insights into Winchester and Merriman Homes”](https://www.losaltoshistory.org/2025/09/museum-talk-reveals-insights-into-winchester-and-merriman-homes/). Discusses the architectural relationship between Sarah Winchester’s Llanada Villa and Isabel Merriman’s El Sueño.
 
-[^3]: Los Altos History Museum, [“Building El Sueño: Isabel Merriman, Sarah Winchester, and the California Dream”](https://www.losaltoshistory.org/exhibit/elsueno/), an exhibition examining the sisters’ architectural interests, independence, and reform activities.
 
 # Mills College and the Evolution of Bay Area Feminism
 
