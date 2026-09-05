@@ -1,3 +1,61 @@
+## Arabella Huntington: Collector, Philanthropist, and Huntington Library Co-Founder
+
+**Arabella Duval Huntington (c. 1850–1924)** was an influential art collector, investor, and philanthropist whose contributions helped shape the Huntington Library, Art Museum, and Botanical Gardens in San Marino.
+
+Yes—before marrying **Henry E. Huntington**, Arabella was married to his uncle, railroad magnate **Collis P. Huntington**.
+
+### Early Life
+
+Some details of Arabella’s early life remain uncertain. She was probably born in Alabama and raised largely in Richmond, Virginia. After her father’s death, her mother supported the family by operating a boardinghouse.
+
+Arabella moved to New York during the late 1860s and gave birth to her son, **Archer Milton Worsham**, in 1870. Accounts differ over whether she formally married John Archer Worsham, and Archer’s biological paternity has long been debated.
+
+Arabella subsequently formed a close relationship with **Collis P. Huntington**, one of the “Big Four” railroad developers associated with the Central Pacific and Southern Pacific railroads. The relationship may have begun while Collis was still married. After the death of his first wife, Collis married Arabella in 1884 and adopted Archer.
+
+### Marriage to Collis Huntington
+
+Arabella became an accomplished investor and art collector during her marriage to Collis. She purchased real estate and securities and assembled paintings, decorative arts, furniture, jewelry, and antiquities.
+
+After Collis died in 1900, Arabella inherited a substantial fortune and became one of America’s wealthiest women. She expanded her collection to include:
+
+* Dutch and Italian Old Master paintings
+* Eighteenth-century French art
+* Chinese porcelain
+* European furniture and decorative arts
+* Medieval and Renaissance religious objects
+
+She competed in the same international art market as collectors such as J. P. Morgan and Henry Clay Frick.
+
+### Marriage to Henry E. Huntington
+
+In 1913, Arabella married Collis’s nephew, **Henry Edwards Huntington**. The marriage attracted considerable public attention because Henry was the nephew of her deceased husband.
+
+Arabella was also related to Henry through his first marriage: Henry’s first wife, Mary Alice Prentice, was the sister of a niece adopted by Collis and his first wife. The Huntington family network was therefore unusually interconnected.
+
+Arabella strongly influenced Henry’s development as an art collector. Her knowledge, taste, and contacts with prominent dealers helped guide his purchases, particularly his celebrated collection of British portraits.
+
+She also took an interest in the gardens and residence at Henry’s San Marino estate, although she continued to spend considerable time in New York and Europe.
+
+### Creating the Huntington
+
+In 1919, Arabella and Henry jointly signed the trust agreement that transformed their private San Marino estate and collections into a public institution dedicated to scholarship, art, gardens, and public welfare.
+
+Arabella died in 1924, three years before Henry. The Huntington opened to the public in 1928.
+
+Her role was subsequently overshadowed by Henry’s name and by the dispersal of much of her personal collection. Some works entered the Metropolitan Museum of Art, the Hispanic Society Museum, San Francisco’s Legion of Honor, and other institutions. Henry also assembled the **Arabella D. Huntington Memorial Art Collection** in her honor.
+
+> Arabella Huntington was not simply the wife of two railroad magnates. She was an important Gilded Age collector whose financial judgment, artistic knowledge, and philanthropy helped create several major American cultural collections.
+
+## References
+
+1. The Huntington, [“Arabella Huntington: ‘Director of the Whole Enterprise’”](https://www.huntington.org/watch-read-listen/verso/arabella-huntington-director-whole-enterprise). A detailed reassessment of Arabella’s career as an investor, collector, philanthropist, and institutional founder.
+
+2. The Huntington, [“Arabella (Yarrington) Huntington”](https://emuseum.huntington.org/people/3267/arabella-yarrington-huntington). Biographical overview of her early life, marriages, collecting, and philanthropy.
+
+3. The Huntington, [“Our Organization”](https://www.huntington.org/about/our-organization). Describes Henry and Arabella’s creation of the public institution through their 1919 trust.
+
+4. Smithsonian Archives of American Art, [“Arabella Duval Huntington Papers, 1888–1925”](https://www.aaa.si.edu/collections/arabella-duval-huntington-papers-9682). Archival collection documenting her art collecting and charitable activities.
+
 ## Julia Morgan: Architect of Hearst Castle
 
 **Julia Morgan (1872–1957)** was the pioneering California architect responsible for Hearst Castle at San Simeon. Born in San Francisco and raised in Oakland, she became one of the most accomplished architects in American history and an important figure in the advancement of women within professional life.
