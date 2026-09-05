@@ -2,8 +2,6 @@
 
 **Arabella Duval Huntington (c. 1850–1924)** was an influential art collector, investor, and philanthropist whose contributions helped shape the Huntington Library, Art Museum, and Botanical Gardens in San Marino.
 
-Yes—before marrying **Henry E. Huntington**, Arabella was married to his uncle, railroad magnate **Collis P. Huntington**.
-
 ### Early Life
 
 Some details of Arabella’s early life remain uncertain. She was probably born in Alabama and raised largely in Richmond, Virginia. After her father’s death, her mother supported the family by operating a boardinghouse.
