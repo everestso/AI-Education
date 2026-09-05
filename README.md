@@ -1,3 +1,62 @@
+# The Fine Art Theatre on Maple Avenue
+
+The **Fine Art Theatre**, located at **1225 South Maple Avenue near the Fresno Fairgrounds**, had several distinct lives and occupies an unusual place in Fresno’s cultural history.
+
+## From Neighborhood Theater to Art House
+
+The theater opened as the **Mayfair Theatre on July 17, 1947**. Operated by the San Francisco–based Westland Theatres chain, it was a single-screen neighborhood cinema designed in the **Streamline Moderne** style.
+
+During the 1950s, the Mayfair primarily presented **second-run double features**—films that had completed their initial engagements at Fresno’s downtown theaters. Former patrons remember weekend children’s programs, stage contests, and prizes obtained by exchanging collected soda-bottle caps.
+
+The Mayfair was reportedly outside Fresno’s city limits at the time, allowing patrons to smoke inside. This distinguished it from theaters within the city, where smoking was restricted.
+
+For a period, the building was also known as the **International Theatre**, although the dates and programming associated with this name are not well documented.
+
+## The Fine Art Years
+
+The theater reopened as the **Fine Art Theatre on December 25, 1961**. Its new name reflected a major change in programming: it became Fresno’s principal venue for foreign, independent, experimental, and other nonmainstream films.
+
+Patrons recall seeing films by directors such as:
+
+* **Ingmar Bergman**
+* **Federico Fellini**
+* **Akira Kurosawa**
+* **Andy Warhol** and other underground filmmakers
+
+The Fine Art cultivated a deliberately cosmopolitan atmosphere. According to local recollections, it offered imported chocolates and complimentary coffee rather than relying entirely on conventional theater concessions. Advertisements also promoted **“Free Supervised Parking,”** probably intended to reassure audiences traveling to its southeast Fresno location.
+
+Before home video and the expansion of university film programs, theaters like the Fine Art provided one of the few opportunities for Fresno audiences to encounter European modernism, Japanese cinema, experimental filmmaking, and movies dealing openly with sexuality or political dissent.
+
+Its proximity to the **Fresno Community Theater** also helped make the area a small, if now largely forgotten, cultural destination.
+
+## From Erotic Cinema to Closure
+
+As American film censorship weakened during the late 1960s, the boundary between the “art film” and the “adult film” became increasingly uncertain. European films promoted for their artistic sophistication were also frequently advertised through their sexual content.
+
+The Fine Art gradually began showing more exploitation pictures, sex comedies, soft-core films, and eventually explicit pornography. This transition occurred at many independent art houses as television, suburban multiplexes, and changing film-distribution practices reduced their traditional audiences.
+
+The Fine Art Theatre finally closed in **1988**.
+
+The property is now classified in commercial records as supermarket or retail land, and the theater is no longer operating. Available online records do not clearly establish when the original auditorium was demolished or incorporated into later development.
+
+## Historical Significance
+
+The Fine Art’s history reflects three overlapping periods of American moviegoing:
+
+1. **The postwar neighborhood cinema**, represented by the Mayfair Theatre.
+2. **The 1960s art-house movement**, which introduced Fresno audiences to international and experimental filmmaking.
+3. **The decline of independent single-screen theaters**, many of which survived temporarily by shifting toward erotic and adult programming.
+
+Its final years as an adult theater can overshadow its more important cultural role. For roughly two decades, the Fine Art gave Fresno audiences a cinematic window onto international modernism, underground filmmaking, and the emerging counterculture.
+
+## References
+
+1. Cinema Treasures, [“Fine Arts Theatre, Fresno, California”](https://cinematreasures.org/theaters/5117), including its opening and closing dates, former names, architectural classification, and recollections submitted by former patrons.
+
+2. LoopNet, [property record for 1225 South Maple Avenue](https://www.loopnet.com/property/1225-s-maple-ave-fresno-ca-93702/06019-47030008/), documenting the parcel’s present commercial classification.
+
+> **Source note:** The principal dates are supported by contemporary theater advertisements cited in the Cinema Treasures archive. Details about programming, concessions, smoking, and audience culture come primarily from individual recollections and should be regarded as oral history rather than fully verified institutional records.
+
 ## Arabella Huntington: Collector, Philanthropist, and Huntington Library Co-Founder
 
 **Arabella Duval Huntington (c. 1850–1924)** was an influential art collector, investor, and philanthropist whose contributions helped shape the Huntington Library, Art Museum, and Botanical Gardens in San Marino.
