@@ -1,3 +1,40 @@
+## Julia Morgan: Architect of Hearst Castle
+
+**Julia Morgan (1872–1957)** was the pioneering California architect responsible for Hearst Castle at San Simeon. Born in San Francisco and raised in Oakland, she became one of the most accomplished architects in American history and an important figure in the advancement of women within professional life.
+
+Morgan graduated from the University of California, Berkeley, with a degree in civil engineering in 1894. Encouraged by architect Bernard Maybeck, she continued her studies at the prestigious École des Beaux-Arts in Paris. After overcoming repeated gender-based barriers, she became the first woman admitted to its architecture program and the first woman to earn its architectural certificate.
+
+Returning to California, Morgan became the state’s first licensed female architect in 1904 and opened her own San Francisco practice. Her engineering knowledge was particularly valuable in earthquake-prone California. One of her first independent commissions, the reinforced-concrete **El Campanil bell tower at Mills College**, survived the 1906 earthquake and helped establish her professional reputation.
+
+In 1919, newspaper publisher **William Randolph Hearst** hired Morgan to develop his family ranch at San Simeon. Their collaboration continued for nearly three decades. Morgan designed and supervised most aspects of what became Hearst Castle, including:
+
+* The main residence, Casa Grande
+* Three guest houses
+* The Neptune and Roman pools
+* Terraces, gardens, roads, and service buildings
+* Structural systems supporting the hilltop complex
+* Installation of Hearst’s extensive collection of European art and architectural fragments
+
+Hearst supplied an enormous stream of ideas, historical references, and acquired objects; Morgan translated them into structures that could actually be built. Her combination of artistic imagination, engineering knowledge, and organizational discipline gave architectural unity to a project that could otherwise have become a collection of unrelated extravagances.
+
+Hearst Castle was only one part of her career. Morgan completed more than 700 projects, including private residences, churches, women’s clubs, YWCA buildings, university facilities, and the Asilomar Conference Grounds near Pacific Grove. Approximately 100 of her commissions were designed specifically for women’s organizations.
+
+Although Morgan was not an outspoken feminist activist, her career had a powerful feminist effect. She entered an overwhelmingly male profession, operated her own practice, employed other women, and designed spaces in which women could live, exercise, study, organize, and participate in civic life.
+
+> Julia Morgan advanced women’s independence through the authority of her work. Rather than arguing publicly that women could become great architects, she demonstrated it through hundreds of enduring buildings.
+
+In 2014, Morgan posthumously became the first woman to receive the **American Institute of Architects Gold Medal**, the organization’s highest honor.
+
+## References
+
+1. UC Berkeley Civil and Environmental Engineering, [“Julia Morgan: Academy of Distinguished Alumni”](https://ce.berkeley.edu/people/alumni/academy-of-distinguished-alumni/1504). Overview of Morgan’s education, career, major projects, and work at Hearst Castle.
+
+2. Berkeley News, [“Berkeley’s Julia Morgan Collection Shows Alumna Designed Spaces for Women”](https://news.berkeley.edu/2020/03/30/berkeleys-julia-morgan-collection-shows-alumna-designed-spaces-for-women/). Discusses Morgan’s professional barriers, architectural archive, and extensive work for women’s organizations.
+
+3. Hearst Castle, [“Julia Morgan Tour”](https://hearstcastle.org/tour/julia-morgan-tour/). Official California State Parks overview of Morgan’s career and her work at the San Simeon estate.
+
+4. UC Berkeley Engineering, [“Julia Morgan: Iconic Architect”](https://engineering.berkeley.edu/julia-morgan-iconic-architect/). Brief account of Morgan’s pioneering education, architectural license, and legacy.
+
 ## Sarah Winchester as an Early Feminist Figure
 
 Sarah Winchester was not a public feminist activist, but her life can reasonably be interpreted as an early expression of feminist independence. After her husband’s death in 1881, she controlled her own fortune, managed investments and real estate, supported an extended family, and pursued architectural experimentation at a time when finance, property development, and architecture were overwhelmingly controlled by men.[^1]
