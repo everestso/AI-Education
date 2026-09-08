@@ -1,4 +1,4 @@
-[Dark Chambers (Atari 7800 circa 1988) w/ Gymnasium](https://github.com/everestso/AI-Education/blob/main/DarkChambers_DeepLearning_DRuby.ipynb)
+[Dark Chambers (Atari 2600 circa 1988) w/ Gymnasium](https://github.com/everestso/AI-Education/blob/main/DarkChambers_DeepLearning_DRuby.ipynb)
 
 # A Brief History of Feminism Through Global Cultural Narratives
 
