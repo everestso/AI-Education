@@ -1,7 +1,7 @@
-**The Fresno Assembly Center** 
+**Portion of The Fresno Assembly Center??** 
 |  |  |
 |--|--|
-| <img src="PXL_20260910_163438919~2.jpg" width="350"></a> |  |
+| <img src="PXL_20260910_163438919~2.jpg" width="350"></a> |  <img src="PXL_20260910_164040683~2.jpg" width="350"></a> |
 
 [Dark Chambers (Atari 2600 circa 1988) w/ Gymnasium](https://github.com/everestso/AI-Education/blob/main/DarkChambers_DeepLearning_DRuby.ipynb)
 
