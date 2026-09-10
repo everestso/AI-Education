@@ -3,9 +3,9 @@
 |--|--|
 | <img src="PXL_20260910_163438919~2.jpg" width="350"></a> |  <img src="PXL_20260910_164040683~2.jpg" width="350"></a> |
 
-[Dark Chambers (Atari 2600 circa 1988) w/ Gymnasium](https://github.com/everestso/AI-Education/blob/main/DarkChambers_DeepLearning_DRuby.ipynb)
 
-|  |  |
+
+|[Dark Chambers (Atari 2600 circa 1988) w/ Gymnasium](https://github.com/everestso/AI-Education/blob/main/DarkChambers_DeepLearning_DRuby.ipynb)  | Castle Wolfenstein (1981)  |
 |--|--|
 | <a href="darkchambers_best.gif"> <img src="darkchambers_best.gif" alt="Wild Bill Hickok, Texas Jack Omohundro, and Buffalo Bill (1873)" width="250"> </a> | <img src="PXL_20260910_165156285~2.jpg" width="350"></a> |
 
