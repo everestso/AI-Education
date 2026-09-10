@@ -3,6 +3,36 @@
 |--|--|
 | <img src="PXL_20260910_163438919~2.jpg" width="350"></a> |  <img src="PXL_20260910_164040683~2.jpg" width="350"></a> |
 
+# Fresno Fair Grounds & Fresno Assembly Center
+## 3. Federal Takeover During World War II
+
+The federal government temporarily acquired or leased the fairgrounds and neighboring land in **February 1942**.
+
+This wartime property was larger than the land most residents now identify as the Fresno Fairgrounds. Later federal records associate the former military installation with land now divided among:
+
+* The modern Fresno Fairgrounds
+* City-owned property around the Mosqueda Community Center
+* Privately owned parcels
+* Other developed neighborhood property
+
+This wider wartime boundary is important when considering the former barracks tract near Maple and Butler avenues.
+
+## 4. The Fresno Assembly Center, 1942
+
+Following Executive Order 9066, the fairgrounds and adjacent land became the **Fresno Assembly Center**, one of the temporary detention camps used to imprison Japanese Americans before transferring them to more permanent concentration camps.
+
+The center operated from **May 6 through October 30, 1942**. It confined a total of **5,344 Japanese Americans**, with a peak population of 5,120.
+
+The prisoners primarily came from:
+
+* Fresno County
+* Other Central San Joaquin Valley communities
+* Amador County
+
+They were imprisoned on the basis of ancestry, without individual charges, trials, or findings of disloyalty.
+
+The camp was surrounded by fencing and guarded by military police. Existing fair buildings were adapted for administrative, medical, storage, and communal purposes, while large numbers of temporary barracks were erected.
+
 
 
 |[Dark Chambers (Atari 2600 circa 1988) w/ Gymnasium](https://github.com/everestso/AI-Education/blob/main/DarkChambers_DeepLearning_DRuby.ipynb)  | Castle Wolfenstein (1981)  |
