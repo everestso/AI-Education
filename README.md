@@ -1,15 +1,15 @@
-| Year | Semester	| ID	Desc	Units	Last	First	|
-|------|----------|-----------------------------|
-| 1982 | Fall	| Acct 4b	Acct Prin + Sys	3 A	|
-| 1982 | Fall	| CSci 117	Struct of Prg La	3	Yeung	H.	A **Science I Presentations**|
-| 1982 | Fall	| Fin 104	Bus Forecasting	3			A |
-| 1982 | Fall	| Math 121	Numerical Anl 1	3			A	* Math Coding w/ Fortran 77/ Kafka |
-| 1982 | Fall	| Spch 3	Fund Public Comm	3			A / Champagne Talk (Will Wait) |
+| Year | Semester	| ID	Desc	Units	Last	First	| |
+|------|----------|-----------------------------|-|
+| 1982 | Fall	| Acct 4b	Acct Prin + Sys	3 A	| |
+| 1982 | Fall	| CSci 117	Struct of Prg La	3	Yeung	H.	A **Science I Presentations**|<img src="140490051[1].jpg" width="150"> |
+| 1982 | Fall	| Fin 104	Bus Forecasting	3			A | |
+| 1982 | Fall	| Math 121	Numerical Anl 1	3			A	* Math Coding w/ Fortran 77/ Kafka | |
+| 1982 | Fall	| Spch 3	Fund Public Comm	3			A / Champagne Talk (Will Wait) | |
 
 **Portion of The Fresno Assembly Center??** 
 |  |  |
 |--|--|
-| <img src="PXL_20260910_163438919~2.jpg" width="350"></a> |  <img src="PXL_20260910_164040683~2.jpg" width="350"></a> |
+| <img src="PXL_20260910_163438919~2.jpg" width="350"> |  <img src="PXL_20260910_164040683~2.jpg" width="350">|
 
 # Fresno Fair Grounds & Fresno Assembly Center
 ## 3. Federal Takeover During World War II
