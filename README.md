@@ -1,3 +1,8 @@
+# Fresno: Diaspora Destination
+## Armenia: Diyarbakir, Harput
+## Volga German: Tarlykovka
++ Sevastopol, Baku
+
 | Year | Semester	| ID	Desc	Units	Last	First	| |
 |------|----------|-----------------------------|-|
 | 1982 | Fall	| Acct 4b	Acct Prin + Sys	3 A	| |
