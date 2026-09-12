@@ -3,6 +3,177 @@
 ## Volga German: Tarlykovka
 + Sevastopol, Baku
 
+# Armenian Criminal Organizations in Southern California and the Influence of the Soviet/Post-Soviet Diaspora
+
+## Overview
+
+The growth of Armenian criminal organizations in Southern California is best understood within the history of **several different Armenian migration waves**. Of particular importance was the arrival of Armenians from the **Soviet Union and former Soviet states during the 1980s and 1990s**.
+
+This later migration differed substantially from the older Armenian diaspora that settled in Fresno and other agricultural areas of California.
+
+---
+
+## 1. Soviet Armenia and the Russian Connection
+
+Armenia became part of the Soviet Union in **1920–1921** and remained a Soviet republic until 1991.
+
+During this period:
+
+- Russian became an important second language for many Armenians.
+- Armenians participated in economic and social networks extending throughout the USSR.
+- Migration occurred between Armenia, Russia, Ukraine, Georgia, and other Soviet republics.
+- Soviet underground economies and prison cultures also operated across ethnic and republican boundaries.
+
+Consequently, some Armenians arriving in the United States from the USSR possessed cultural and linguistic connections to the broader Russian-speaking world.
+
+---
+
+## 2. Late-Soviet Armenian Emigration
+
+Armenian emigration accelerated during the **1980s** as the Soviet system weakened.
+
+Important pressures included:
+
+- Economic deterioration within the Soviet Union
+- Political instability
+- The devastating **1988 Spitak earthquake**
+- The emerging **Nagorno-Karabakh conflict**
+- Ethnic violence and population displacement
+- Relaxation of Soviet restrictions on emigration
+
+Southern California became one of the important American destinations.
+
+---
+
+## 3. Collapse of the Soviet Union
+
+The **1991 collapse of the USSR** produced another major period of Armenian emigration.
+
+Newly independent Armenia experienced:
+
+- War
+- Severe unemployment
+- Energy shortages
+- Economic disruption
+- Weak government institutions
+- Disruption of Soviet-era industries and markets
+
+Large numbers of Armenians consequently migrated to Russia, Europe, and the United States.
+
+---
+
+## 4. Concentration in Southern California
+
+Many Soviet and post-Soviet Armenian immigrants settled in:
+
+- Glendale
+- East Hollywood
+- North Hollywood
+- Burbank
+- The San Fernando Valley
+
+This produced a large, densely concentrated Armenian-speaking and Russian-speaking population in metropolitan Los Angeles.
+
+The migration pattern differed considerably from Fresno's earlier Armenian settlement:
+
+**Ottoman-era Armenian diaspora → Fresno → agriculture, land ownership, churches, and family businesses**
+
+**Late-Soviet/post-Soviet diaspora → Los Angeles → dense urban communities and connections to the wider Russian-speaking world**
+
+---
+
+## 5. Emergence of Armenian Power
+
+**Armenian Power (AP/AP13)** emerged in the East Hollywood area during the **1980s**.
+
+It initially exhibited characteristics associated with an ethnic neighborhood street gang, including:
+
+- Youth membership
+- Neighborhood identity
+- Protection and territorial conflicts
+- Violence involving rival gangs
+
+Over time, portions of Armenian Power became involved in increasingly sophisticated criminal enterprises.
+
+---
+
+## 6. Expansion into Financial Crime
+
+Federal investigations eventually associated Armenian Power members with crimes including:
+
+- Identity theft
+- Bank fraud
+- Credit and debit-card fraud
+- ATM and card-skimming schemes
+- Counterfeit checks
+- Extortion
+- Narcotics trafficking
+- Money laundering
+
+This financial-crime component distinguished portions of AP from a conventional neighborhood street gang.
+
+---
+
+## 7. Connection to Eurasian Organized Crime
+
+The Soviet/post-Soviet diaspora also created opportunities for some criminals to interact with networks extending beyond Los Angeles.
+
+Federal investigations documented relationships involving Armenian Power figures and organized-crime figures in:
+
+- Armenia
+- Russia
+- Other parts of the former Soviet Union
+
+Some cases included individuals associated with the Soviet/post-Soviet **_vor v zakone_** ("thieves-in-law") criminal tradition.
+
+Russian language, common Soviet backgrounds, family relationships, and international financial connections could facilitate cooperation across ethnic and national boundaries.
+
+For this reason, federal law enforcement has sometimes examined Armenian organized crime within the broader category of **Eurasian organized crime**.
+
+---
+
+## 8. From Street Gang to Criminal Network
+
+The historical development can therefore be summarized as:
+
+**Soviet integration**  
+↓  
+**Russian language and USSR-wide social networks**  
+↓  
+**Late-Soviet instability and emigration**  
+↓  
+**Collapse of the USSR (1991)**  
+↓  
+**Large post-Soviet Armenian diaspora**  
+↓  
+**Concentration in Southern California**  
+↓  
+**Growth of Armenian urban communities**  
+↓  
+**Growth of Armenian Power within a small criminal subset of that environment**  
+↓  
+**Connections by some members to broader Eurasian criminal networks**  
+↓  
+**Expansion into sophisticated financial and transnational crime**
+
+---
+
+## Important Qualification
+
+The Soviet/post-Soviet diaspora should **not be interpreted as the cause of Armenian criminality**.
+
+The overwhelming majority of Armenian immigrants were not associated with criminal organizations. Migration instead helps explain the **social environment, shared languages, international relationships, and population concentration** within which a relatively small criminal subculture could develop.
+
+Similarly, the later Southern California phenomenon should not be projected backward onto Fresno's much older Armenian community.
+
+The two histories represent substantially different branches of the Armenian-American experience:
+
+> **Fresno:** older Ottoman/genocide-era diaspora → agriculture → land ownership → established multigenerational community.
+>
+> **Southern California:** later Middle Eastern and Soviet/post-Soviet migration → urban concentration → a small criminal subset represented by organizations such as Armenian Power → documented connections by some figures with broader Eurasian organized crime.
+
+Understanding that distinction helps separate the **history of Armenian immigration** from the much narrower history of **Armenian organized crime in Southern California**.
+
 | Year | Semester	| ID	Desc	Units	Last	First	| |
 |------|----------|-----------------------------|-|
 | 1982 | Fall	| Acct 4b	Acct Prin + Sys	3 A	| |
