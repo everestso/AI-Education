@@ -1,3 +1,315 @@
+# Proposed Co-Offered Course: Technology for Global Criminal Investigation
+
+## Course Concept
+
+**Departments:** Computer Science and Criminology  
+**Units:** 3  
+**Level:** Upper-division undergraduate or graduate  
+**Format:** Cross-listed and team-taught, combining discussion, technical laboratories, and an agency-oriented capstone
+
+## Catalog Description
+
+An interdisciplinary examination of technologies used to investigate crime across jurisdictions, national borders, and digital networks. Topics include global criminal-information systems, secure data sharing, database design, digital evidence, network and geospatial analysis, financial investigations, open-source intelligence, biometrics, video analytics, artificial intelligence, and emerging surveillance technologies.
+
+Students learn how Computer Science and Criminology professionals can transform diverse data into useful investigative intelligence while maintaining evidentiary integrity, cybersecurity, privacy, civil rights, and public trust.
+
+## Interdisciplinary Structure
+
+| Computer Science Emphasis | Criminology Emphasis |
+|---|---|
+| Programming and data structures | Investigative reasoning |
+| Database and systems design | Criminal procedure |
+| Cybersecurity | Evidence and chain of custody |
+| Machine learning and analytics | Crime-pattern interpretation |
+| Technical validation | Ethics, policy, and community impact |
+
+Assignments could allow role specialization, but all students should understand what investigative technologies do, how their results are produced, and what those results can—and cannot—prove.
+
+## Learning Outcomes
+
+Students completing the course should be able to:
+
+1. Explain how criminal-information systems exchange data across agencies and countries.
+2. Model investigative information using relational, graph, document, and geospatial databases.
+3. Integrate records while preserving provenance, access controls, and audit history.
+4. Apply link, temporal, financial, and geospatial analysis to investigative problems.
+5. Preserve and evaluate digital evidence using accepted forensic principles.
+6. Assess biometrics, video analytics, license-plate recognition, drones, and related technologies.
+7. Explain jurisdictional and legal requirements for obtaining electronic evidence.
+8. Evaluate accuracy, bias, false matches, privacy risks, and potential misuse.
+9. Distinguish investigative leads from verified evidence.
+10. Recommend whether an agency should adopt, limit, pilot, or reject a technology.
+
+# Proposed 15-Week Outline
+
+## Unit I: Global Crime and Information Systems
+
+### Week 1 — Investigation in a Networked World
+
+- Transnational organized crime
+- Cybercrime, fraud, trafficking, and illicit finance
+- Local crimes with international digital connections
+- From raw data to intelligence and evidence
+
+**Exercise:** Trace how a Fresno fraud complaint could produce records across financial institutions, cloud services, states, and countries.
+
+### Week 2 — Global Criminal-Information Systems
+
+- INTERPOL and its National Central Bureaus
+- FBI and national criminal-justice systems
+- Identity, biometric, vehicle, firearm, and travel-document records
+- Database hits versus evidence of guilt
+- Aliases, duplicate identities, and multilingual names
+
+INTERPOL provides an important international model: authorized users can query global databases through its secure I-24/7 network, while member countries remain responsible for contributing data under applicable laws and data-protection rules. [INTERPOL Database Overview](https://www.interpol.int/How-we-work/Databases)
+
+### Week 3 — Investigative Database Design
+
+- Relational and document databases
+- Graph databases for people, accounts, devices, and organizations
+- Spatial and time-series data
+- Evidence metadata and provenance
+- Entity resolution across inconsistent records
+
+**Laboratory:** Build a database containing fictional incidents, people, aliases, vehicles, locations, devices, and transactions.
+
+### Week 4 — Secure Information Sharing
+
+- Centralized and federated systems
+- Secure network shares and APIs
+- Role-based access
+- Authentication and encryption
+- Logging, auditing, retention, and breach response
+- “Need to know” and “right to know”
+
+U.S. criminal-justice systems must meet formal security requirements such as the [FBI CJIS Security Policy](https://le.fbi.gov/file-repository/cjis_security_policy_v6-1_20260625.pdf/view).
+
+## Unit II: Investigative Data Analysis
+
+### Week 5 — Criminal and Social Network Analysis
+
+- Nodes, relationships, centrality, and clusters
+- Communication and transaction networks
+- Co-location and shared-resource analysis
+- Association versus criminal participation
+- Incomplete and misleading network data
+
+### Week 6 — Geospatial and Temporal Analysis
+
+- Crime mapping and geographic information systems
+- Routes, borders, proximity, and jurisdiction
+- Event timelines and location histories
+- Hot-spot analysis
+- Limits of predictive inference
+
+### Week 7 — Financial and Cryptocurrency Investigations
+
+- Banking and payment-platform records
+- Shell companies and beneficial ownership
+- Fraud and money-laundering patterns
+- Cryptocurrency ledgers and wallet relationships
+- Asset tracing across jurisdictions
+
+### Week 8 — Open-Source Intelligence
+
+- Public records and online research
+- Social-media evidence
+- Archived websites and internet infrastructure
+- Image and video verification
+- Geolocation and chronolocation
+- Misinformation, manipulated media, and source validation
+
+## Unit III: Digital Evidence and Surveillance
+
+### Week 9 — Digital Forensics
+
+- Computers, mobile devices, cloud services, vehicles, and drones
+- Forensic acquisition and hashing
+- Chain of custody
+- Deleted, altered, and encrypted data
+- Tool validation and reproducibility
+- Preparing technical findings for court
+
+NIST emphasizes retrieving, storing, and analyzing electronic data without altering its evidentiary value. [NIST Digital Evidence](https://www.nist.gov/digital-evidence)
+
+**Laboratory:** Examine a NIST reference image or instructor-created forensic dataset and prepare an evidence report. [NIST Forensic Reference Data Sets](https://www.nist.gov/itl/csd/secure-systems-and-applications/computer-forensics-tool-testing-program-cftt/cfreds)
+
+### Week 10 — Video Analytics and Real-Time Information Centers
+
+- Fixed cameras and body-worn video
+- Automated license-plate recognition
+- Object and vehicle tracking
+- Automated video search
+- Retention, access, and disclosure
+- Performance under poor image conditions
+
+This topic has direct local relevance: Fresno Police operates a Real Time Information Center that uses intersection cameras to support officers and criminal investigations. [City of Fresno RTIC Profile](https://www.fresno.gov/news/we-work-for-you-katelyn-taylor/)
+
+### Week 11 — Biometrics and Identity
+
+- Fingerprint, facial, iris, voice, and gait recognition
+- Verification versus identification
+- Accuracy and decision thresholds
+- False-positive and false-negative results
+- Demographic performance differences
+- Human review and corroboration
+- Deepfakes and synthetic identities
+
+### Week 12 — Drones, Sensors, and Emerging Surveillance
+
+- Unmanned aerial systems
+- Connected vehicles and Internet-of-Things evidence
+- Acoustic and environmental sensors
+- Commercial satellite imagery
+- Wearable and mobile-device data
+- Robotics for hazardous evidence collection
+- Necessity, proportionality, security, and oversight
+
+## Unit IV: AI, Law, and International Cooperation
+
+### Week 13 — AI-Assisted Investigation
+
+- Entity matching across large datasets
+- Natural-language processing of reports
+- Translation and multilingual name matching
+- Image and video analysis
+- Anomaly detection
+- Generative AI for summaries and leads
+- Hallucinations, automation bias, and explainability
+- Required human verification
+
+### Week 14 — Law, Ethics, and Cross-Border Evidence
+
+- Search and seizure
+- Warrants, subpoenas, and preservation requests
+- Authentication, admissibility, and discovery
+- Data minimization and retention
+- Privacy, civil rights, and community trust
+- International legal assistance
+- CLOUD Act agreements
+- Conflicting national laws and human-rights standards
+
+Cross-border evidence collection depends on legal processes as well as technology. [U.S. Department of Justice CLOUD Act Guidance](https://www.justice.gov/criminal/criminal-oia/regarding-cloud-act-executive-agreements)
+
+### Week 15 — Capstone Presentations
+
+Interdisciplinary teams assess an emerging investigative technology and recommend whether an agency should:
+
+- Adopt it
+- Conduct a limited pilot
+- Modify the proposed use
+- Defer implementation
+- Reject it
+
+The assessment should address effectiveness, accuracy, cybersecurity, legality, privacy, cost, training, oversight, and community impact.
+
+# Local Law-Enforcement Engagement
+
+The course could establish an **Agency Technology Partnership Program** involving invited representatives from:
+
+- Fresno Police Department
+- Fresno County Sheriff’s Office
+- Fresno County District Attorney’s Office
+- California Highway Patrol
+- Fresno State Police Department
+- Regional probation and corrections agencies
+- Nearby municipal police departments
+- Federal investigative agencies
+- Prosecutors, defense attorneys, technologists, and civil-liberties specialists
+
+Participation would support education and technology assessment—not student access to active investigations or restricted criminal-justice information.
+
+## Possible Agency Roles
+
+### Guest Speakers
+
+Practitioners could discuss:
+
+- Investigative workflows
+- Incompatible information systems
+- Digital-evidence backlogs
+- Video and records management
+- Technology procurement
+- Training and staffing needs
+- Lessons from current systems
+
+### Technology Demonstrations
+
+Possible demonstrations include:
+
+- Digital-forensic platforms
+- Graph and link-analysis tools
+- Real-time information systems
+- Automated video analysis
+- Drone mapping
+- Secure evidence management
+- AI-assisted document analysis
+
+Vendor presentations should be accompanied by independent discussion of accuracy, cost, limitations, and policy implications.
+
+### Agency-Sponsored Problems
+
+Agencies could propose non-sensitive questions such as:
+
+- How should video evidence be indexed and retained?
+- How can duplicate identities be detected across databases?
+- What controls should govern camera-system access?
+- How should investigators verify AI-generated summaries?
+- How can evidence move securely between police and prosecutors?
+- What performance measures should precede a technology purchase?
+
+Students would work only with synthetic, anonymized, or public data.
+
+### Central Valley Technology Forum
+
+The course could conclude with an annual forum bringing together students, faculty, agencies, legal professionals, technology providers, and community representatives to discuss:
+
+- Emerging investigative technologies
+- Unmet agency needs
+- Privacy and community concerns
+- Research and internship opportunities
+- Potential university-agency pilot projects
+
+# Representative Assignments
+
+| Assignment | Product |
+|---|---|
+| Database design | Investigative schema and data dictionary |
+| Secure-sharing assessment | Access-control and audit plan |
+| Link-analysis laboratory | Network visualization and interpretation |
+| Digital-forensics exercise | Chain-of-custody record and report |
+| Surveillance assessment | Accuracy, privacy, and policy analysis |
+| AI validation exercise | Error analysis and review protocol |
+| International evidence scenario | Jurisdiction and acquisition plan |
+| Capstone | Technology recommendation and prototype |
+
+# Suggested Grading
+
+- Technical laboratories: **25%**
+- Investigative and legal analyses: **20%**
+- Midterm case exercise: **15%**
+- Ethics and surveillance assessment: **10%**
+- Agency technology capstone: **25%**
+- Participation: **5%**
+
+# Recommended Capstone Scenario
+
+Students investigate a simulated transnational criminal network beginning with a Fresno fraud complaint. The dataset could include:
+
+- Multiple names and aliases
+- Online communications
+- Vehicles and camera sightings
+- Financial and cryptocurrency transactions
+- Cloud-stored records
+- A foreign service provider
+- Conflicting database entries
+- A possible biometric match
+- AI-generated leads containing deliberate errors
+
+Teams would construct an integrated case model, identify lawful methods for obtaining additional evidence, distinguish leads from verified facts, and present their findings to faculty and practitioners.
+
+The central principle of the course would be that investigative technology is valuable only when its data are reliable, its conclusions are explainable, its use is lawful, and its operation maintains public trust.
+
 | Year | Semester | ID | Desc| Units | Last| First | Grade | Events                |
 |---|---|---|---|---|---|---|---|--------------------------|
 | 1982 | Fall     | Acct 4b  | Acct Prin + Sys        | 3     |                           |            | A     |                              |
