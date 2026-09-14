@@ -13,6 +13,8 @@ An interdisciplinary examination of technologies used to investigate crime acros
 
 Students learn how Computer Science and Criminology professionals can transform diverse data into useful investigative intelligence while maintaining evidentiary integrity, cybersecurity, privacy, civil rights, and public trust.
 
+*Seeing the invisible world of crime; Understanding how controlling crime involves citizen civic responsibility to include community engagement with law enforcement to create a shared understanding of criminal landscape.*
+
 ## Interdisciplinary Structure
 
 | Computer Science Emphasis | Criminology Emphasis |
