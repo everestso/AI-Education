@@ -3,8 +3,8 @@
 
 Many well-known physical and engineering systems are modeled using **ordinary differential equations (ODEs)** or **stochastic differential equations (SDEs)**. Nuclear reactions and jet engines are good examples, although highly detailed models often require partial differential equations (PDEs).
 
-| <img src="PXL_20260915_163244931.MP.jpg" width="350"> | <img src="g1-trained-policy.gif" width="350"> | 
-|-|-|
+| <img src="PXL_20260915_163244931.MP.jpg" width="350"> | <img src="g1-trained-policy.gif" width="300"> | <img src="PXL_20260915_163900604.MP.jpg" width="350">  |
+|-|-|-|
 
 ## Famous ODE Systems
 
