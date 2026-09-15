@@ -36,6 +36,32 @@ In short:
 - **SDE:** random change, usually over time.
 - **SPDE:** random change across space and time.
 
+# The Thirteenth Returns: Love, Cyclical Time, and the Breaking of the Mask in Octavio Paz's *Sunstone*
+
+## An English-Language Introduction to a Conversation Connecting Octavio Paz, Gérard de Nerval, Fresno State, and UCLA
+
+One intriguing thread in modern Latin American literature begins with an unusual phrase:
+
+> **“Vuelve otra vez la Trece — ¡y es aún la Primera!”**
+
+A natural English rendering is:
+
+> **“The Thirteenth returns again—and it is still the First!”**
+
+The phrase comes from Octavio Paz's Spanish translation of the French poet **Gérard de Nerval's “Arthémis.”** Nerval's original poem provides the epigraph to Paz's great 1957 poem ***Piedra de Sol***, generally translated into English as ***Sunstone***.
+
+The idea is paradoxical but central:
+
+**The thirteenth returns and becomes the first.**
+
+An ending becomes another beginning.
+
+That simple idea opens into a much larger literary exploration of **cyclical time, memory, erotic love, social identity, historical consciousness, and the possibility of human transformation**.
+
+It has also generated an interesting scholarly trail extending from Paz and the broader Latin American literary community to **Fresno State and UCLA**.
+
+---
+
 # Famous Ordinary and Stochastic Differential Equations
 
 Many well-known physical and engineering systems are modeled using **ordinary differential equations (ODEs)** or **stochastic differential equations (SDEs)**. Nuclear reactions and jet engines are good examples, although highly detailed models often require partial differential equations (PDEs).
