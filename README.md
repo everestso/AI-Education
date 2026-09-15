@@ -1,3 +1,43 @@
+# DEs
+
+DEs describe how quantities change in relation to one another. They are widely used to model systems that evolve over time, including physical motion, population growth, financial markets, optimization algorithms, and machine-learning models.
+
+## ODEs
+
+ODEs describe a deterministic process. They can be understood as the continuous limit of a sequence of increasingly small updates:
+
+```math
+\frac{du}{dt} = m(u,t)
+```
+
+In this equation:
+
+- $u$ is the quantity being modeled.
+- $t$ commonly represents time.
+- $\frac{du}{dt}$ is the rate at which $u$ changes.
+- $m(u,t)$ determines the rate of change based on the current value of $u$ and the current time.
+
+Given appropriate initial conditions, solving the ODE determines the subsequent behavior of $u(t)$. 
+
+## SDEs
+
+SDEs extend ODEs by including random variation:
+
+```math
+du = m(u,t)\,dt + s(u,t)\,dw
+```
+
+The two main components are:
+
+- $m(u,t)\,dt$, which describes the deterministic change.
+- $s(u,t)\,dw$, which describes the random or stochastic change.
+
+Because of the noise term, an SDE describes a collection of possible trajectories rather than a single predictable trajectory. 
+
++ ODEs describe **deterministic evolution**
++ SDEs describe evolution that includes **randomness or uncertainty**
++ Both modeling systems resulting from **many small changes**
+
 <img src="g1-trained-policy.gif" width="350">
 
 # Proposed Co-Offered Course: Technology for Global Criminal Investigation
