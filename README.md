@@ -1,3 +1,5 @@
+<img src="g1-trained-policy.gif" width="350">
+
 # Proposed Co-Offered Course: Technology for Global Criminal Investigation
 
 ## Course Concept
