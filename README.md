@@ -1,3 +1,46 @@
+# The Box Factory on North Maple Avenue: Historical Timeline
+
+The factory remembered near **1266 N. Maple Avenue** was likely associated with **General Box Distributors**, a Fresno operation within the larger **American Forest Products Corporation** system. It manufactured wooden shipping products—including produce boxes, crates, box components, and pallets—for the San Joaquin Valley’s agricultural and industrial economy.
+
+The street address should be treated as approximate. The industrial operation may have occupied several adjoining parcels along Maple Avenue, while directories sometimes listed its office, factory, and lumber yard under different addresses.
+
+## Reverse Historical Timeline
+
+| Date or Period | Development |
+|---|---|
+| **Present** | The property at **1266 N. Maple Avenue** is occupied by **Gulfeagle Supply**, a roofing and building-material distributor. The surrounding industrial land has been divided among supply, warehouse, and storage uses. [Gulfeagle Supply listing](https://www.chamberofcommerce.com/business-directory/california/fresno/roofing-supply-store/2002333409-gulfeagle-supply) |
+| **Early 2000s–present** | The address was associated first with **R & S Supply** and later with Gulfeagle Supply. These businesses used the property for building-material storage and distribution rather than wooden-box manufacturing. [R & S Supply listing](https://www.bbb.org/us/ca/fresno/profile/roofing-equipment/r-s-supply-1126-715190) |
+| **1980s–1990s** | Following the box factory’s closure, the former industrial property was reused or divided for warehouses, building-material businesses, and storage facilities. The nearby property at **1385 N. Maple Avenue** became a Derrel’s Mini Storage complex, suggesting that at least part of the former industrial area was redeveloped for storage. |
+| **Approximately 1979–1981 — probable closure period** | The wooden-products operation appears to have closed around **1980**, probably through a declining series of production reductions and layoffs rather than one abrupt shutdown. This coincided with the 1980 recession, declining demand for traditional wooden produce boxes, and Bendix Corporation’s decision to dispose of its forest-products holdings. |
+| **1981** | Bendix sold its forest-products division to the investment firm **Kohlberg Kravis Roberts**, better known as KKR. By this time, the Fresno wooden-box and pallet factory appears to have been closed or removed from the operating system. [American Forest Products corporate history](https://en.wikipedia.org/wiki/American_Forest_Products_Corporation) |
+| **Late 1970s** | The Fresno factory continued making wooden shipping products, but its traditional market was weakening. Corrugated cardboard cartons, reusable plastic containers, changing produce-packing methods, and standardized pallets were replacing many older wooden boxes and crates. Pallet production likely remained useful longer than traditional fruit-box production. |
+| **1969–late 1970s — Bendix era** | Bendix Corporation acquired American Forest Products in **1969** and renamed it **Bendix Forest Products Company**. The Fresno operation consequently became part of a diversified national corporation whose principal businesses included automotive components, aerospace, and defense equipment. |
+| **1950s–1960s — peak operating period** | The Fresno operation supplied growers, packinghouses, canneries, food processors, warehouses, and manufacturers with wooden shipping materials. Products probably included fruit and vegetable boxes, crates, box shook, separators, industrial packing materials, and wooden pallets. |
+| **1940s** | Contemporary corporate listings identify **General Box Distributor** as operating in Fresno and San Jose under the American Forest Products organization. Another affiliated Fresno business was **Blyes-Jamison Lumber Company**. [American Forest Products corporate history](https://en.wikipedia.org/wiki/American_Forest_Products_Corporation) |
+| **1920s–1930s** | American Forest Products expanded from a wooden-box business into an integrated forest-products corporation. Its network included timberlands, sawmills, lumber companies, box factories, and distribution centers. Fresno provided a strategically important market because of its vineyards, orchards, packinghouses, and canneries. |
+| **1910–1918 — corporate origins** | The parent business began in Stockton in **1910** as the Stockton Manufacturing Company. Renamed the **Stockton Box Company** in 1911, it manufactured wooden boxes for fruit growers and canners, along with “box shook”—bundled wooden components shipped flat and assembled near the packing site. |
+| **Early agricultural context** | Before corrugated cardboard became dominant, Central Valley crops were commonly packed in purpose-built wooden containers. Grapes, raisins, peaches, citrus, vegetables, canned goods, and industrial products all required boxes, crates, dividers, and eventually pallets. Fresno was therefore a natural location for a box-manufacturing and distribution operation. |
+
+## Probable Closure Sequence
+
+- **Through the mid-1970s:** The factory remained active in wooden boxes, crates, pallets, and related shipping products.
+
+- **Approximately 1977–1979:** Demand for older wooden produce containers declined as corrugated cartons and newer packing systems became more common. Production and employment were probably reduced in stages.
+
+- **Approximately 1979–1980:** The factory appears to have entered its final operating period, with diminished production and additional layoffs.
+
+- **Approximately 1980–1981:** Manufacturing ceased and the plant closed. The timing corresponds closely with Bendix’s withdrawal from the forest-products business and its January 1981 sale of Bendix Forest Products.
+
+- **After 1981:** The industrial property transitioned to warehouse, storage, roofing-supply, and other building-material uses.
+
+## Historical Summary
+
+The wooden-box factory near **1266 N. Maple Avenue** was probably part of General Box Distributors and the American Forest Products organization, later known as Bendix Forest Products. It manufactured wooden produce boxes, crates, box components, pallets, and other shipping materials for Central Valley agriculture and industry.
+
+After reductions during the late 1970s, the Fresno operation appears to have closed around **1980–1981** as traditional wooden produce containers lost market share and Bendix withdrew from the forest-products business.
+
+This identification is **probable but not yet conclusive**. Comparing Fresno city directories from approximately **1940, 1960, 1975, 1980, and 1982** could establish the precise business name, street address, and disappearance date.
+
 # U.S. Steel in Fresno: Reverse Historical Timeline
 
 Fresno did not have a large steelmaking mill comparable to those in Pittsburgh or Gary, Indiana. The Fresno operation was principally a steel-fabrication plant, producing pipe, tanks, irrigation equipment, and related products for the agricultural and construction industries of the San Joaquin Valley.
