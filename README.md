@@ -35,8 +35,8 @@ The two main components are:
 Because of the noise term, an SDE describes a collection of possible trajectories rather than a single predictable trajectory. 
 
 + ODEs describe **deterministic evolution**
-+ SDEs describe evolution that includes **randomness or uncertainty**
-+ Both modeling systems resulting from **many small changes**
++ SDEs describe **stochastic evolution**
++ Both model systems resulting from **many small changes**
 
 <img src="g1-trained-policy.gif" width="350">
 
