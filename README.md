@@ -1,10 +1,44 @@
+# Comparison of Differential Equation Types
+| <img src="PXL_20260915_163244931.MP.jpg" width="350"> | <img src="g1-trained-policy.gif" width="300"> | <img src="PXL_20260915_163900604.MP.jpg" width="350">  |
+|-|-|-|
+
+| Type | Full Name | Independent Variables | Randomness | What It Describes | Example Applications |
+|---|---|---|---|---|---|
+| **ODE** | Ordinary Differential Equation | Usually one, such as time $t$ | No | The deterministic evolution of one or more quantities with respect to a single independent variable | Mechanical motion, radioactive decay, population growth, electrical circuits, engine speed, and gradient descent |
+| **PDE** | Partial Differential Equation | Two or more, commonly space and time | No | The deterministic evolution of a field across space and time | Heat transfer, fluid flow, combustion, electromagnetic fields, wave propagation, and neutron transport |
+| **SDE** | Stochastic Differential Equation | Usually one, such as time $t$ | Yes | The evolution of one or more quantities when random fluctuations are included | Asset prices, Brownian motion, noisy control systems, molecular motion, stochastic gradient descent, and diffusion models |
+| **SPDE** | Stochastic Partial Differential Equation | Two or more, commonly space and time | Yes | The evolution of a field across space and time when random effects are included | Turbulent flow, fluctuating temperature fields, random wave propagation, population distributions, climate models, and spatial diffusion processes |
+
+## Representative Equations
+
+| Type | Representative Equation | Interpretation |
+|---|---|---|
+| **ODE** | $\displaystyle \frac{du}{dt}=f(u,t)$ | The value $u(t)$ changes deterministically over time. |
+| **PDE** | $\displaystyle \frac{\partial u}{\partial t}=\alpha\frac{\partial^2u}{\partial x^2}$ | The field $u(x,t)$ changes across both position and time. |
+| **SDE** | $\displaystyle du=m(u,t)\,dt+s(u,t)\,dW$ | The value $u(t)$ changes through a deterministic drift and a random diffusion term. |
+| **SPDE** | $\displaystyle du=\alpha\nabla^2u\,dt+\sigma\,dW(x,t)$ | The field $u(x,t)$ changes across space and time while also being affected by spatially distributed noise. |
+
+## Key Distinctions
+
+| Question | ODE | PDE | SDE | SPDE |
+|---|:---:|:---:|:---:|:---:|
+| Does the model usually include time? | Yes | Yes | Yes | Yes |
+| Does it explicitly include spatial variation? | No | Yes | No | Yes |
+| Does it include randomness? | No | No | Yes | Yes |
+| Does the same initial condition produce the same trajectory? | Yes | Yes | Not necessarily | Not necessarily |
+| Is the solution usually a function of one independent variable? | Yes | No | Yes | No |
+| Is the solution probabilistic? | No | No | Yes | Yes |
+
+In short:
+
+- **ODE:** deterministic change, usually over time.
+- **PDE:** deterministic change across space and time.
+- **SDE:** random change, usually over time.
+- **SPDE:** random change across space and time.
 
 # Famous Ordinary and Stochastic Differential Equations
 
 Many well-known physical and engineering systems are modeled using **ordinary differential equations (ODEs)** or **stochastic differential equations (SDEs)**. Nuclear reactions and jet engines are good examples, although highly detailed models often require partial differential equations (PDEs).
-
-| <img src="PXL_20260915_163244931.MP.jpg" width="350"> | <img src="g1-trained-policy.gif" width="300"> | <img src="PXL_20260915_163900604.MP.jpg" width="350">  |
-|-|-|-|
 
 ## Famous ODE Systems
 
