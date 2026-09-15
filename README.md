@@ -1,3 +1,235 @@
+
+# Famous Ordinary and Stochastic Differential Equations
+
+Many well-known physical and engineering systems are modeled using **ordinary differential equations (ODEs)** or **stochastic differential equations (SDEs)**. Nuclear reactions and jet engines are good examples, although highly detailed models often require partial differential equations (PDEs).
+
+## Famous ODE Systems
+
+### Radioactive Decay
+
+The simplest nuclear-decay equation is:
+
+```math
+\frac{dN}{dt}=-\lambda N
+```
+
+where $N(t)$ is the number of radioactive nuclei and $\lambda$ is the decay constant. Its solution is:
+
+```math
+N(t)=N_0e^{-\lambda t}
+```
+
+### Bateman Equations
+
+The **Bateman equations** describe a chain of radioactive decays:
+
+```math
+\frac{dN_1}{dt}=-\lambda_1N_1
+```
+
+```math
+\frac{dN_2}{dt}=\lambda_1N_1-\lambda_2N_2
+```
+
+```math
+\frac{dN_3}{dt}=\lambda_2N_2-\lambda_3N_3
+```
+
+These equations are used in nuclear physics, reactor analysis, radiometric dating, and medical-isotope production.
+
+### Nuclear Reactor Point-Kinetics Equations
+
+The **point-reactor kinetics equations** describe the neutron population and delayed-neutron precursors inside a nuclear reactor:
+
+```math
+\frac{dn}{dt}
+=
+\frac{\rho-\beta}{\Lambda}n
++
+\sum_{i=1}^{G}\lambda_iC_i
+```
+
+```math
+\frac{dC_i}{dt}
+=
+\frac{\beta_i}{\Lambda}n-\lambda_iC_i
+```
+
+Here:
+
+- $n$ is the neutron population.
+- $\rho$ is the reactor reactivity.
+- $\beta$ is the total delayed-neutron fraction.
+- $\Lambda$ is the neutron-generation time.
+- $C_i$ represents a delayed-neutron precursor group.
+
+These equations help model reactor startup, shutdown, and responses to control changes.
+
+### Lotka-Volterra Equations
+
+The **Lotka-Volterra equations** model interacting predator and prey populations:
+
+```math
+\frac{dx}{dt}=\alpha x-\beta xy
+```
+
+```math
+\frac{dy}{dt}=\delta xy-\gamma y
+```
+
+The prey population $x$ grows in isolation, while the predator population $y$ depends on encounters with the prey.
+
+### SIR Epidemic Model
+
+The **SIR equations** divide a population into susceptible, infected, and recovered groups:
+
+```math
+\frac{dS}{dt}=-\beta\frac{SI}{N}
+```
+
+```math
+\frac{dI}{dt}=\beta\frac{SI}{N}-\gamma I
+```
+
+```math
+\frac{dR}{dt}=\gamma I
+```
+
+This system models how an infectious disease spreads through a population.
+
+### Lorenz System
+
+The **Lorenz equations** are a famous example of deterministic chaos:
+
+```math
+\frac{dx}{dt}=\sigma(y-x)
+```
+
+```math
+\frac{dy}{dt}=x(\rho-z)-y
+```
+
+```math
+\frac{dz}{dt}=xy-\beta z
+```
+
+They originated as a simplified model of atmospheric convection. Small differences in the initial conditions can eventually produce dramatically different trajectories.
+
+### Harmonic Oscillator
+
+A mass-spring-damper system is modeled by:
+
+```math
+M\frac{d^2x}{dt^2}
++
+b\frac{dx}{dt}
++
+kx
+=
+F(t)
+```
+
+This equation appears throughout mechanical engineering, robotics, vehicle-suspension design, control systems, and electrical-circuit analysis.
+
+## Jet-Engine ODE Models
+
+A complete jet engine involves fluid flow, combustion, heat transfer, and structural mechanics. Detailed simulations therefore rely heavily on PDEs. However, ODE systems are commonly used to model **engine dynamics and control**.
+
+A simplified engine-spool equation is:
+
+```math
+J\frac{d\omega}{dt}
+=
+\tau_{\text{turbine}}
+-
+\tau_{\text{compressor}}
+-
+\tau_{\text{load}}
+```
+
+where $J$ is the rotational inertia and $\omega$ is the shaft speed. The engine accelerates when turbine torque exceeds compressor and load torque.
+
+A simplified combustor energy equation might be written as:
+
+```math
+m_gc_p\frac{dT}{dt}
+=
+\dot{Q}_{\text{fuel}}
+-
+\dot{Q}_{\text{out}}
+-
+\dot{Q}_{\text{loss}}
+```
+
+A practical engine model may combine ODEs describing:
+
+- Compressor and turbine spool speeds
+- Combustor temperature and pressure
+- Fuel-flow dynamics
+- Actuator and sensor responses
+- Heat transfer through engine components
+- Engine-control-system behavior
+
+The **Brayton cycle** provides the thermodynamic foundation for gas-turbine engines, while dynamic ODE models describe how an actual engine moves between operating conditions.
+
+## Famous SDEs
+
+### Brownian Motion
+
+Brownian motion represents accumulated random changes:
+
+```math
+dX=\sigma\,dW
+```
+
+It is fundamental to stochastic modeling, diffusion processes, and probability theory.
+
+### Geometric Brownian Motion
+
+A standard financial model for an asset price $S$ is:
+
+```math
+dS=\mu S\,dt+\sigma S\,dW
+```
+
+This SDE forms the foundation of the Black-Scholes option-pricing model.
+
+### Ornstein-Uhlenbeck Process
+
+The **Ornstein-Uhlenbeck process** models a noisy system that tends to return toward a long-term mean:
+
+```math
+dX=\theta(\mu-X)\,dt+\sigma\,dW
+```
+
+It is used to model physical systems, financial interest rates, biological signals, and temporally correlated noise.
+
+### Langevin Equation
+
+The **Langevin equation** describes a particle affected by deterministic forces and random molecular collisions:
+
+```math
+m\,dv
+=
+-\gamma v\,dt
++
+F(x)\,dt
++
+\sigma\,dW
+```
+
+It connects classical mechanics with stochastic processes and is important in statistical physics and molecular simulation.
+
+## ODEs, SDEs, and PDEs
+
+The three main categories of differential equations can be distinguished as follows:
+
+- **ODEs** model changes over time without explicitly representing spatial variation.
+- **SDEs** model changes over time that also contain random effects.
+- **PDEs** model changes across both time and space.
+
+Reactor neutron populations, engine shaft speeds, and control-system states can often be modeled with ODEs. Random vibration, uncertain combustion, turbulent disturbances, and fluctuating particle populations may motivate SDEs. Detailed neutron transport, airflow, combustion flames, and temperature distributions generally require PDEs.
+
 # DEs
 
 DEs describe how quantities change in relation to one another. They are widely used to model systems that evolve over time, including physical motion, population growth, financial markets, optimization algorithms, and machine-learning models.
