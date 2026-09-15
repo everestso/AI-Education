@@ -3,6 +3,9 @@
 
 Many well-known physical and engineering systems are modeled using **ordinary differential equations (ODEs)** or **stochastic differential equations (SDEs)**. Nuclear reactions and jet engines are good examples, although highly detailed models often require partial differential equations (PDEs).
 
+| <img src="PXL_20260915_163244931.MP.jpg" width="350"> | <img src="g1-trained-policy.gif" width="350"> | 
+|-|-|
+
 ## Famous ODE Systems
 
 ### Radioactive Decay
@@ -269,8 +272,6 @@ Because of the noise term, an SDE describes a collection of possible trajectorie
 + ODEs describe **deterministic evolution**
 + SDEs describe **stochastic evolution**
 + Both model systems resulting from **many small changes**
-
-<img src="g1-trained-policy.gif" width="350">
 
 # Proposed Co-Offered Course: Technology for Global Criminal Investigation
 
