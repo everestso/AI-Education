@@ -4,6 +4,8 @@ The factory remembered near **1266 N. Maple Avenue** was likely associated with 
 
 The street address should be treated as approximate. The industrial operation may have occupied several adjoining parcels along Maple Avenue, while directories sometimes listed its office, factory, and lumber yard under different addresses.
 
+<img src="pete_1a.jpg" width="350">
+
 ## Reverse Historical Timeline
 
 | Date or Period | Development |
