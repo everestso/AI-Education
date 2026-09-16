@@ -6,6 +6,8 @@ The street address should be treated as approximate. The industrial operation ma
 
 <img src="pete_1a.jpg" width="350">
 
+[https://www.calaverashistory.org/american-box-corporation-at-sandy-gulch](https://www.calaverashistory.org/american-box-corporation-at-sandy-gulch)
+
 ## Reverse Historical Timeline
 
 | Date or Period | Development |
