@@ -1,3 +1,87 @@
+# Global Inequality in Access to Education
+
+## Overview
+
+Education is recognized as a basic human right, yet millions of children cannot attend school regularly, complete their education, or receive a meaningful education once enrolled. UNESCO’s updated estimate indicates that approximately **272 million children and young people worldwide were out of school in 2025**. The likelihood of exclusion increases considerably at the secondary-school level. [UNESCO](https://www.unesco.org/en/articles/countries-commit-reducing-number-out-school-children-165-million)
+
+## Connection to *Rosario Tijeras*
+
+The Mexican series *Rosario Tijeras* portrays education as part of a much larger social environment. Rosario is nominally a student, but her ability to benefit from school is undermined by poverty, violence, abuse, neighborhood stigma, and the influence of criminal organizations.
+
+The series suggests that educational inequality is not simply a matter of whether a school exists. Students from marginalized communities may enter school already carrying burdens that wealthier students and institutions neither understand nor accommodate. They may also be judged according to their neighborhood, family, appearance, social class, or reputation rather than their abilities.
+
+## Major Global Barriers
+
+### 1. Poverty and Economic Inequality
+
+Families may be unable to afford transportation, uniforms, supplies, fees, or digital access. Children may also be required to work, care for siblings, or contribute to household income.
+
+### 2. Social Prejudice and Discrimination
+
+Students can be excluded or discouraged because of:
+
+- Social class or neighborhood
+- Race, ethnicity, caste, or Indigenous identity
+- Migrant or refugee status
+- Language
+- Disability
+- Gender or sexual identity
+- Family background or association with crime
+
+Such prejudice may appear through bullying, low expectations, unequal discipline, or schools treating disadvantaged children as problems rather than students.
+
+### 3. Violence and Criminal Activity
+
+Gang violence, organized crime, domestic abuse, and unsafe travel routes can make regular attendance dangerous. Criminal groups may also recruit young people who have few educational or employment alternatives.
+
+### 4. War, Displacement, and Migration
+
+Refugee and displaced children frequently lose access to school because they lack documents, face language barriers, or live in temporary settlements. Globally, only about **67 percent of refugee children are enrolled in primary education and 37 percent in secondary education**. [UNHCR](https://www.unhcr.org/what-we-do/build-better-futures/education)
+
+### 5. Gender Expectations
+
+Girls may be kept from school because of early marriage, pregnancy, domestic responsibilities, safety concerns, or restrictions on female education. Boys may be pressured to leave school for paid work, military activity, gangs, or other expectations associated with masculinity.
+
+### 6. Weak or Inaccessible School Systems
+
+Rural and impoverished communities may lack nearby schools, qualified teachers, reliable transportation, electricity, technology, sanitation, or appropriate services for students with disabilities.
+
+### 7. Crisis and Environmental Disruption
+
+Pandemics, earthquakes, floods, droughts, and other disasters can destroy schools or displace families. Climate-related emergencies disrupted the education of at least **242 million children in 2024**. [UNESCO](https://www.unesco.org/en/emergencies/education/need-know)
+
+## The Cycle of Exclusion
+
+Educational disadvantage often becomes a self-reinforcing cycle:
+
+1. A child grows up amid poverty, discrimination, or violence.
+2. These conditions make attendance and academic success more difficult.
+3. Poor performance or behavioral problems reinforce negative stereotypes.
+4. The student becomes alienated from school or drops out.
+5. Limited qualifications reduce access to lawful employment.
+6. Poverty, exploitation, and criminal recruitment become more likely.
+
+In *Rosario Tijeras*, this cycle helps explain how a capable young person can be pulled away from education and toward violence. Her path is not presented simply as an individual failure; it reflects the failure of families, schools, public institutions, and society to protect vulnerable children.
+
+## Possible Responses
+
+Improving access to education requires more than constructing schools. Effective responses include:
+
+- Free meals, transportation, supplies, and financial assistance
+- Safe routes to school and protection from gangs and violence
+- Counseling and trauma-informed educational services
+- Stronger anti-discrimination and anti-bullying policies
+- Support for pregnant students, young parents, migrants, and refugees
+- Inclusive education for children with disabilities
+- Flexible schedules for students who work or care for relatives
+- Mentoring and community programs connecting schools with families
+- Investment in teachers, facilities, technology, and rural education
+- Social policies addressing poverty, housing, healthcare, and neighborhood safety
+
+## Central Idea
+
+The global education crisis is not only about children who never enter a classroom. It also includes children who are technically enrolled but are prevented by poverty, danger, prejudice, or trauma from fully participating. *Rosario Tijeras* dramatizes this distinction: **educational opportunity exists only when students are safe, accepted, supported, and genuinely able to imagine a future through education.**
+
 # The Box Factory on North Maple Avenue: Historical Timeline
 
 The factory remembered near **1266 N. Maple Avenue** was likely associated with **General Box Distributors**, a Fresno operation within the larger **American Forest Products Corporation** system. It manufactured wooden shipping products—including produce boxes, crates, box components, and pallets—for the San Joaquin Valley’s agricultural and industrial economy.
