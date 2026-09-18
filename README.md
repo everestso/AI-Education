@@ -1,7 +1,7 @@
 # Global Inequality in Access to Education
 
-|<img src="pete_1a.jpg" width="250"> | <img src="PXL_20260918_013206354~2.jpg" width="350">|
-|-|-|
+|<img src="pete_1a.jpg" width="250"> | <img src="PXL_20260918_013206354~2.jpg" width="350"> | <img src="PXL_20260918_014115912.MP.jpg" width="200"> |
+|-|-|-|
 
 ## Overview
 
