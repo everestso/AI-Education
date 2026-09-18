@@ -1,5 +1,8 @@
 # Global Inequality in Access to Education
 
+|<img src="pete_1a.jpg" width="250"> | <img src="PXL_20260918_013206354~2.jpg" width="350">|
+|-|-|
+
 ## Overview
 
 Education is recognized as a basic human right, yet millions of children cannot attend school regularly, complete their education, or receive a meaningful education once enrolled. UNESCO’s updated estimate indicates that approximately **272 million children and young people worldwide were out of school in 2025**. The likelihood of exclusion increases considerably at the secondary-school level. [UNESCO](https://www.unesco.org/en/articles/countries-commit-reducing-number-out-school-children-165-million)
