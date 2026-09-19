@@ -2,9 +2,11 @@
 
 ## AI Is Easy to Use—but Hard to Use Well
 
-The Traditional Chinese expression **「AI好用，用好很難」** literally means:
+The Traditional Chinese expression literally means:
 
-> **AI is useful, but using it well is difficult.**
+> ### 「AI好用，用好很難」
+>
+> **“AI is easy to use—but hard to use well.”**
 
 The expression relies on a compact contrast:
 
