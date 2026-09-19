@@ -1,5 +1,31 @@
 # Global Inequality in Access to Education
 
+## AI Is Easy to Use—but Hard to Use Well
+
+The Traditional Chinese expression **「AI好用，用好很難」** literally means:
+
+> **AI is useful, but using it well is difficult.**
+
+The expression relies on a compact contrast:
+
+* **AI 好用** — AI is useful, convenient, or easy to use.
+* **用好 AI 很難** — Using AI *well*—skillfully and effectively—is difficult.
+
+## Natural English Translations
+
+* **AI is easy to use—but hard to use well.**
+* **AI is useful—but getting the most out of it is hard.**
+* **Using AI is easy. Using it effectively is not.**
+* **AI makes things easy. Mastering it is hard.**
+* **AI is accessible; effective use takes skill.**
+
+## Recommended Translation
+
+> **AI Is Easy to Use—but Hard to Use Well**
+
+This preserves both the parallel structure and the original sentiment: accessing AI is easy, but obtaining consistently good results requires judgment, technique, and experience.
+
+
 |<img src="pete_1a.jpg" width="250"> | <img src="PXL_20260918_013206354~2.jpg" width="350"> | <img src="PXL_20260918_014115912.MP.jpg" width="200"> |
 |-|-|-|
 
