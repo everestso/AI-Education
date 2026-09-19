@@ -1,6 +1,6 @@
 # Global Inequality in Access to Education
 
-## AI Is Easy to Use—but Hard to Use Well
+## AI好用，用好很難」: AI Is Easy to Use—but Hard to Use Well
 
 The Traditional Chinese expression literally means:
 
