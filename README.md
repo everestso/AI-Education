@@ -1,3 +1,44 @@
+<img src="r. u. laffin 2.jpg" width="250">
+
+## How an Old Shock Book Worked
+
+An old novelty shock book typically used a small battery, an induction coil wrapped around a metal core, a mechanical switch, and two conductive surfaces on the cover.
+
+### Operating Process
+
+1. Opening the book activated a mechanical contact.
+2. The battery sent low-voltage current through the coil.
+3. The current created a magnetic field around the metal core.
+4. When the contact suddenly opened, the magnetic field collapsed.
+5. The collapsing field induced a brief voltage much higher than the battery voltage.
+6. This voltage was applied across two conductive areas on the cover.
+7. A person touching both areas completed the circuit, allowing a brief current to pass through the hand and produce the shock sensation.
+
+```text
+Battery current
+      ↓
+Magnetic field builds in coil
+      ↓
+Contact opens
+      ↓
+Magnetic field collapses
+      ↓
+High-voltage pulse is generated
+      ↓
+Brief current passes through the hand
+```
+
+The inductor’s voltage is described by:
+
+```math
+V = L\frac{di}{dt}
+```
+
+A rapid interruption of current produces a large rate of change, resulting in a high-voltage pulse. The number of wire turns and the metal core also increase the coil’s inductance and induced voltage.
+
+The battery alone generally did not provide enough voltage to push a noticeable current through dry skin. The coil converted stored magnetic energy into a short, high-voltage pulse. The **voltage provided the electrical push**, while the resulting **current through the hand caused the shock sensation**.
+
+
 # Global Inequality in Access to Education
 
 ## AI好用，用好很難」: AI Is Easy to Use—but Hard to Use Well
