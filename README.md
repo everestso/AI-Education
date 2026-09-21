@@ -1,3 +1,48 @@
+| Year | Semester | ID | Desc| Units | Last| First | Grade | Events                |
+|---|---|---|---|---|---|---|---|--------------------------|
+| 1982 | Fall     | Acct 4b  | Acct Prin + Sys        | 3     |                           |            | A     |                              |
+| 1982 | Fall     | CSci 117 | Struct of Prg La       | 3     |[Yeung](https://www.linkedin.com/in/henderson-yeung-7489723/)|H. | A     |  Wil So - NO/+Noise (Presentations) ==>> Increased Anxiety/Negativity w/ CSci Rejection     |
+| 1982 | Fall     | Fin 104  | Bus Forecasting        | 3     |                           |            | A     |        |
+| 1982 | Fall     | Math 121 | Numerical Anl 1        | 3     |                           |            | A     |  * Math Coding w/ Fortran 77 </br>* Kafka-Math Rejection </br> * Coding Push + You Can Code      |
+| 1982 | Fall     | Spch 3   | Fund Public Comm       | 3     |                           |            | A     |  Champagne Talk (Wil Wait) / Public Presentations Exposure ===>> Anxiety/Negativity      |
+| 1982 | Winter   | Fin 133  | Prin of Finance        | 3     |                           |            | A     |  IT Lab Consultant Offer ===>>> Public Exposure Invite w/ Money  |
+| 1983 | Spring   | Fin 134  | Sec Analysis           | 3     |                           |            | A     |        |
+| 1983 | Spring   | Math 191T| Assmbly Lang Prg       | 3     | [Haslam](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=278656)|H. | A     |        |
+| 1983 | Spring   | Math 191T| Frml Lang + Autom      | 3     |[Yeung](https://www.linkedin.com/in/henderson-yeung-7489723/)|H. | A     | Turing Machines w/ Code  |
+| 1983 | Spring   | Math 191T| Compiler Design        | 3     | [Haslam](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=278656) |H.| A     |  Join Chase Game for Cred ===>>> EXPOSURE (Naval Weapons Research Ridgecrest)</br>* Dean's Party (**Brandt Kehoe** Sunset Dr.) w/ House Bedroom Retrograde Motion Coding Tour (w/ Sandra Kay Kehoe)</br>* Harold Haslam Party w/ Piano Hot Tub</br>* Livermore Field Trip </br>* Vintage Days w/ Arm Wrestling, Indiana Jones & Dorm Dancing   |
+| 1983 | Spring   | PE AC 130a| Golf                  | 1     |                           |            | A     |        |
+| 1983 | Spring   | CSci 115 | Data Structures        | 3     |[Harbertson](https://campusnews.fresnostate.edu/september-9-2024/losing-a-valuable-member-of-the-campus-community) |N. | A     | S&M: Software Engineering |
+| 1983 | Summer   | IT       | Lab Consultant         | DR(20)     |                           |            |       | Police Concert (9/11/83)/Breathless Movie ==> 0 |
+
+## Hot Period: Spring/Summer 1983
+
++ Join Chase Game for Cred ===>>> EXPOSURE (Naval Weapons Research Ridgecrest)
++ Dean's Party (**Brandt Kehoe** Sunset Dr.) w/ House Bedroom Retrograde Motion Coding Tour (w/ Sandra Kay Kehoe)
++ Harold Haslam Party w/ Piano Hot Tub 
++ Livermore Field Trip 
++ **Vintage Days** w/ Arm Wrestling, Indiana Jones & Dorm Dancing, Air Guitar
++ Possible Playlist: I Want Candy by Bow Wow Wow, Hungry Like the Wolf by Duran Duran, Jump by Van Halen
+
+## Final Year @ FSU ==>> New Directions Established
+
+| Year | Semester | ProjID   | CourseDesc     | Units | Name| Grade      | Events |
+|------|----------|----------|--------------|-------|---------|------------|--------------------|
+| 1983 | Fall     | CSci 144 | Oper Sys + Cmp Org     | 3     |       [Harbertson](https://campusnews.fresnostate.edu/september-9-2024/losing-a-valuable-member-of-the-campus-community)    N. | C     | Coding Disasters / CSci Rejection |
+| 1983 | Fall     | Fin 135  | Mon Thy Bank Sys       | 3     |           | B     | Pool @ Old House</br>(Exit 2 @ 3rd) </br>+ TRS80 Aliens & Montary Theory </br>+ Finance Rejection |
+| 1983 | Fall     | IS 105W  | Bus Commun             | 3     |           | B     | Overly Helpful Lab Communication + Old Town Fresno ==> Credibility  |
+| 1983 | Fall     | CSci 191T| Data Base Theory       | 3     |           | B     |        |
+| 1983 | Fall     | CSci 191T| Software Engring       | 3     |          | A     |  Group Project Disasters / CSci Rejection </br> Never Noted OTHER friends    |
+| 1983 | Winter   | CSUF Extension| British Arts Trip | 0     |                           |       | + Palladium/SOHO @ Noon TaT </br>+ (Get You What Wanted) </br>+ Door Entrance Requires Full/Complementary Pair(I Like You)</br> + Christmas Lost Lab Keys |
+| 1984 | Spring   | Math 124 | Appl Matrix Anal       | 3     |                           | B     | Exclusions -- NO INVITES for YOU / CSci-IT Rejection  |
+| 1984 | Spring   | CSci 191T| Algorithms             | 3     | [Yeung, H.](https://www.linkedin.com/in/henderson-yeung-7489723/) | A     |         |
+| 1984 | Spring   | CSci 191T| Computer Systems       | 3     |                           | B     |        |
+| 1984 | Spring   | CSci 190 | Ind Study C SCI        | 3     |                           | A     |        |
+| 1984 | Spring   | PE AC 112a| Elem Soc Dance        | 1     |                           | CR    | + Pool @ Old House/ SOHO Discussions </br> + GoodBye Ballroom Dances but No Line (Country) Dance Moves (NO INVITES from CSCI) |
+
+**PLAN: Coding & Public Sharing ==> I Can Share Code (& Teach Code) Publicly Anywhere Anytime (Probably Even Inebriated)**
+
+===>> EAFB: ReCoding Ridley to Elimination/Destruction Conflict / Exit Push 
+
 <img src="r. u. laffin 2.jpg" width="250">
 
 ## How an Old Shock Book Worked
