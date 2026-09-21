@@ -1,3 +1,11 @@
+## You don't even EXIST to me (in this abstraction).
+|[Dark Chambers (Atari 2600 circa 1988) w/ Gymnasium](https://github.com/everestso/AI-Education/blob/main/DarkChambers_DeepLearning_DRuby.ipynb)  | Castle Wolfenstein (1981)  |
+|--|--|
+| <a href="darkchambers_best.gif"> <img src="darkchambers_best.gif" alt="Wild Bill Hickok, Texas Jack Omohundro, and Buffalo Bill (1873)" width="250"> </a> | <img src="PXL_20260910_165156285~2.jpg" width="350"></a> |
+
+[Dark Chambers (mp4) Video Highlights](DarkChambers_VideoHighlight.mp4)
+
+
 | Year | Semester	| ID	Desc	Units	Last	First	| |
 |------|----------|-----------------------------|-|
 | 1982 | Fall	| Acct 4b	Acct Prin + Sys	3 A	| <img src="r. u. laffin 2.jpg" width="250"> |
@@ -45,7 +53,6 @@ V = L\frac{di}{dt}
 A rapid interruption of current produces a large rate of change, resulting in a high-voltage pulse. The number of wire turns and the metal core also increase the coil’s inductance and induced voltage.
 
 The battery alone generally did not provide enough voltage to push a noticeable current through dry skin. The coil converted stored magnetic energy into a short, high-voltage pulse. The **voltage provided the electrical push**, while the resulting **current through the hand caused the shock sensation**.
-
 
 # Global Inequality in Access to Education
 
