@@ -1,7 +1,8 @@
 ## You (mother) don't even EXIST to me (in this abstraction). [The Craft (Movie 1996)]
 
 
-<img src="PXL_20260922_201613479.jpg" width="250">
+| <img src="PXL_20260922_201613479.jpg" width="250"> | <img src="PXL_20260922_202628752~2.jpg" width="650"> |
+|--|--|
 
 ## Savannah Georgia @ Summer '94
 
