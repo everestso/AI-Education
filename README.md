@@ -1,4 +1,4 @@
-## You don't even EXIST to me (in this abstraction). [The Craft (Movie 1996)]
+## You (mother) don't even EXIST to me (in this abstraction). [The Craft (Movie 1996)]
 
 
 <img src="PXL_20260922_201613479.jpg" width="250">
