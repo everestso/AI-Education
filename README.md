@@ -1,4 +1,10 @@
 ## You don't even EXIST to me (in this abstraction). [The Craft (Movie 1996)]
+
+
+<img src="PXL_20260922_201613479.jpg" width="250">
+
+## Savannah Georgia @ Summer '94
+
 |[Dark Chambers (Atari 2600 circa 1988) w/ Gymnasium](https://github.com/everestso/AI-Education/blob/main/DarkChambers_DeepLearning_DRuby.ipynb)  | Castle Wolfenstein (1981)  |
 |--|--|
 | <a href="darkchambers_best.gif"> <img src="darkchambers_best.gif" alt="Wild Bill Hickok, Texas Jack Omohundro, and Buffalo Bill (1873)" width="250"> </a> | <img src="PXL_20260910_165156285~2.jpg" width="350"></a> |
