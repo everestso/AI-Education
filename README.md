@@ -116,6 +116,128 @@ For a children's book received from grandparents at Christmas in **1971**, it wa
 
 > **female agency, violence against women, resistance to unequal power, education, intelligence, and the possibility of changing society through one's voice.**
 
+# Sam Peckinpah: Fresno’s Revisionist Western Filmmaker
+
+**David Samuel “Sam” Peckinpah** was born in Fresno on **February 21, 1925**, and became one of the most influential—and controversial—American film directors of the 1960s and 1970s. Although his professional career unfolded largely in Hollywood, the landscape, people, and fading frontier culture of the Fresno–Madera foothills remained central to his artistic imagination.
+
+## A Prominent Fresno Family
+
+Peckinpah came from two established Central California families.
+
+- His father, **David Edward Peckinpah**, was an attorney and also managed portions of the family’s mountain and ranching interests.
+- His maternal grandfather, **Denver S. Church**, was a Fresno County district attorney, Superior Court judge, cattle rancher, and four-term Democratic member of Congress. Church represented California from 1913–1919 and again from 1933–1935. [U.S. House History](https://history.house.gov/People/Detail/10937)
+- The Peckinpah side had interests in logging around **North Fork**, where the family operated a sawmill.
+- **Peckinpah Mountain, Peckinpah Meadow, and Peckinpah Creek** preserve the family name.
+
+The extended family was therefore connected to Fresno’s legal and political establishment as well as to the ranching and lumbering world of the Sierra foothills.
+
+Peckinpah sometimes encouraged stories that he had Native American ancestry, but surviving family members disputed that claim. His paternal background appears instead to have been Germanic or northwestern European.
+
+## Fresno and the Sierra Foothills
+
+Peckinpah grew up in Fresno but spent considerable time around **North Fork, Coarsegold, Bass Lake, and the family ranch belonging to Denver Church**. There he rode horses, hunted, fished, branded cattle, listened to old ranch hands, and absorbed stories about miners, loggers, trappers, drifters, and frontier violence.
+
+He and his older brother Denver—known as Denny—apparently preferred ranch life to school. Peckinpah attended Fresno schools and **Fresno High School**, but disciplinary problems and fighting led his parents to send him to the **San Rafael Military Academy** for his final year.
+
+This mountain country was not merely recreational for him. He experienced it as a surviving fragment of the nineteenth-century West that was disappearing during his childhood. Roads, tourism, development, mechanization, and modern institutions were transforming the isolated ranching and logging communities he remembered.
+
+That sense of witnessing **the end of an era** became one of the defining themes of his films.
+
+## Education and Military Service
+
+Peckinpah enlisted in the **United States Marine Corps in 1943**. He served during World War II and was sent to China near the end of the war, although he did not experience the kind of front-line combat later associated with his cinematic reputation.
+
+After returning to Fresno, he initially appeared destined for law or the family business. His interest shifted toward theater, partly through his relationship with drama student Mary Selland, whom he later married.
+
+He attended **Fresno State College**, where he studied drama and graduated in **1948**. He then pursued graduate work in theater at the **University of Southern California**.
+
+His Fresno State education is an important part of his local legacy: one of the most distinctive American directors of his generation began not in an elite East Coast arts institution, but in Fresno’s developing public university.
+
+## From Television Westerns to Hollywood
+
+Peckinpah entered film and television through low-level production work and an association with director **Don Siegel**. During the 1950s, he wrote for Western television programs including:
+
+- *Gunsmoke*
+- *Broken Arrow*
+- *Tales of Wells Fargo*
+- *Zane Grey Theatre*
+
+He created the television series ***The Westerner*** and helped develop ***The Rifleman***. His early television work already displayed sympathy for morally compromised characters and skepticism toward the clean, heroic mythology of the traditional Western.
+
+## Major Films
+
+| Year | Film | Significance |
+|---:|---|---|
+| 1961 | *The Deadly Companions* | His first feature as director |
+| 1962 | *Ride the High Country* | An elegy for aging Western lawmen, strongly connected to his California upbringing |
+| 1965 | *Major Dundee* | An ambitious production damaged by conflicts and studio editing |
+| 1969 | *The Wild Bunch* | His landmark revisionist Western |
+| 1970 | *The Ballad of Cable Hogue* | A gentler story about modernization and the passing frontier |
+| 1971 | *Straw Dogs* | A deeply controversial examination of violence |
+| 1972 | *Junior Bonner* | A modern rodeo story about family and a disappearing way of life |
+| 1972 | *The Getaway* | A commercially successful crime film starring Steve McQueen |
+| 1973 | *Pat Garrett and Billy the Kid* | A melancholy Western about betrayal and historical change |
+| 1974 | *Bring Me the Head of Alfredo Garcia* | A bleak, intensely personal Mexican crime drama |
+| 1977 | *Cross of Iron* | An antiheroic World War II film told from the German side |
+| 1983 | *The Osterman Weekend* | His final feature film |
+
+## Fresno Inside His Films
+
+The most direct Fresno-area connection appears in ***Ride the High Country***. Peckinpah extensively revised the screenplay, named its mining settlement **Coarsegold**, and drew on memories of the aging ranchers and mountain characters he had known.
+
+The film was added to the **National Film Registry in 1992**. [Library of Congress](https://www.loc.gov/programs/national-film-preservation-board/film-registry/descriptions-and-essays/)
+
+More broadly, the Central California foothills contributed several recurring elements to his work:
+
+- Older men whose personal codes no longer fit the modern world
+- Loyalty among flawed companions
+- Rural communities overtaken by commerce and technology
+- Tension between respectable institutions and rough frontier behavior
+- Nostalgia for the past combined with an unwillingness to romanticize its brutality
+- Landscapes that are beautiful but indifferent to human suffering
+
+His Westerns were therefore not simply products of Hollywood imagination. They partly reflected someone raised between **urban Fresno respectability and the residual frontier society of the Sierra foothills**.
+
+## *The Wild Bunch* and His Reputation
+
+Peckinpah’s defining film was ***The Wild Bunch***, released in 1969. It follows aging outlaws in 1913 who discover that automobiles, machine guns, modern corporations, and centralized government are making their world obsolete.
+
+The film became famous for its graphic violence, rapid editing, slow motion, and use of multiple cameras. Peckinpah did not invent slow-motion screen violence, but he combined different filming speeds and fragmented editing with extraordinary force. The result influenced generations of filmmakers.
+
+The violence was not necessarily intended as simple celebration. Peckinpah wanted viewers to feel its physical consequences and implicated the audience in the spectacle. Nevertheless, critics continue to disagree over whether his films condemn violence, aestheticize it, or do both simultaneously.
+
+The film received Academy Award nominations for its screenplay and musical score. [AFI Catalog](https://catalog.afi.com/Film/19654-)
+
+## The Difficult Man Behind the Films
+
+Peckinpah’s career was marked by repeated conflict with studios, producers, editors, and actors. He demanded substantial control over writing, production, and editing, partly because studios had substantially altered some of his earlier films.
+
+At the same time, the romantic image of an uncompromising artist does not explain everything. His later years were affected by:
+
+- Severe alcoholism
+- Drug use
+- Volatile personal relationships
+- Unpredictable and sometimes abusive behavior
+- Deteriorating health
+- Increasingly difficult productions
+
+He was married several times and had five children. His behavior could be destructive, yet collaborators also described him as exceptionally perceptive with actors and capable of great sensitivity.
+
+That contradiction resembles his films: tenderness and cruelty frequently exist side by side.
+
+## Death and Legacy
+
+Peckinpah died following a stroke on **December 28, 1984**, at age 59.
+
+His reputation rests particularly on his transformation of the Western. Earlier Westerns often treated the frontier as the birthplace of an orderly American society. Peckinpah instead examined what happened to violent, independent men once that society had no further use for them.
+
+For Fresno history, he is significant not merely because he happened to have been born there. His work grew from a particular regional experience:
+
+> **Sam Peckinpah was a product of the meeting place between Fresno’s civic establishment and the ranching, logging, and frontier culture of the nearby Sierra foothills.**
+
+That background gave his films their persistent fascination with memory, masculine identity, violence, loyalty, and the disappearance of the old West.
+
+
 ## You (mother) don't even EXIST to me (in this abstraction). [The Craft (Movie 1996)]
 
 
