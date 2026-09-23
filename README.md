@@ -1,4 +1,6 @@
 # *Arabian Nights*: A Christmas Gift, 1971
+| <img src="PXL_20260923_045447887.jpg" width="250"> | <img src="PXL_20260923_045438702.MP.jpg" width="250"> |
+|--|--|
 
 At Christmas in **1971**, my grandparents gave me an illustrated children's edition of **_Arabian Nights_**, adapted by Andrew Lang. As a young child, I found the book fascinating but also somewhat confusing. Looking back, that confusion makes sense: although presented to American children as *Arabian Nights*, the collection represents centuries of interaction among **Persian, Indian, Arab, Central Asian, Islamic, and eventually European storytelling traditions**.
 
