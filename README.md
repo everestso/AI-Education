@@ -43,7 +43,7 @@ These films were not direct accounts of Fresno’s lumber industry, but they exp
 
 
 # *Arabian Nights*: A Christmas Gift, 1971
-| <img src="PXL_20260923_045447887.jpg" width="250"> | <img src="PXL_20260923_045438702.MP.jpg" width="250"> |<img src="PXL_20260923_142156695~2.jpg" width="600"> |
+| <img src="e97c2decd48b90a65567a3f6f99b834c[1].jpg" width="250"> | <img src="PXL_20260923_045438702.MP.jpg" width="250"> |<img src="PXL_20260923_142156695~2.jpg" width="600"> |
 |--|--|--|
 | <img src="7c37c7c1-4ffa-440a-a2ed-610d8321efff.jpg" width="250">| <img src="QVZlRXJicUZMb25qN1h6NA.jpeg" width="250"> | <img src="il_340x270.557195431_l105-EDIT.jpg" width="250"> |
 
