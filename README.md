@@ -46,6 +46,7 @@ These films were not direct accounts of Fresno’s lumber industry, but they exp
 | <img src="il_340x270.557195431_l105-EDIT.jpg" width="250"> | <img src="PXL_20260923_045438702.MP.jpg" width="250"> |<img src="PXL_20260923_142156695~2.jpg" width="600"> |
 |--|--|--|
 | <img src="7c37c7c1-4ffa-440a-a2ed-610d8321efff.jpg" width="250">| <img src="QVZlRXJicUZMb25qN1h6NA.jpeg" width="250"> | <img src="OChem.jpg" width="350"><img src="ED-AY996_bkrvpo_JV_20190923142441.jpg" width="150"> |
+| | |<img src="PXL_20260924_175312030~2.jpg" width="600"> |
 
 
 At Christmas in **1971**, my grandparents gave me an illustrated children's edition of **_Arabian Nights_**, adapted by Andrew Lang. As a young child, I found the book fascinating but also somewhat confusing. Looking back, that confusion makes sense: although presented to American children as *Arabian Nights*, the collection represents centuries of interaction among **Persian, Indian, Arab, Central Asian, Islamic, and eventually European storytelling traditions**.
