@@ -1,3 +1,27 @@
+# The Box Factory on North Maple Avenue: Historical Timeline
+
+The facility remembered as **“the box factory”** was operated by **General Box Distributors**, part of the larger **American Forest Products Corporation** system. It manufactured wooden produce boxes, crates, components, and pallets for the San Joaquin Valley’s agricultural economy.
+
+The North Maple Avenue address should be treated as approximate. The operation may have occupied several adjoining parcels, with its office, factory, lumber yard, and storage areas appearing under different addresses.
+
+## Employment Decline, 1965–1975
+
+Between approximately **1965 and 1975**, the box factory stood within a forest-products economy undergoing significant change. Fresno and the Sierra foothills had long supported logging camps, sawmills, lumber yards, planing mills, and box factories. As timber supplies tightened, companies consolidated, and machinery increased productivity, fewer workers were needed throughout this production chain.
+
+Wooden agricultural containers also faced growing competition from cardboard cartons, plastic packaging, and standardized shipping systems. The resulting job losses extended beyond loggers and sawmill workers to box assemblers, lumber handlers, machinists, drivers, railroad workers, maintenance crews, and office employees.
+
+Some displaced workers found related employment in construction, agricultural packing, equipment operation, trucking, warehousing, or industrial maintenance. These transitions, however, often meant reduced wages, weaker job security, fewer union protections, or more seasonal work. For older workers whose experience was closely tied to lumber and wooden-box production, equivalent employment could be especially difficult to find.
+
+## Connection to Sam Peckinpah’s Films
+
+This period overlaps with Fresno-born director **Sam Peckinpah’s** most important films, including *Major Dundee* (1965), *The Wild Bunch* (1969), *The Ballad of Cable Hogue* (1970), *Junior Bonner* (1972), and *Pat Garrett and Billy the Kid* (1973).
+
+These films were not direct accounts of Fresno’s lumber industry, but they explored similar themes: the disappearance of an older way of life, technological and economic change, and workers or outsiders discovering that the world no longer valued their skills or personal codes. The decline of the box factory offers a local industrial parallel to Peckinpah’s recurring image of people being displaced by modernization.
+
+> **The box factory represents both the working economy of an earlier Fresno and the insecurity experienced by workers when that economy began to disappear.**
+
+<img src="pete_1a.jpg" width="350">
+
 # Sam Peckinpah Movies in Chronological Order
 
 | Year | Film                                  | Primary Genre                |
