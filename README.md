@@ -1,3 +1,23 @@
+# Sam Peckinpah Movies in Chronological Order
+
+| Year | Film                                  | Primary Genre                |
+| ---: | ------------------------------------- | ---------------------------- |
+| 1961 | *The Deadly Companions*               | Western                      |
+| 1962 | *Ride the High Country*               | Western                      |
+| 1965 | *Major Dundee*                        | Western / War                |
+| 1969 | *The Wild Bunch*                      | Revisionist Western          |
+| 1970 | *The Ballad of Cable Hogue*           | Western / Comedy-Drama       |
+| 1971 | *Straw Dogs*                          | Psychological Thriller       |
+| 1972 | *Junior Bonner*                       | Contemporary Western / Drama |
+| 1972 | *The Getaway*                         | Crime Thriller               |
+| 1973 | *Pat Garrett and Billy the Kid*       | Revisionist Western          |
+| 1974 | *Bring Me the Head of Alfredo Garcia* | Neo-Western / Crime Thriller |
+| 1975 | *The Killer Elite*                    | Action Thriller              |
+| 1977 | *Cross of Iron*                       | War Film                     |
+| 1978 | *Convoy*                              | Action / Road Film           |
+| 1983 | *The Osterman Weekend*                | Espionage Thriller           |
+
+
 # *Arabian Nights*: A Christmas Gift, 1971
 | <img src="PXL_20260923_045447887.jpg" width="250"> | <img src="PXL_20260923_045438702.MP.jpg" width="250"> |<img src="PXL_20260923_142156695~2.jpg" width="600"> |
 |--|--|--|
