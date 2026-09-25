@@ -30,9 +30,9 @@ The film was added to the **National Film Registry in 1992**. [Library of Congre
 
 More broadly, the Central California foothills contributed several recurring elements to his work:
 
-- Older men whose personal codes no longer fit the modern world
-- Loyalty among flawed companions
-- Rural communities overtaken by commerce and technology
+- **Older men whose personal codes no longer fit the modern world**
+- **Loyalty among flawed companions**
+- **Rural communities overtaken by commerce and technology**
 - Tension between respectable institutions and rough frontier behavior
 - Nostalgia for the past combined with an unwillingness to romanticize its brutality
 - Landscapes that are beautiful but indifferent to human suffering
