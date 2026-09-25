@@ -22,7 +22,7 @@ These films were not direct accounts of Fresno’s lumber industry, but they exp
 
 <img src="pete_1a.jpg" width="350">
 
-## Fresno Inside His Films
+## Fresno Inside Peckinpah’s Films
 
 The most direct Fresno-area connection appears in ***Ride the High Country***. Peckinpah extensively revised the screenplay, named its mining settlement **Coarsegold**, and drew on memories of the aging ranchers and mountain characters he had known.
 
