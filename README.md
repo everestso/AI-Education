@@ -22,7 +22,7 @@ These films were not direct accounts of Fresno’s lumber industry, but they exp
 
 | <img src="pete_1a.jpg" width="350"> | <img src="68E26421-452F-4BF4-BD64AFE5E2860213-EDIT.jpg" width="350"> |<img src="PXL_20260923_185324678.jpg" width="250">|
 |--|--|--|
-| |<img src="PXL_20250417_223249811-EDIT-EDIT.jpg" width="350">  | <img src="PXL_20260729_005428953-EDIT.jpg" width="350"> |
+|<img src="PXL_20260729_005428953-EDIT.jpg" width="350">  |<img src="PXL_20250417_223249811-EDIT-EDIT.jpg" width="350">  |<img src="242678_202929373084175_4339687_o.jpg" width="350">  |
 
 ## Fresno Inside Peckinpah’s Films
 
