@@ -20,7 +20,8 @@ These films were not direct accounts of Fresno’s lumber industry, but they exp
 
 > **The box factory represents both the working economy of an earlier Fresno and the insecurity experienced by workers when that economy began to disappear.**
 
-<img src="pete_1a.jpg" width="350">
+| <img src="pete_1a.jpg" width="350"> | <img src="68E26421-452F-4BF4-BD64AFE5E2860213-EDIT.jpg" width="350"> |
+|--|--|
 
 ## Fresno Inside Peckinpah’s Films
 
