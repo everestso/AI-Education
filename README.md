@@ -22,6 +22,23 @@ These films were not direct accounts of Fresno’s lumber industry, but they exp
 
 <img src="pete_1a.jpg" width="350">
 
+## Fresno Inside His Films
+
+The most direct Fresno-area connection appears in ***Ride the High Country***. Peckinpah extensively revised the screenplay, named its mining settlement **Coarsegold**, and drew on memories of the aging ranchers and mountain characters he had known.
+
+The film was added to the **National Film Registry in 1992**. [Library of Congress](https://www.loc.gov/programs/national-film-preservation-board/film-registry/descriptions-and-essays/)
+
+More broadly, the Central California foothills contributed several recurring elements to his work:
+
+- Older men whose personal codes no longer fit the modern world
+- Loyalty among flawed companions
+- Rural communities overtaken by commerce and technology
+- Tension between respectable institutions and rough frontier behavior
+- Nostalgia for the past combined with an unwillingness to romanticize its brutality
+- Landscapes that are beautiful but indifferent to human suffering
+
+His Westerns were therefore not simply products of Hollywood imagination. They partly reflected someone raised between **urban Fresno respectability and the residual frontier society of the Sierra foothills**.
+
 # Sam Peckinpah Movies in Chronological Order
 
 | Year | Film                                  | Primary Genre                |
