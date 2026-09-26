@@ -1,3 +1,24 @@
+## Concise Interpretation
+
+The unusual research examined by Patrick L. Schmidt can be understood as occupying three overlapping worlds:
+
+| Research area | Principal figures or institutions | Central objective |
+|---|---|---|
+| **Personality assessment** | Henry Murray and the Harvard Psychological Clinic | Reveal personality through biography, psychological testing, stress, confrontation, and observation |
+| **Psychedelic transformation** | Timothy Leary, Richard Alpert, and the Harvard Psilocybin Project | Investigate whether psychedelic drugs could transform consciousness, behavior, personality, and spiritual experience |
+| **Intelligence and behavioral research** | Office of Strategic Services (OSS), CIA, and MKULTRA | Develop methods for personnel selection, interrogation, resistance to coercion, incapacitation, and behavioral control |
+
+The disturbing element is not that these activities were necessarily components of a single secret program. No conclusive evidence establishes that Murray’s Harvard experiments or Leary’s Psilocybin Project were official MKULTRA operations.
+
+Instead, they belonged to an overlapping Cold War culture that placed enormous confidence in the ability of experts to penetrate, measure, stress, reshape, or liberate the human personality—sometimes without adequate concern for informed consent, scientific neutrality, or psychological harm.
+
+Murray’s aggressive personality experiments, including the prolonged study involving Harvard undergraduate Theodore Kaczynski, attempted to reveal how individuals responded when their identities and deeply held beliefs were placed under intense pressure. Leary and Alpert pursued transformation from another direction, investigating whether psychedelic substances could produce psychological, behavioral, or spiritual change. Meanwhile, American intelligence agencies explored drugs, interrogation, hypnosis, isolation, and other techniques as possible instruments of behavioral control.
+
+Schmidt’s “quixotic pursuit” was therefore not simply Harvard’s effort to combine several academic departments. It represented a much more ambitious attempt to create a unified science capable of making human personality scientifically understandable—and potentially manageable.
+
+## Reference
+
+Schmidt, Patrick L. *Harvard’s Quixotic Pursuit of a New Science: The Rise and Fall of the Department of Social Relations*. Lanham, Maryland: Rowman & Littlefield, 2022.
 
 | <img src="PXL_20260926_184633310.MP.jpg" width="250"> | <img src="ED-AY996_bkrvpo_JV_20190923142441.jpg" width="150"> </br><img src="PXL_20260924_175312030~2.jpg" width="600">|<img src="PXL_20260923_142156695~2.jpg" width="600"> </br><img src="OChem.jpg" width="350">|
 |--|--|--|
