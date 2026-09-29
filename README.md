@@ -9,6 +9,7 @@
 
 | <img src="ChatGPT Image Apr 4, 2026, 07_14_00 PM.png" width="500"></br>**Pick A Sticker.** | <img src="PXL_20260929_165053448.MP~2.jpg" width="350"> | <img src="PXL_20260929_163241260~2.jpg" width="350"> |
 |--|--|--|
+| |<img src="opt3b.png" width="350"> | |
 
 This period overlaps with Fresno-born director **Sam Peckinpah’s** most important films, including *Major Dundee* (1965), *The Wild Bunch* (1969), *The Ballad of Cable Hogue* (1970), *Junior Bonner* (1972), and *Pat Garrett and Billy the Kid* (1973).
 
