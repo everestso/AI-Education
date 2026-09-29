@@ -6,7 +6,9 @@
 
 |**Cornell University Sexual-Assault Case**<br><br>A former Cornell University student, identified as Jane Doe, alleges in a civil lawsuit that seven members of the Chi Phi fraternity drugged and sexually assaulted her at the fraternity house in October 2024. No criminal charges were initially filed, but in September 2026 the Tompkins County district attorney reopened the investigation and announced plans to present the evidence to a grand jury. Cornell states that its separate investigation resulted in expulsions and suspensions and that the fraternity chapter was closed. Attorneys representing accused students have denied the allegations. The civil claims and renewed criminal investigation remain unresolved.<br><br>**News coverage:** [CNN](https://www.cnn.com/2026/09/29/us/cornell-university-rape-case-investigation-wwk) · [Associated Press via KPBS](https://www.kpbs.org/news/national/2026/09/28/prosecutors-are-reopening-a-cornell-fraternity-rape-case-heres-what-we-know) · [CBS News](https://www.cbsnews.com/news/cornell-university-rape-allegations-chi-phi-fraternity-details/) · [Los Angeles Times](https://www.latimes.com/world-nation/story/2026-09-28/prosecutor-reopens-probe-into-cornell-gang-rape-allegations-after-accuser-files-lawsuit)  |  |
 |--|---|
-| <img src="ChatGPT Image Apr 4, 2026, 07_14_00 PM.png" width="500"><img src="PXL_20260929_165053448.MP~2.jpg" width="250"> | |
+
+| <img src="ChatGPT Image Apr 4, 2026, 07_14_00 PM.png" width="500">| <img src="PXL_20260929_165053448.MP~2.jpg" width="350">  | <img src="PXL_20260929_163241260~2.jpg" width="350"> |
+|--|--|--|
 
 This period overlaps with Fresno-born director **Sam Peckinpah’s** most important films, including *Major Dundee* (1965), *The Wild Bunch* (1969), *The Ballad of Cable Hogue* (1970), *Junior Bonner* (1972), and *Pat Garrett and Billy the Kid* (1973).
 
