@@ -1,3 +1,17 @@
+## Connection to Sam Peckinpah’s Films
+| <img src="PXL_20260729_005428953-EDIT.jpg" width="350">  | <img src="d.l.2-EDIT.jpg" width="200">  |<img src="PXL_20260512_050527439~3.jpg" width="350"> </br><img src="242678_202929373084175_4339687_o.jpg" width="350">   |
+|--|--|--|
+|<img src="pete_1a.jpg" width="350">|<img src="68E26421-452F-4BF4-BD64AFE5E2860213-EDIT.jpg" width="350">  |<img src="PXL_20260923_185324678.jpg" width="250">|
+|  | <img src="PXL_20250417_223249811-EDIT-EDIT.jpg" width="350"> |  |
+
+This period overlaps with Fresno-born director **Sam Peckinpah’s** most important films, including *Major Dundee* (1965), *The Wild Bunch* (1969), *The Ballad of Cable Hogue* (1970), *Junior Bonner* (1972), and *Pat Garrett and Billy the Kid* (1973).
+
+These films were not direct accounts of Fresno’s lumber industry, but they explored similar themes: the disappearance of an older way of life, technological and economic change, and workers or outsiders discovering that the world no longer valued their skills or personal codes. The decline of the box factory offers a local industrial parallel to Peckinpah’s recurring image of people being displaced by modernization.
+
+> **The box factory represents both the working economy of an earlier Fresno and the insecurity experienced by workers when that economy began to disappear.**
+
+
+
 ## Concise Interpretation
 
 The unusual research examined by Patrick L. Schmidt can be understood as occupying three overlapping worlds:
@@ -50,6 +64,7 @@ These films were not direct accounts of Fresno’s lumber industry, but they exp
 | <img src="pete_1a.jpg" width="350"> | <img src="68E26421-452F-4BF4-BD64AFE5E2860213-EDIT.jpg" width="350"> |<img src="PXL_20260923_185324678.jpg" width="250">|
 |--|--|--|
 |<img src="PXL_20260729_005428953-EDIT.jpg" width="350">  |<img src="PXL_20250417_223249811-EDIT-EDIT.jpg" width="350">  |<img src="242678_202929373084175_4339687_o.jpg" width="350">  |
+| <img src="PXL_20260512_050527439~3.jpg" width="350">  | <img src="d.l.2-EDIT.jpg" width="350">  | |
 
 ## Fresno Inside Peckinpah’s Films
 
