@@ -1,3 +1,95 @@
+[Serendipity](https://youtu.be/FXUiEPrK_II?si=nnpePcH0BEqRqDNK)
+## Video Summary: “Serendipity, Discovery and Joy in Chemistry”
+
+[Watch the video on YouTube](https://www.youtube.com/watch?v=FXUiEPrK_II)
+
+In this 2017 Fresno State Talk, chemistry professor Dr. Joy Goto combines autobiography, chemistry instruction, and scientific research to explain how curiosity, mentors, students, and unexpected discoveries shaped her career. The lecture was part of a series honoring professors selected for their ability to engage and inspire students. [Fresno State News](https://www.fresnostatenews.com/2017/02/03/fresno-state-talks-lecture-series-covers-chemistry-camaraderie-and-bob-dylan/)
+
+Goto describes her development as if it were a chemical reaction: childhood experiences, teachers, family members, mentors, and research opportunities acted as “catalysts,” transforming “little Joy” into a scientist, professor, and mentor. Her early fascination with colorful chemical reactions—especially fireworks and chemistry kits—developed into a broader interest in understanding how matter changes and how chemistry can benefit society.
+
+A central theme is that science becomes meaningful when students move beyond textbook knowledge and participate in research. Goto presents research as a careful investigation of the unknown that allows students to make genuine discoveries and potentially improve people’s lives.
+
+### Fresno, Family, and Hiroshima
+
+Goto was born and raised in Fresno and describes herself as a third-generation Japanese American with ancestral roots in Hiroshima. Although the video concentrates primarily on her scientific development, later interviews reveal an important personal connection between her family and one of the defining events of the twentieth century.
+
+Goto’s mother was born near Hiroshima and was approximately eleven years old when the United States dropped the atomic bomb on the city on August 6, 1945. According to Goto, her mother lived several miles from the hypocenter and remembered seeing the mushroom cloud.
+
+> “For me, [the event] is pretty personal. My mother was born in Hiroshima, not directly in the city but about 5 miles from the epicenter. When she was a child, she saw the mushroom cloud.”
+
+—Dr. Joy Goto, quoted by [Fresno State Today](https://today.fresnostate.edu/fresno-state-to-commemorate-80th-anniversary-of-wwii-atomic-bombings/)
+
+A second account similarly reports that her mother was eleven years old and living approximately ten to twelve miles from the hypocenter. In that interview, Goto also connected her family story to the larger history of Japanese settlement in the Central Valley, noting that Fresno County attracted many immigrants from the Hiroshima region, particularly through agriculture. [The kNOw Youth Media](https://theknowfresno.org/08/18/2025/fresno-community-commemorates-hiroshima-and-nagasaki-atomic-bombings/)
+
+The available sources do not provide the complete story of when or how her mother came to the United States. Nevertheless, this family connection helps explain Goto’s continuing involvement in Fresno’s Japanese American community, the Japanese American Citizens League, human-rights activities, and local commemorations of the Hiroshima and Nagasaki bombings.
+
+Her mother’s experience also adds another dimension to the lecture’s emphasis on science serving humanity. Chemistry can produce beautiful and beneficial transformations, but the history of Hiroshima demonstrates that scientific knowledge can also be used destructively. Although Goto does not develop this contrast explicitly in the video, her family history gives special significance to her emphasis on responsible scientific communication, mentorship, community service, and research intended to reduce human suffering.
+
+### Her Scientific Journey
+
+Goto organizes her research career around three proteins, molecules, or disease problems:
+
+- Copper-zinc superoxide dismutase (SOD) and amyotrophic lateral sclerosis (ALS)
+- Amyloid precursor protein and Alzheimer’s disease
+- The environmental neurotoxin BMAA and the neurodegenerative condition ALS-PDC
+
+She explains that oxygen metabolism can produce reactive molecules called free radicals. The SOD enzyme normally helps neutralize these damaging molecules, but changes in the enzyme have been associated with inherited forms of ALS.
+
+Her postdoctoral research shifted toward Alzheimer’s disease and the abnormal processing and folding of proteins. Small protein fragments can accumulate into plaques and tangles, interfering with normal neurological function. She uses a language metaphor to make this understandable:
+
+- Nucleotides and amino acids are the alphabet.
+- Codons and small protein structures are words.
+- Genes and complete proteins are sentences.
+
+A misplaced or abnormal “letter” can therefore alter the resulting word, sentence, and biological function.
+
+### BMAA and Fruit-Fly Research
+
+The final scientific section focuses on BMAA, a molecule produced by cyanobacteria and investigated for a possible connection to ALS-PDC, a disease historically found at unusually high rates in Guam. BMAA may accumulate through the food chain and chemically resemble substances normally used by the nervous system, including glutamate.
+
+Goto’s Fresno State research group used fruit flies as a model organism because they reproduce quickly, have well-understood genetics, and possess neurons that share important characteristics with human neurons. Students fed fruit flies BMAA and observed:
+
+- Tremors and abnormal movement
+- Reduced climbing ability
+- Changes in electrical signaling between neurons
+- Decreased survival or neurological function
+
+The researchers also investigated whether the amino acid L-serine could reduce some of BMAA’s effects. Their fruit-fly results contributed to broader collaborative research using vertebrate models and, at the time of the lecture, early human investigations. These findings are presented as promising research directions, not as proof of an established treatment.
+
+### Teaching and Mentorship
+
+The lecture repeatedly returns to Goto’s identity as a teacher. She uses models, demonstrations, audience questions, and familiar analogies to make molecular science tangible. She also emphasizes that much of the laboratory work was performed by Fresno State undergraduate and graduate students.
+
+For Goto, mentoring students is not separate from scientific discovery. Student research connects classroom concepts with unanswered questions and allows students to see themselves as contributors to science.
+
+Her commitment to mentorship also reflects the educational values of her own family. Goto has credited her parents, teachers, and two older brothers with teaching her to strive and instilling a strong respect for education. She presents scientific development not as the work of an isolated individual but as a process shaped by family, teachers, collaborators, and students.
+
+### Conclusion
+
+Goto ends with a luminol demonstration that produces visible blue light. The experiment brings her story full circle: she was originally attracted to chemistry by the beauty of visible reactions, and she continues to use that sense of wonder to motivate students and guide research.
+
+The video’s larger message is that science is both intellectual and deeply human. Discovery grows from curiosity, careful observation, collaboration, mentorship, and a willingness to follow unexpected results. The “joy” in chemistry is therefore both Dr. Goto herself and the excitement of making the invisible workings of nature understandable.
+
+Her family’s connection to Hiroshima adds a deeper historical dimension to that message. Science cannot be separated entirely from the people, communities, and historical events it affects. Goto’s career—combining scientific research, education, mentorship, community engagement, and efforts to understand human disease—illustrates one way scientific knowledge can be directed toward discovery, healing, and service.
+
+<h2 align="center">Featured Video</h2>
+
+<p align="center">
+  <a href="https://youtu.be/FXUiEPrK_II">
+    <img src="https://img.youtube.com/vi/FXUiEPrK_II/maxresdefault.jpg"
+         alt="Watch the video on YouTube"
+         width="700">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/FXUiEPrK_II">▶️ Watch on YouTube</a>
+</p>
+
+| | |
+|--|--|
+|<img src="PXL_20260812_181424827.jpg" width="300"> | <img src="PXL_20260820_162913934.jpg" width="200">|
+
 ## Connection to Sam Peckinpah’s Films
 | <img src="PXL_20260930_140922143.jpg" width="200"></br><img src="ChatGPT Image Apr 4, 2026, 07_14_00 PM.png" width="500"></br>**Pick A Sticker.** | <img src="PXL_20260929_165053448.MP~2.jpg" width="350"></br><img src="PXL_20260821_155224322.jpg" width="150"> | <img src="PXL_20260929_163241260~2.jpg" width="350"></br><img src="PXL_20260930_183832203.MP~2.jpg" width="350"> |
 |--|--|--|
@@ -2959,98 +3051,6 @@ The transformative possibility lies in **not necessarily returning as the same p
 * **Saúl Jiménez-Sandoval**, “Love, Memory and Being in Octavio Paz's *Piedra de Sol*,” in *The Willow and the Spiral: Essays on Octavio Paz and the Poetic Imagination*, edited by Roberto Cantú, Cambridge Scholars Publishing, 2014.
 * Contemporary **UCLA dissertation research** analyzes Paz's translations of Nerval's *Arthémis* and specifically examines his emphasis on the thirteenth returning as the first.
 
-
-[Serendipity](https://youtu.be/FXUiEPrK_II?si=nnpePcH0BEqRqDNK)
-## Video Summary: “Serendipity, Discovery and Joy in Chemistry”
-
-[Watch the video on YouTube](https://www.youtube.com/watch?v=FXUiEPrK_II)
-
-In this 2017 Fresno State Talk, chemistry professor Dr. Joy Goto combines autobiography, chemistry instruction, and scientific research to explain how curiosity, mentors, students, and unexpected discoveries shaped her career. The lecture was part of a series honoring professors selected for their ability to engage and inspire students. [Fresno State News](https://www.fresnostatenews.com/2017/02/03/fresno-state-talks-lecture-series-covers-chemistry-camaraderie-and-bob-dylan/)
-
-Goto describes her development as if it were a chemical reaction: childhood experiences, teachers, family members, mentors, and research opportunities acted as “catalysts,” transforming “little Joy” into a scientist, professor, and mentor. Her early fascination with colorful chemical reactions—especially fireworks and chemistry kits—developed into a broader interest in understanding how matter changes and how chemistry can benefit society.
-
-A central theme is that science becomes meaningful when students move beyond textbook knowledge and participate in research. Goto presents research as a careful investigation of the unknown that allows students to make genuine discoveries and potentially improve people’s lives.
-
-### Fresno, Family, and Hiroshima
-
-Goto was born and raised in Fresno and describes herself as a third-generation Japanese American with ancestral roots in Hiroshima. Although the video concentrates primarily on her scientific development, later interviews reveal an important personal connection between her family and one of the defining events of the twentieth century.
-
-Goto’s mother was born near Hiroshima and was approximately eleven years old when the United States dropped the atomic bomb on the city on August 6, 1945. According to Goto, her mother lived several miles from the hypocenter and remembered seeing the mushroom cloud.
-
-> “For me, [the event] is pretty personal. My mother was born in Hiroshima, not directly in the city but about 5 miles from the epicenter. When she was a child, she saw the mushroom cloud.”
-
-—Dr. Joy Goto, quoted by [Fresno State Today](https://today.fresnostate.edu/fresno-state-to-commemorate-80th-anniversary-of-wwii-atomic-bombings/)
-
-A second account similarly reports that her mother was eleven years old and living approximately ten to twelve miles from the hypocenter. In that interview, Goto also connected her family story to the larger history of Japanese settlement in the Central Valley, noting that Fresno County attracted many immigrants from the Hiroshima region, particularly through agriculture. [The kNOw Youth Media](https://theknowfresno.org/08/18/2025/fresno-community-commemorates-hiroshima-and-nagasaki-atomic-bombings/)
-
-The available sources do not provide the complete story of when or how her mother came to the United States. Nevertheless, this family connection helps explain Goto’s continuing involvement in Fresno’s Japanese American community, the Japanese American Citizens League, human-rights activities, and local commemorations of the Hiroshima and Nagasaki bombings.
-
-Her mother’s experience also adds another dimension to the lecture’s emphasis on science serving humanity. Chemistry can produce beautiful and beneficial transformations, but the history of Hiroshima demonstrates that scientific knowledge can also be used destructively. Although Goto does not develop this contrast explicitly in the video, her family history gives special significance to her emphasis on responsible scientific communication, mentorship, community service, and research intended to reduce human suffering.
-
-### Her Scientific Journey
-
-Goto organizes her research career around three proteins, molecules, or disease problems:
-
-- Copper-zinc superoxide dismutase (SOD) and amyotrophic lateral sclerosis (ALS)
-- Amyloid precursor protein and Alzheimer’s disease
-- The environmental neurotoxin BMAA and the neurodegenerative condition ALS-PDC
-
-She explains that oxygen metabolism can produce reactive molecules called free radicals. The SOD enzyme normally helps neutralize these damaging molecules, but changes in the enzyme have been associated with inherited forms of ALS.
-
-Her postdoctoral research shifted toward Alzheimer’s disease and the abnormal processing and folding of proteins. Small protein fragments can accumulate into plaques and tangles, interfering with normal neurological function. She uses a language metaphor to make this understandable:
-
-- Nucleotides and amino acids are the alphabet.
-- Codons and small protein structures are words.
-- Genes and complete proteins are sentences.
-
-A misplaced or abnormal “letter” can therefore alter the resulting word, sentence, and biological function.
-
-### BMAA and Fruit-Fly Research
-
-The final scientific section focuses on BMAA, a molecule produced by cyanobacteria and investigated for a possible connection to ALS-PDC, a disease historically found at unusually high rates in Guam. BMAA may accumulate through the food chain and chemically resemble substances normally used by the nervous system, including glutamate.
-
-Goto’s Fresno State research group used fruit flies as a model organism because they reproduce quickly, have well-understood genetics, and possess neurons that share important characteristics with human neurons. Students fed fruit flies BMAA and observed:
-
-- Tremors and abnormal movement
-- Reduced climbing ability
-- Changes in electrical signaling between neurons
-- Decreased survival or neurological function
-
-The researchers also investigated whether the amino acid L-serine could reduce some of BMAA’s effects. Their fruit-fly results contributed to broader collaborative research using vertebrate models and, at the time of the lecture, early human investigations. These findings are presented as promising research directions, not as proof of an established treatment.
-
-### Teaching and Mentorship
-
-The lecture repeatedly returns to Goto’s identity as a teacher. She uses models, demonstrations, audience questions, and familiar analogies to make molecular science tangible. She also emphasizes that much of the laboratory work was performed by Fresno State undergraduate and graduate students.
-
-For Goto, mentoring students is not separate from scientific discovery. Student research connects classroom concepts with unanswered questions and allows students to see themselves as contributors to science.
-
-Her commitment to mentorship also reflects the educational values of her own family. Goto has credited her parents, teachers, and two older brothers with teaching her to strive and instilling a strong respect for education. She presents scientific development not as the work of an isolated individual but as a process shaped by family, teachers, collaborators, and students.
-
-### Conclusion
-
-Goto ends with a luminol demonstration that produces visible blue light. The experiment brings her story full circle: she was originally attracted to chemistry by the beauty of visible reactions, and she continues to use that sense of wonder to motivate students and guide research.
-
-The video’s larger message is that science is both intellectual and deeply human. Discovery grows from curiosity, careful observation, collaboration, mentorship, and a willingness to follow unexpected results. The “joy” in chemistry is therefore both Dr. Goto herself and the excitement of making the invisible workings of nature understandable.
-
-Her family’s connection to Hiroshima adds a deeper historical dimension to that message. Science cannot be separated entirely from the people, communities, and historical events it affects. Goto’s career—combining scientific research, education, mentorship, community engagement, and efforts to understand human disease—illustrates one way scientific knowledge can be directed toward discovery, healing, and service.
-
-<h2 align="center">Featured Video</h2>
-
-<p align="center">
-  <a href="https://youtu.be/FXUiEPrK_II">
-    <img src="https://img.youtube.com/vi/FXUiEPrK_II/maxresdefault.jpg"
-         alt="Watch the video on YouTube"
-         width="700">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://youtu.be/FXUiEPrK_II">▶️ Watch on YouTube</a>
-</p>
-
-| | |
-|--|--|
-|<img src="PXL_20260812_181424827.jpg" width="300"> | <img src="PXL_20260820_162913934.jpg" width="200">|
 
 # The Cultural Cenote
 
