@@ -1,7 +1,7 @@
 ## Connection to Sam Peckinpah’s Films
 | <img src="PXL_20260930_140922143.jpg" width="200"></br><img src="ChatGPT Image Apr 4, 2026, 07_14_00 PM.png" width="500"></br>**Pick A Sticker.** | <img src="PXL_20260929_165053448.MP~2.jpg" width="350"></br><img src="PXL_20260821_155224322.jpg" width="150"> | <img src="PXL_20260929_163241260~2.jpg" width="350"> |
 |--|--|--|
-|<img src="PXL_20260929_002001354.jpg" width="250">  |<img src="opt3b.png" width="350"> | |
+|<img src="PXL_20260929_002001354.jpg" width="250">  |<img src="opt3b.png" width="350"> |<img src="PXL_20260930_142140156~2.jpg" width="350">  |
 
 | <img src="PXL_20260729_005428953-EDIT.jpg" width="350">  | <img src="d.l.2-EDIT.jpg" width="200">  |<img src="PXL_20260512_050527439~3.jpg" width="350"> </br><img src="242678_202929373084175_4339687_o.jpg" width="350">   |
 |--|--|--|
