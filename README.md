@@ -1,5 +1,5 @@
 ## Connection to Sam Peckinpah’s Films
-| <img src="PXL_20260930_140922143.jpg" width="200"></br><img src="ChatGPT Image Apr 4, 2026, 07_14_00 PM.png" width="500"></br>**Pick A Sticker.** | <img src="PXL_20260929_165053448.MP~2.jpg" width="350"></br><img src="PXL_20260821_155224322.jpg" width="150"> | <img src="PXL_20260929_163241260~2.jpg" width="350"> |
+| <img src="PXL_20260930_140922143.jpg" width="200"></br><img src="ChatGPT Image Apr 4, 2026, 07_14_00 PM.png" width="500"></br>**Pick A Sticker.** | <img src="PXL_20260929_165053448.MP~2.jpg" width="350"></br><img src="PXL_20260821_155224322.jpg" width="150"> | <img src="PXL_20260929_163241260~2.jpg" width="350"></br><img src="PXL_20260930_183832203.MP~2.jpg" width="350"> |
 |--|--|--|
 |**The Cap'N**</br><img src="PXL_20260929_002001354.jpg" width="250">  |<img src="opt3b.png" width="350"> |<img src="PXL_20260930_142140156~2.jpg" width="350">  |
 
