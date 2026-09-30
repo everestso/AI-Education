@@ -1,3 +1,126 @@
+# From Seeing to Speaking: Fei-Fei Li, Andrej Karpathy, and the Road to *micrograd*
+
+In *The Worlds I See*, Fei-Fei Li presents Andrej Karpathy’s graduate work as part of a larger effort to move computer vision beyond recognizing individual objects. ImageNet had helped teach machines to identify what appeared in an image—a dog, a person, a bicycle, or a building—but Li wanted computer vision systems to interpret an entire scene and express that understanding in language.
+
+The resulting collaboration between Li and Karpathy helped produce some of the earliest influential deep-learning systems for connecting images with natural-language descriptions. Years later, Karpathy would bring the same instinct for making complex systems understandable to his educational work, particularly *micrograd*.
+
+## A Productive Adviser–Student Relationship
+
+Li describes Karpathy as an unusually promising graduate student who combined mathematical ability with an engineer’s determination to make ideas work in practice. Their working relationship rested partly on a productive difference in temperament.
+
+Karpathy concentrated intensely on constructing a functioning model. Li continually pushed him to ask whether the model was solving the deeper scientific problem. In her account, an early version could associate an image with an appropriate caption, but it relied too heavily on descriptions already present in the training data. It could appear successful while behaving more like an elaborate retrieval system than a system capable of composing a genuinely new sentence.
+
+Li therefore challenged Karpathy to build a model that would generate a description **one word at a time**. The system would need to preserve information about an image while also producing a grammatically plausible sequence of words.
+
+This exchange reveals the complementary roles Li assigns to them:
+
+- **Li supplied the scientific challenge:** a machine should do more than retrieve a familiar description; it should construct language from its visual interpretation.
+- **Karpathy supplied the engineering persistence:** he worked through the technical problem of combining visual features with a recurrent language model.
+- **Their discussions connected empirical performance with scientific explanation:** it was not enough for the output to look convincing—the method had to address the intended problem.
+
+Li’s memoir does not portray the process as a solitary flash of inspiration. Instead, it emerges through repeated criticism, revision, experimentation, and conversation between adviser and student.
+
+## When the Model Began to Write
+
+Li recalls Karpathy eventually showing her a succession of unfamiliar images accompanied by newly generated captions. Some descriptions were impressively accurate, while others contained revealing mistakes: an unusual animal might be identified as a more familiar one, an object could be confused with something visually similar, or an important feature of the scene might be omitted.
+
+These mistakes mattered because they suggested that the system was not merely retrieving complete captions from a database. It was constructing sentences from learned visual and linguistic patterns—and sometimes constructing them incorrectly.
+
+For Li, this was an important transition. The computer was no longer limited to assigning a category such as *person*, *horse*, or *street*. It was beginning to express relationships among objects in sentence form.
+
+The limitations were equally instructive. The model could produce a plausible description without fully understanding the scene. Its captions demonstrated both the power of learned statistical associations and the distance between fluent description and human-level comprehension.
+
+## From Image–Sentence Matching to Caption Generation
+
+The research developed through two closely related conference projects.
+
+### NeurIPS 2014: Learning Relationships Between Images and Sentences
+
+Karpathy, Armand Joulin, and Li presented **“Deep Fragment Embeddings for Bidirectional Image Sentence Mapping”** at NeurIPS 2014.
+
+This work learned correspondences between parts of images and fragments of sentences. Instead of treating an image and its caption as indivisible objects, the model attempted to associate visual regions with particular pieces of language. It substantially improved image-to-sentence and sentence-to-image retrieval.
+
+This paper represents the important alignment and retrieval stage of the project:
+
+- [NeurIPS 2014 paper page](https://papers.nips.cc/paper_files/paper/2014/hash/fe31664311a4a44314c89321386a20f6-Abstract.html)
+- [Paper PDF](https://papers.nips.cc/paper_files/paper/2014/file/fe31664311a4a44314c89321386a20f6-Paper.pdf)
+- [arXiv version](https://arxiv.org/abs/1406.5679)
+
+### CVPR 2015: Generating New Image Descriptions
+
+Karpathy and Li subsequently presented **“Deep Visual-Semantic Alignments for Generating Image Descriptions”** as an oral paper at CVPR 2015.
+
+The system combined two major ideas:
+
+1. A visual-semantic alignment model connected regions of an image with portions of a sentence.
+2. A multimodal recurrent neural network generated a description sequentially, predicting one word and then using the preceding words to help predict the next.
+
+The visual component used convolutional neural networks to represent image regions. The language component used recurrent neural networks to represent and generate word sequences. Bringing these components together allowed the model to produce novel descriptions rather than selecting only from captions stored in its training data.
+
+Resources:
+
+- [Official CVPR 2015 paper and presentation page](https://openaccess.thecvf.com/content_cvpr_2015/html/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.html)
+- [Conference paper PDF](https://ai.stanford.edu/~karpathy/cvpr2015.pdf)
+- [Stanford project page and demonstrations](https://cs.stanford.edu/people/karpathy/deepimagesent/)
+- [arXiv version](https://arxiv.org/abs/1412.2306)
+- [NeuralTalk2 source code](https://github.com/karpathy/neuraltalk2)
+
+The distinction between the two papers helps clarify the historical progression. The NeurIPS 2014 work emphasized aligning and retrieving images and sentences. The CVPR 2015 work incorporated that alignment research into a system capable of generating new descriptions.
+
+## Scientific Competition and the Google Announcement
+
+Li also places the project within the increasingly competitive atmosphere surrounding deep learning in 2014. As she and Karpathy prepared their results, a Google research group independently developed a neural image-captioning system.
+
+The nearly simultaneous work showed that image captioning had become a natural next challenge for deep learning. Improvements in convolutional neural networks had made visual recognition increasingly effective, while recurrent neural networks offered a way to generate variable-length language. Several groups recognized that these techniques could be joined.
+
+In Li’s telling, the episode was both unsettling and energizing. Academic research was becoming entangled with the computational resources and rapid development cycles of large technology companies. At the same time, independent groups arriving at similar ideas indicated that the field itself was undergoing a significant transition.
+
+## From Researcher to Teacher
+
+Karpathy’s later educational work reflects many of the qualities Li observed during his graduate research: a desire to understand complicated systems by constructing them directly and examining their internal behavior.
+
+One of the clearest examples is **micrograd**, a deliberately small automatic-differentiation engine and neural-network library written in Python.
+
+Rather than beginning with a large framework such as PyTorch, micrograd reduces neural-network training to its essential operations. Each scalar value records:
+
+- its numerical value;
+- the operation that created it;
+- the earlier values on which it depends;
+- its gradient; and
+- the local rule needed to propagate derivatives backward.
+
+When `backward()` is called, micrograd traverses the computational graph in reverse, applies the chain rule, and accumulates the gradient contributions reaching each value.
+
+Karpathy then builds familiar neural-network structures—neurons, layers, and multilayer perceptrons—on top of this small automatic-differentiation engine.
+
+Resources:
+
+- [micrograd repository](https://github.com/karpathy/micrograd)
+- [“The Spelled-Out Intro to Neural Networks and Backpropagation: Building micrograd”](https://www.youtube.com/watch?v=VMj-3S1tku0)
+- [Neural Networks: Zero to Hero course](https://karpathy.ai/zero-to-hero.html)
+
+## A Consistent Intellectual Thread
+
+The image-captioning research and micrograd serve different purposes, but a consistent intellectual approach connects them.
+
+In Li’s laboratory, Karpathy worked to make a neural network translate its internal visual representation into an observable sequence of words. With micrograd, he reversed the direction of explanation: he exposed the normally hidden computational machinery so that students could see how neural networks calculate outputs, propagate gradients, and learn.
+
+The progression can be summarized as follows:
+
+| Period | Project | Central question |
+|---|---|---|
+| 2014 | Image–sentence alignment | How can a model connect visual regions with fragments of language? |
+| 2015 | Neural image captioning | How can a model generate a new description one word at a time? |
+| Later educational work | *micrograd* | How can students see and understand the machinery that makes neural-network learning possible? |
+
+Fei-Fei Li’s account therefore provides more than a history of an influential computer-vision project. It captures the formation of Karpathy’s characteristic style: build the system, inspect how it behaves, uncover what is happening beneath the interface, and make the underlying mechanism intelligible to others.
+
+## Book Reference
+
+Li, Fei-Fei. *The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI*. Flatiron Books, 2023.
+
+This overview paraphrases Li’s account of her work with Andrej Karpathy. The descriptions of their conversations and research relationship are summarized rather than reproduced at length.
+
 [Serendipity](https://youtu.be/FXUiEPrK_II?si=nnpePcH0BEqRqDNK)
 ## Video Summary: “Serendipity, Discovery and Joy in Chemistry”
 
