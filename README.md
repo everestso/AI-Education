@@ -1,3 +1,25 @@
+# Organic Chemistry vs. Biochemistry
+
+**Organic chemistry** studies carbon-containing compounds broadly, while **biochemistry** applies chemistry to the molecules and processes of living organisms.
+
+| Organic Chemistry | Biochemistry |
+|---|---|
+| Focuses broadly on carbon-based compounds | Focuses on the chemistry of living systems |
+| Studies molecular structure, bonding, reactions, and synthesis | Studies proteins, carbohydrates, lipids, DNA, RNA, and metabolism |
+| Emphasizes reaction mechanisms and functional groups | Emphasizes biological functions, pathways, and regulation |
+| Includes natural and synthetic substances, such as fuels, plastics, medicines, and dyes | Concentrates primarily on molecules found in cells and organisms |
+| Often asks, “How can this molecule react or be synthesized?” | Often asks, “How does this molecule help a living system function?” |
+
+## Example
+
+Organic chemistry explains the molecular structure of glucose and the reactions its functional groups can undergo.
+
+Biochemistry explains how cells break down glucose through glycolysis to produce usable energy.
+
+## Relationship Between the Subjects
+
+The subjects overlap considerably because biological molecules are mostly organic compounds. Students typically study organic chemistry first because its concepts—including bonding, stereochemistry, acidity, functional groups, and reaction mechanisms—provide a foundation for understanding biochemistry.
+
 # From Seeing to Speaking: Fei-Fei Li, Andrej Karpathy, and the Road to *micrograd*
 
 In *The Worlds I See*, Fei-Fei Li presents Andrej Karpathy’s graduate work as part of a larger effort to move computer vision beyond recognizing individual objects. ImageNet had helped teach machines to identify what appeared in an image—a dog, a person, a bicycle, or a building—but Li wanted computer vision systems to interpret an entire scene and express that understanding in language.
