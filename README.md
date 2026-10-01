@@ -2,7 +2,7 @@
 |--|--|--|
 |<img src="PXL_20260812_181424827.jpg" width="300"> | <img src="PXL_20260820_162913934.jpg" width="200">|<img src="PXL_20261001_181859481.jpg" width="200">|
 
-## Rantz, Raves, & Curses
+## Rantz, Raves & Curses
 
 |<img src="121539850_4928517890499396_1942938626819892794_n.jpeg" width="300">  | <img src="PXL_20260225_152415784.jpg" width="300">  | <img src="PXL_20260512_050527439~3 (1).jpg" width="300"> |
 |--|--|--|
