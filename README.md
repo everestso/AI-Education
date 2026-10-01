@@ -1,3 +1,23 @@
+| | |
+|--|--|
+|<img src="PXL_20260812_181424827.jpg" width="300"> | <img src="PXL_20260820_162913934.jpg" width="200">|
+
+|<img src="121539850_4928517890499396_1942938626819892794_n.jpeg" width="300">  | <img src="PXL_20260225_152415784.jpg" width="300">  | <img src="PXL_20260512_050527439~3 (1).jpg" width="300"> |
+|--|--|--|
+
+## Connection to Sam Peckinpah’s Films
+| <img src="PXL_20260930_140922143.jpg" width="200"></br><img src="ChatGPT Image Apr 4, 2026, 07_14_00 PM.png" width="500"></br>**Pick A Sticker.** | <img src="PXL_20260929_165053448.MP~2.jpg" width="350"></br><img src="PXL_20260821_155224322.jpg" width="150"> | <img src="PXL_20260929_163241260~2.jpg" width="350"></br><img src="PXL_20260930_183832203.MP~2.jpg" width="350"> |
+|--|--|--|
+|**The Cap'N**</br><img src="PXL_20260929_002001354.jpg" width="250">  |<img src="opt3b.png" width="350"> |<img src="PXL_20260930_142140156~2.jpg" width="350">  |
+
+| <img src="PXL_20260729_005428953-EDIT.jpg" width="350">  | <img src="d.l.2-EDIT.jpg" width="200">  |<img src="PXL_20260512_050527439~3.jpg" width="350"> </br><img src="242678_202929373084175_4339687_o.jpg" width="350">   |
+|--|--|--|
+|<img src="pete_1a.jpg" width="350">|<img src="68E26421-452F-4BF4-BD64AFE5E2860213-EDIT.jpg" width="350">  |<img src="PXL_20260923_185324678.jpg" width="250">|
+| <img src="PXL_20260929_163241260~2.jpg" width="350"> | <img src="PXL_20250417_223249811-EDIT-EDIT.jpg" width="350"> | <img src="PXL_20260929_002001354.jpg" width="350"> |
+
+|**Cornell University Sexual-Assault Case**<br>KEY: Partytime On Blast MESSAGE!<br>A former Cornell University student, identified as Jane Doe, alleges in a civil lawsuit that seven members of the Chi Phi fraternity drugged and sexually assaulted her at the fraternity house in October 2024. No criminal charges were initially filed, but in September 2026 the Tompkins County district attorney reopened the investigation and announced plans to present the evidence to a grand jury. Cornell states that its separate investigation resulted in expulsions and suspensions and that the fraternity chapter was closed. Attorneys representing accused students have denied the allegations. The civil claims and renewed criminal investigation remain unresolved.<br><br>**News coverage:** [CNN](https://www.cnn.com/2026/09/29/us/cornell-university-rape-case-investigation-wwk) · [Associated Press via KPBS](https://www.kpbs.org/news/national/2026/09/28/prosecutors-are-reopening-a-cornell-fraternity-rape-case-heres-what-we-know) · [CBS News](https://www.cbsnews.com/news/cornell-university-rape-allegations-chi-phi-fraternity-details/) · [Los Angeles Times](https://www.latimes.com/world-nation/story/2026-09-28/prosecutor-reopens-probe-into-cornell-gang-rape-allegations-after-accuser-files-lawsuit)  |  |
+|--|---|
+
 # Organic Chemistry vs. Biochemistry
 
 **Organic chemistry** studies carbon-containing compounds broadly, while **biochemistry** applies chemistry to the molecules and processes of living organisms.
