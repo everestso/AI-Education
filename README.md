@@ -12,6 +12,61 @@ Mensa provides members with opportunities for intellectual discussion, social in
 - [Mensa International — About Mensa](https://www.mensa.org/about-us/)
 - [American Mensa](https://www.us.mensa.org/)
   
+## Andrej Karpathy: From Speedcubing to *micrograd*
+
+Before Andrej Karpathy became widely known for his work in artificial intelligence, he participated in the online **speedcubing community** under the name **“badmephisto.”** He created videos and written tutorials explaining how to solve the Rubik’s Cube efficiently, including methods for improving recognition, algorithms, and execution speed.
+
+- [Andrej Karpathy’s “badmephisto” YouTube channel](https://www.youtube.com/user/badmephisto/featured)
+- [Badmephisto’s Rubik’s Cube website](https://badmephisto.com/)
+
+These tutorials reveal an early version of the approach that would later characterize Karpathy’s work in artificial intelligence: study a complicated system, break it into understandable operations, and explain those operations so that other people can reproduce them.
+
+## Computer Vision and Image Captioning
+
+As a doctoral student at Stanford University, Karpathy worked with **Fei-Fei Li** on deep-learning systems that connected computer vision with natural language. Their research investigated how a neural network could recognize important regions within an image, associate those regions with fragments of language, and generate a description one word at a time.
+
+Their paper, **“Deep Visual-Semantic Alignments for Generating Image Descriptions,”** was presented at the **2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**.
+
+- [CVPR 2015 paper and project page](https://openaccess.thecvf.com/content_cvpr_2015/html/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.html)
+- [Paper PDF](https://openaccess.thecvf.com/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf)
+
+In her memoir, *The Worlds I See*, Fei-Fei Li describes Karpathy as an unusually independent and creative researcher. His work helped move computer vision beyond simply assigning labels to images and toward systems capable of expressing relationships between visual objects through language.
+
+## Teaching Neural Networks with *micrograd*
+
+Karpathy later created [*micrograd*](https://github.com/karpathy/micrograd), a deliberately small automatic-differentiation engine and neural-network library. Instead of hiding neural-network training behind a large software framework, *micrograd* represents computations as simple scalar operations connected in a graph.
+
+This design allows students to observe how a neural network:
+
+1. calculates an output during the forward pass;
+2. measures error with a loss function;
+3. computes gradients through backpropagation; and
+4. adjusts its parameters during learning.
+
+Karpathy develops these ideas in his video lesson, [“The Spelled-Out Intro to Neural Networks and Backpropagation: Building micrograd”](https://www.youtube.com/watch?v=VMj-3S1tku0).
+
+## A Consistent Intellectual Thread
+
+Speedcubing, image-captioning research, and *micrograd* serve very different purposes, but a consistent intellectual approach connects them.
+
+In his speedcubing tutorials, Karpathy transformed a difficult physical puzzle into recognizable patterns and repeatable procedures. In Fei-Fei Li’s laboratory, he helped build neural networks that translated visual representations into observable sequences of words. With *micrograd*, he reversed the direction of explanation: he exposed the normally hidden computational machinery so that students could see how neural networks calculate outputs, propagate gradients, and learn.
+
+| **Period** | **Project** | **Central question** |
+|---|---|---|
+| Late 2000s | Speedcubing tutorials | How can a complicated solution process be divided into understandable and repeatable steps? |
+| 2014 | Image–sentence alignment | How can a model connect visual regions with fragments of language? |
+| 2015 | Neural image captioning | How can a model generate a new image description one word at a time? |
+| Later educational work | *micrograd* | How can students see and understand the machinery that makes neural-network learning possible? |
+
+The progression from **speedcubing to computer-vision research to *micrograd*** demonstrates a continuing interest in both solving complex problems and making their underlying mechanisms intelligible. Karpathy’s characteristic style can be summarized as follows: **build the system, inspect how it behaves, uncover what is happening beneath the interface, and explain the process so that others can understand and reproduce it.**
+
+## References
+
+- Karpathy, Andrej, and Li Fei-Fei. [“Deep Visual-Semantic Alignments for Generating Image Descriptions.”](https://openaccess.thecvf.com/content_cvpr_2015/html/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.html) *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*, 2015.
+- Karpathy, Andrej. [*micrograd*](https://github.com/karpathy/micrograd). GitHub.
+- Li, Fei-Fei. *The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI*. Flatiron Books, 2023.
+- [Badmephisto YouTube Channel](https://www.youtube.com/user/badmephisto/featured).
+  
 ## Rantz, Raves & Curses
 | | | |
 |--|--|--|
