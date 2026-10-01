@@ -1,3 +1,17 @@
+## Mensa International
+
+[Mensa International](https://www.mensa.org/) is a nonprofit organization for people who score within the **highest 2 percent of the general population** on an approved, properly administered intelligence test.
+
+Mensa was founded in **Oxford, England, in 1946** by **Roland Berrill**, a barrister, and **Lancelot Lionel Ware**, a scientist and lawyer. The organization was intended to bring intellectually gifted people together regardless of nationality, race, religion, political beliefs, education, or social background.
+
+Mensa provides members with opportunities for intellectual discussion, social interaction, special-interest groups, publications, conferences, competitions, and community activities. Its name comes from the Latin word *mensa*, meaning **“table,”** symbolizing a round table at which members meet as equals.
+
+### Reference
+
+- [Mensa International — Official Website](https://www.mensa.org/)
+- [Mensa International — About Mensa](https://www.mensa.org/about-us/)
+- [American Mensa](https://www.us.mensa.org/)
+  
 ## Rantz, Raves & Curses
 | | | |
 |--|--|--|
