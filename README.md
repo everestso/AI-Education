@@ -11,7 +11,12 @@ Mensa provides members with opportunities for intellectual discussion, social in
 - [Mensa International — Official Website](https://www.mensa.org/)
 - [Mensa International — About Mensa](https://www.mensa.org/about-us/)
 - [American Mensa](https://www.us.mensa.org/)
-  
+
+
+|<img src="PXL_20260704_185321745.jpg" width="300"> | | |
+|--|--|--|
+
+
 ## Andrej Karpathy: From Speedcubing to *micrograd*
 
 Before Andrej Karpathy became widely known for his work in artificial intelligence, he participated in the online **speedcubing community** under the name **“badmephisto.”** He created videos and written tutorials explaining how to solve the Rubik’s Cube efficiently, including methods for improving recognition, algorithms, and execution speed.
