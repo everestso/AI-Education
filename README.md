@@ -13,7 +13,7 @@ Mensa provides members with opportunities for intellectual discussion, social in
 - [American Mensa](https://www.us.mensa.org/)
 
 
-|<img src="PXL_20260704_185321745.jpg" width="300"> |<img src="PXL_20260704_185226553.jpg" width="300"> | |
+|<img src="PXL_20260704_185321745.jpg" width="300"> |<img src="PXL_20260704_185226553.jpg" width="300"> | <img src="PXL_20261001_234827083-EDIT.jpg" width="600">|
 |--|--|--|
 
 
