@@ -18,6 +18,7 @@ Mensa provides members with opportunities for intellectual discussion, social in
 
 | <img src="PXL_20261002_001828756~2.jpg" width="1200"> |
 |--|
+| <img src="PXL_20261001_233412025.MP~2.jpg" width="1200"> |
 
 ## Andrej Karpathy: From Speedcubing to *micrograd*
 
