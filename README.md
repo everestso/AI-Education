@@ -1,3 +1,6 @@
+|<img src="121539850_4928517890499396_1942938626819892794_n.jpeg" width="300">  | <img src="PXL_20260225_152415784.jpg" width="300">  | <img src="PXL_20260512_050527439~3 (1).jpg" width="300"> |
+|--|--|--|
+
 ## Mensa International
 
 [Mensa International](https://www.mensa.org/) is a nonprofit organization for people who score within the **highest 2 percent of the general population** on an approved, properly administered intelligence test.
