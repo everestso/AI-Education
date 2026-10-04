@@ -1,5 +1,7 @@
 |<img src="121539850_4928517890499396_1942938626819892794_n.jpeg" width="300">  | <img src="PXL_20260225_152415784.jpg" width="300">  | <img src="PXL_20260512_050527439~3 (1).jpg" width="300"> |
 |--|--|--|
+| <img src="PXL_20260910_164040683~2.jpg" width="300"> | <img src="PXL_20261003_160236305.jpg" width="300"> | <img src="PXL_20261004_013023227.jpg" width="300"> | 
+
 
 ## Mensa International
 
