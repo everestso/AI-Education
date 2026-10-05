@@ -31,7 +31,7 @@ It is therefore best understood not as an attempt to reproduce Italian spaghetti
 
 ## Addendum: California Woman Accused of Surveilling a Taiwanese Leader’s Family
 
-On October 5, 2026, ABC30 reported that the FBI had arrested **Wanying “Heather” Zhang**, a 34-year-old Irvine resident, at Los Angeles International Airport as she attempted to travel to China. Federal authorities have charged Zhang with acting as an unregistered agent of the People’s Republic of China.
+On October 5, 2026, ABC30 reported that the FBI had arrested **Wanying “Heather” Zhang**, a <strong> 34-year-old Irvine resident </strong>, at Los Angeles International Airport as she attempted to travel to China. Federal authorities have charged Zhang with acting as an unregistered agent of the People’s Republic of China.
 
 According to prosecutors, Zhang traveled to Seattle in 2025 at the direction of Chinese officials and conducted surveillance of a close relative of a Taiwanese government official. She allegedly photographed and recorded the relative’s family, home, and vehicles and transmitted photographs, videos, and license-plate information to Chinese officials.
 
