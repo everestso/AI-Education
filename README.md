@@ -1,5 +1,15 @@
 # Big Spy Effort for US Theatre
 
+## Addendum: California Woman Accused of Surveilling a Taiwanese Leader’s Family
+
+On October 5, 2026, ABC30 reported that the FBI had arrested **Wanying “Heather” Zhang**, a 34-year-old Irvine resident, at Los Angeles International Airport as she attempted to travel to China. Federal authorities have charged Zhang with acting as an unregistered agent of the People’s Republic of China.
+
+According to prosecutors, Zhang traveled to Seattle in 2025 at the direction of Chinese officials and conducted surveillance of a close relative of a Taiwanese government official. She allegedly photographed and recorded the relative’s family, home, and vehicles and transmitted photographs, videos, and license-plate information to Chinese officials.
+
+Subsequent reporting identified the alleged target as the son of Taiwanese President **Lai Ching-te**. The case reinforces the concerns raised in the *60 Minutes* report: surveillance attributed to the Chinese government may extend beyond prominent political leaders and activists to include their relatives living in the United States. Because the case is newly filed, the allegations have not yet been proven in court.
+
+**Related news story:** [Southern California Woman Accused of Spying for China Arrested by FBI Agents at LAX](https://abc30.com/story/woman-accused-spying-china-arrested-fbi-agents-los-angeles-international-airport/19909901/)
+
 # China’s Surveillance of Pro-Democracy Activists in the United States
 
 This *60 Minutes* report examines allegations that China has built an extensive network for monitoring and intimidating Chinese and Hong Kong pro-democracy activists living in the United States. The story focuses partly on **Shujun Wang**, a historian who helped establish a New York organization supporting democracy in China. Although trusted by fellow activists, Wang was convicted in 2024 of secretly collecting their names, contact information, and private conversations for China’s Ministry of State Security.
