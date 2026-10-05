@@ -10,6 +10,104 @@ Subsequent reporting identified the alleged target as the son of Taiwanese Presi
 
 **Related news story:** [Southern California Woman Accused of Spying for China Arrested by FBI Agents at LAX](https://abc30.com/story/woman-accused-spying-china-arrested-fbi-agents-los-angeles-international-airport/19909901/)
 
+## Savannah Georgia @ Summer '94
+
+|[Dark Chambers (Atari 2600 circa 1988) w/ Gymnasium](https://github.com/everestso/AI-Education/blob/main/DarkChambers_DeepLearning_DRuby.ipynb)  | Castle Wolfenstein (1981)  |
+|--|--|
+| <a href="darkchambers_best.gif"> <img src="darkchambers_best.gif" alt="Wild Bill Hickok, Texas Jack Omohundro, and Buffalo Bill (1873)" width="250"> </a> | <img src="PXL_20260910_165156285~2.jpg" width="350"></a> |
+
+[Dark Chambers (mp4) Video Highlights](DarkChambers_VideoHighlight.mp4)
+
+
+| Year | Semester	| ID	Desc	Units	Last	First	| |
+|------|----------|-----------------------------|-|
+| 1982 | Fall	| Acct 4b	Acct Prin + Sys	3 A	| <img src="r. u. laffin 2.jpg" width="250"> |
+| 1982 | Fall	| CSci 117	Struct of Prg La	3	Yeung	H.	A **Science I Presentations**|**Understanding CSM/CS From History**</br><img src="dryeung1.jpg" width="150"> </br> **Criticizing Worthless Test Questions**</br>What is that even testing!?!? |
+| 1982 | Fall	| Fin 104	Bus Forecasting	3			A | |
+| 1982 | Fall	| Math 121	Numerical Anl 1	3			A	* Math Coding w/ Fortran 77/ Kafka | |
+| 1982 | Fall	| Spch 3	Fund Public Comm	3			A / Champagne Talk (Will Wait) | |
+
+<img src="r. u. laffin 2.jpg" width="250">
+
+## How an Old Shock Book Worked
+
+An old novelty shock book typically used a small battery, an induction coil wrapped around a metal core, a mechanical switch, and two conductive surfaces on the cover.
+
+### Operating Process
+
+1. Opening the book activated a mechanical contact.
+2. The battery sent low-voltage current through the coil.
+3. The current created a magnetic field around the metal core.
+4. When the contact suddenly opened, the magnetic field collapsed.
+5. The collapsing field induced a brief voltage much higher than the battery voltage.
+6. This voltage was applied across two conductive areas on the cover.
+7. A person touching both areas completed the circuit, allowing a brief current to pass through the hand and produce the shock sensation.
+
+```text
+Battery current
+      ↓
+Magnetic field builds in coil
+      ↓
+Contact opens
+      ↓
+Magnetic field collapses
+      ↓
+High-voltage pulse is generated
+      ↓
+Brief current passes through the hand
+```
+
+The inductor’s voltage is described by:
+
+```math
+V = L\frac{di}{dt}
+```
+
+A rapid interruption of current produces a large rate of change, resulting in a high-voltage pulse. The number of wire turns and the metal core also increase the coil’s inductance and induced voltage.
+
+The battery alone generally did not provide enough voltage to push a noticeable current through dry skin. The coil converted stored magnetic energy into a short, high-voltage pulse. The **voltage provided the electrical push**, while the resulting **current through the hand caused the shock sensation**.
+
+# Global Inequality in Access to Education
+
+## AI好用，用好很難」: AI Is Easy to Use—but Hard to Use Well
+
+The Traditional Chinese expression literally means:
+
+> ### 「AI好用，用好很難」
+>
+> **“AI is easy to use—but hard to use well.”**
+
+The expression relies on a compact contrast:
+
+* **AI 好用** — AI is useful, convenient, or easy to use.
+* **用好 AI 很難** — Using AI *well*—skillfully and effectively—is difficult.
+
+## Natural English Translations
+
+* **AI is easy to use—but hard to use well.**
+* **AI is useful—but getting the most out of it is hard.**
+* **Using AI is easy. Using it effectively is not.**
+* **AI makes things easy. Mastering it is hard.**
+* **AI is accessible; effective use takes skill.**
+
+## Recommended Translation
+
+> **AI Is Easy to Use—but Hard to Use Well**
+
+This preserves both the parallel structure and the original sentiment: accessing AI is easy, but obtaining consistently good results requires judgment, technique, and experience.
+
+# Big Spy Effort for US Theatre
+
+## Addendum: California Woman Accused of Surveilling a Taiwanese Leader’s Family
+
+On October 5, 2026, ABC30 reported that the FBI had arrested **Wanying “Heather” Zhang**, a 34-year-old Irvine resident, at Los Angeles International Airport as she attempted to travel to China. Federal authorities have charged Zhang with acting as an unregistered agent of the People’s Republic of China.
+
+According to prosecutors, Zhang traveled to Seattle in 2025 at the direction of Chinese officials and conducted surveillance of a close relative of a Taiwanese government official. She allegedly photographed and recorded the relative’s family, home, and vehicles and transmitted photographs, videos, and license-plate information to Chinese officials.
+
+Subsequent reporting identified the alleged target as the son of Taiwanese President **Lai Ching-te**. The case reinforces the concerns raised in the *60 Minutes* report: surveillance attributed to the Chinese government may extend beyond prominent political leaders and activists to include their relatives living in the United States. Because the case is newly filed, the allegations have not yet been proven in court.
+
+**Related news story:** [Southern California Woman Accused of Spying for China Arrested by FBI Agents at LAX](https://abc30.com/story/woman-accused-spying-china-arrested-fbi-agents-los-angeles-international-airport/19909901/)
+
 # China’s Surveillance of Pro-Democracy Activists in the United States
 
 This *60 Minutes* report examines allegations that China has built an extensive network for monitoring and intimidating Chinese and Hong Kong pro-democracy activists living in the United States. The story focuses partly on **Shujun Wang**, a historian who helped establish a New York organization supporting democracy in China. Although trusted by fellow activists, Wang was convicted in 2024 of secretly collecting their names, contact information, and private conversations for China’s Ministry of State Security.
