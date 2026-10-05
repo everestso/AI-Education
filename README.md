@@ -1,4 +1,4 @@
-|<img src="121539850_4928517890499396_1942938626819892794_n.jpeg" width="300">  | <img src="PXL_20260225_152415784.jpg" width="300">  | <img src="PXL_20260512_050527439~3 (1).jpg" width="300"> | <img src="JanetHerstein_ButlerPark1536.jpg" width="200">|
+|<img src="121539850_4928517890499396_1942938626819892794_n.jpeg" width="300">  | <img src="PXL_20260225_152415784.jpg" width="300">  | <img src="PXL_20260512_050527439~3 (1).jpg" width="300"> | <img src="JanetHerstein_ButlerPark1536.jpg" width="200"></br>Uhmmm, I'm writing a book|
 |--|--|--|--|
 | <img src="PXL_20260910_164040683~2.jpg" width="300"> | <img src="PXL_20261003_160236305.jpg" width="300"> | <img src="PXL_20261004_013023227.jpg" width="300"> |  <img src="QVZjdjN4cC01aTlmRU9rWQ-EDIT.jpg" width="200"> |
 |<img src="pete_1a.jpg" width="350">|<img src="68E26421-452F-4BF4-BD64AFE5E2860213-EDIT.jpg" width="350">  |<img src="PXL_20260923_185324678.jpg" width="250">|<img src="PXL_20260729_005208234.MP~2.jpg" width="200"> |
