@@ -1,3 +1,18 @@
+# Big Spy Effort for US Theatre
+
+# China’s Surveillance of Pro-Democracy Activists in the United States
+
+This *60 Minutes* report examines allegations that China has built an extensive network for monitoring and intimidating Chinese and Hong Kong pro-democracy activists living in the United States. The story focuses partly on **Shujun Wang**, a historian who helped establish a New York organization supporting democracy in China. Although trusted by fellow activists, Wang was convicted in 2024 of secretly collecting their names, contact information, and private conversations for China’s Ministry of State Security.
+
+The report presents this activity as a form of **transnational repression**: an authoritarian government extending surveillance and political pressure beyond its borders. Activists describe threats, online harassment, and pressure directed against family members who remain in China or Hong Kong.
+
+Hong Kong democracy advocate **Anna Kwok**, for example, continued speaking publicly in the United States despite a bounty placed on her. Her father and brother were subsequently arrested in Hong Kong. The story illustrates how threats against relatives can be used to frighten overseas critics and discourage political activism—even after they have reached the United States.
+
+## Video and Related Material
+
+- **Video:** [China Is Expanding Its Spying Efforts in the U.S. | *60 Minutes*](https://youtu.be/DjlFMI2vP7E?si=gmoHDFXo_NYvPUxk)
+- **Article and transcript:** [What China’s Spies Are Doing in the U.S., and What Happens When They’re Caught](https://www.cbsnews.com/news/what-chinas-spies-do-in-the-us-what-happens-when-theyre-caught-60-minutes-transcript-2025-08-31/)
+
 |<img src="d.l.2-EDIT.jpg" width="200">  | **Searching...:</br> Key Timeline Events**</br><img src="PXL_20260225_152415784.jpg" width="300"> </br> <img src="121539850_4928517890499396_1942938626819892794_n.jpeg" width="300">  | MoM's Message from Anon</br>"I just don't know why...</br>he Y'd"</br> Work That! HeHe</br><img src="PXL_20260512_050527439~3 (1).jpg" width="300"></br><img src="PXL_20261005_185905956.MP~2.jpg" width="300"> | <img src="JanetHerstein_ButlerPark1536.jpg" width="200"></br>Uhmmm,</br>We're writing book</br>(I have PHD)</br>Deep Diving into Sims</br>(who knew/interacted w/ him)</br>Who...</br>Could've Influenced Choices </br><img src="QVZmSFFIckszaGMtdWNKNg.jpeg" width="300">|
 |--|--|--|--|
 | <img src="PXL_20260910_164040683~2.jpg" width="300"></br><img src="dl.2.jpg" width="300"> | <img src="PXL_20261003_160236305.jpg" width="300"> | <img src="PXL_20261004_013023227.jpg" width="300"> |  <img src="QVZjdjN4cC01aTlmRU9rWQ-EDIT.jpg" width="200"> |
