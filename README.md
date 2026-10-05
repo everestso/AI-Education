@@ -39,6 +39,23 @@ Subsequent reporting identified the alleged target as the son of Taiwanese Presi
 
 **Related news story:** [Southern California Woman Accused of Spying for China Arrested by FBI Agents at LAX](https://abc30.com/story/woman-accused-spying-china-arrested-fbi-agents-los-angeles-international-airport/19909901/)
 
+## AI’s Hidden Water Footprint
+
+In the TED Talk [“AI Consumes a Lot of Water—but Why?”](https://www.ted.com/talks/shaolei_ren_ai_consumes_a_lot_of_water_but_why), electrical and computer engineer **Shaolei Ren** examines an often-overlooked environmental cost of artificial intelligence: its consumption of water.
+
+AI’s water footprint extends across several parts of its technological infrastructure:
+
+- Data centers use water to cool servers running AI systems.
+- Electricity generation may require additional water to cool power plants.
+- Manufacturing advanced computer chips is also water-intensive.
+- Training and operating increasingly large AI models can magnify these demands.
+
+Ren warns that AI could consume billions of liters of water annually, including water suitable for human consumption. He argues that technology companies should disclose more information about their water use and consider **when, where, and how** AI workloads are processed. Better cooling systems, thoughtful data-center placement, and water-aware computing practices could help reduce AI’s environmental impact.
+
+**Talk:** Shaolei Ren, *AI Consumes a Lot of Water—but Why?*  
+**Event:** TEDAI Vienna, October 2024  
+**Link:** [Watch the talk on TED](https://www.ted.com/talks/shaolei_ren_ai_consumes_a_lot_of_water_but_why) [TED Talk](https://www.ted.com/talks/shaolei_ren_ai_consumes_a_lot_of_water_but_why?utm_source=chatgpt.com)
+
 ## Savannah Georgia @ Summer '94
 
 |[Dark Chambers (Atari 2600 circa 1988) w/ Gymnasium](https://github.com/everestso/AI-Education/blob/main/DarkChambers_DeepLearning_DRuby.ipynb)  | Castle Wolfenstein (1981)  |
