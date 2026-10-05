@@ -1,4 +1,33 @@
 # Big Spy Effort for US Theatre
+# Filipino Spaghetti
+
+**Filipino spaghetti** is a sweet and savory adaptation of Italian-American spaghetti that has become a popular comfort food in the Philippines. It is commonly served at birthdays, family celebrations, school parties, and fast-food restaurants such as Jollibee.
+
+Unlike traditional Italian tomato sauce, Filipino spaghetti sauce is noticeably **sweet**. It is generally made with:
+
+- Spaghetti noodles
+- Tomato sauce or tomato paste
+- Banana ketchup
+- Ground beef or pork
+- Sliced red hot dogs
+- Garlic and onions
+- Sugar or sweetened sauce
+- Grated or shredded cheese
+
+## Banana Ketchup
+
+**Banana ketchup** is one of the dish’s most distinctive ingredients. Developed in the Philippines when tomatoes were scarce, it is a sweet condiment made primarily from bananas, sugar, vinegar, and spices. Commercial versions are usually colored red so that they resemble tomato ketchup.
+
+## Flavor and Character
+
+The sliced hot dogs give Filipino spaghetti another recognizable characteristic. Their slightly smoky and salty flavor balances the sweetness of the sauce, while grated cheese adds richness. The result is sweeter, brighter, and less herb-centered than Italian spaghetti.
+
+## Cultural Significance
+
+Filipino spaghetti reflects the blending of several culinary influences: pasta and tomato sauce introduced through Western contact, American-style processed foods such as hot dogs and ketchup, and a Filipino preference for combining sweet, salty, and savory flavors.
+
+It is therefore best understood not as an attempt to reproduce Italian spaghetti, but as a distinctive Filipino celebration dish with its own history and cultural identity.
+
 
 ## Addendum: California Woman Accused of Surveilling a Taiwanese Leader’s Family
 
