@@ -28,6 +28,24 @@ Filipino spaghetti reflects the blending of several culinary influences: pasta a
 
 It is therefore best understood not as an attempt to reproduce Italian spaghetti, but as a distinctive Filipino celebration dish with its own history and cultural identity.
 
+## Addendum: Irvine Real Estate Agent Accused of Acting for China
+
+An October 5, 2026, [Realtor.com article](https://www.realtor.com/news/real-estate-news/irvine-california-real-estate-wanying-heather-zhang-arrested-spy-china/) examines the real-estate career of **Wanying “Heather” Zhang**, an Irvine resident arrested by the FBI at Los Angeles International Airport while preparing to fly to China.
+
+Federal prosecutors allege that Zhang acted as an **unregistered agent of the People’s Republic of China**. According to the criminal complaint, she and an associate traveled to the Seattle area in September 2025 and conducted surveillance on a U.S.-based relative of a senior Taiwanese official. They allegedly photographed and recorded the individual’s family, home, vehicles, and license-plate numbers and communicated this information to people Zhang understood to be Chinese government officials. CBS News identified the alleged target as **Ting-Yu Lai, a son of Taiwanese President Lai Ching-te**.
+
+The Realtor.com story adds a significant financial and professional dimension to the case. Zhang was a licensed California real-estate agent associated with **JC Pacific Capital Inc. in Irvine**. According to a public professional profile cited by the article, she had participated in the sale of **126 properties with an average sale price of approximately $3.3 million**. Taken together, those figures suggest transactions involving roughly **$416 million in property value**, although that estimate represents the aggregate value of the properties—not Zhang’s personal earnings or commissions.
+
+Zhang’s work in Southern California’s multimillion-dollar housing market illustrates how someone accused of conducting activity for a foreign government could simultaneously maintain an established and apparently successful professional identity. Her real-estate position may also have provided familiarity with property records, residential locations, vehicles, and affluent communities, although prosecutors have not publicly established that her real-estate work itself was used to conduct the alleged surveillance.
+
+The allegations remain **unproven**, and a federal criminal complaint is not a conviction. Zhang is entitled to the presumption of innocence unless proven guilty in court.
+
+### Sources
+
+- Anna D’Amico, [“California Real Estate Agent Charged with Spying for China After Dramatic Airport Arrest,” *Realtor.com*, October 5, 2026](https://www.realtor.com/news/real-estate-news/irvine-california-real-estate-wanying-heather-zhang-arrested-spy-china/)
+- U.S. Department of Justice, [“Irvine Woman Arrested on Federal Complaint Alleging She Acted as an Agent of China and Spied on U.S.-based Relatives of High-Ranking Taiwanese Government Official,” October 5, 2026](https://www.justice.gov/usao-cdca/pr/irvine-woman-arrested-federal-complaint-alleging-she-acted-agent-china-and-spied-us)
+
+
 
 ## Addendum: California Woman Accused of Surveilling a Taiwanese Leader’s Family
 
