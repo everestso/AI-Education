@@ -1,6 +1,55 @@
 # Big Spy Effort for US Theatre
 # Filipino Spaghetti
 
+## The Tatsuya Suda Conflict-of-Interest Case at UC Irvine
+
+**Tatsuya Suda**, an internationally recognized computer scientist and longtime professor at the University of California, Irvine, became the subject of a criminal investigation involving undisclosed payments from Japanese corporations that supported or had interests in his university research.
+
+It is more precise to describe the case as involving **illegal financial conflicts with Japanese companies**, rather than illegal ties to the Japanese government. The principal company identified by prosecutors was **KDDI Inc.**, a major Japanese telecommunications corporation.
+
+### Investigation and Allegations
+
+The case began with a **2009 whistleblower complaint** from students who alleged that Suda had asked them to prepare improper travel-expense forms. A subsequent UCI investigation examined accusations that he had received reimbursement from both the university and outside organizations for the same travel expenses.
+
+Investigators also found that Suda had financial relationships with Japanese companies while serving as a principal investigator on research they helped fund. Prosecutors alleged that between 2006 and 2009 he received hundreds of thousands of dollars in payments from KDDI and failed to disclose portions of that income properly to UC Irvine.
+
+In 2011, the California Fair Political Practices Commission found that Suda had failed to disclose financial interests connected to a nongovernmental sponsor of his research. He agreed to pay a **$14,000 administrative penalty covering four disclosure violations**.
+
+### Criminal Case and Guilty Plea
+
+In 2013, Orange County prosecutors charged Suda with six felony counts involving conflicts of interest, perjury, and false statements. The original complaint alleged that he had received more than **$325,000 in undisclosed payments** from KDDI, although that larger amount remained an allegation rather than the amount established by his eventual plea.
+
+In February 2014, Suda pleaded guilty in Orange County Superior Court to **one felony count of conflict of interest**. As part of the plea, he acknowledged receiving more than **$7,500 in undisclosed funds** from a company associated with his research. He was placed on **three years’ probation** and ordered to pay **more than $400,000 in restitution and costs to UC Irvine**. He had already spent several months in county jail following his 2012 arrest.
+
+Suda had left UCI’s active faculty in 2010, and his remaining university affiliation ended in 2013. Contemporary reporting described him as the first University of California professor criminally convicted of a conflict of interest involving research funding.
+
+### Significance
+
+The Suda case illustrates the ethical and legal dangers that arise when a publicly employed researcher secretly receives money from organizations that also sponsor or may benefit from the researcher’s university work. Such relationships can create uncertainty over:
+
+- Whether research decisions are being made independently;
+- Whether public funds and university resources are subsidizing private consulting;
+- Whether inventions, patents, or research findings are being transferred improperly;
+- Whether required financial disclosures are complete and accurate; and
+- Whether universities are adequately monitoring faculty relationships with foreign corporations.
+
+Although investigators questioned Suda’s handling of intellectual property and outside corporate relationships, the publicly reported conviction was for **financial conflict of interest**, not espionage or the proven theft of technology for Japan.
+
+## Sources
+
+- California Fair Political Practices Commission, “[February 2011 Commission Agenda](https://www.fppc.ca.gov/events/commission-hearings/2011/february-2011-agenda/).” The agenda identifies four disclosure violations and the proposed $14,000 penalty.
+
+- Voice of OC, “[Former UCI Professor Pleads Guilty to Felony Conflict of Interest](https://voiceofoc.org/2014/02/former-uci-professor-pleads-guilty-to-felony-conflict-of-interest/),” February 27, 2014.
+
+- Voice of OC, “[Ex-UCI Scientist Faces Unprecedented Criminal Charges](https://voiceofoc.org/2013/04/ex-uci-scientist-faces-unprecedented-criminal-charges/),” April 23, 2013.
+
+- Voice of OC, “[Controversial Legal Defense Expected for UCI Ex-Professor](https://voiceofoc.org/2013/06/controversial-legal-defense-expected-for-uci-ex-professor/),” June 13, 2013.
+
+- ProPublica, “[Medical Professors Are Supposed to Share Their Outside Income With the University of California. But Many Don’t](https://www.propublica.org/article/medical-professors-are-supposed-to-share-their-outside-income-with-the-university-of-california-but-many-dont),” December 6, 2019.
+
+- UC Irvine News, “[Suda Receives Grants for Molecular Communication Work](https://news.uci.edu/2007/10/11/suda-receives-grants-for-molecular-communication-work/),” October 11, 2007. This contemporary university announcement provides background on Suda’s research and its connections with Japanese research institutions.
+  
+
 **Filipino spaghetti** is a sweet and savory adaptation of Italian-American spaghetti that has become a popular comfort food in the Philippines. It is commonly served at birthdays, family celebrations, school parties, and fast-food restaurants such as Jollibee.
 
 Unlike traditional Italian tomato sauce, Filipino spaghetti sauce is noticeably **sweet**. It is generally made with:
