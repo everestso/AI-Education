@@ -1,4 +1,132 @@
 # Big Spy Effort for US Theatre
+
+## Advanced Interrogation Techniques: Research Overview
+
+**Advanced interrogation techniques** is not a single, formally defined academic discipline. The phrase generally refers to research on how law-enforcement, military, and intelligence personnel interview suspects, witnesses, detainees, and intelligence sources to obtain accurate and useful information.
+
+The modern field draws upon **psychology, criminology, law, intelligence studies, linguistics, neuroscience, and human-rights research**. Its central concern is not simply obtaining a confession, but obtaining information that is **accurate, detailed, voluntary, legally admissible, and independently verifiable**.
+
+### Major Research Areas
+
+#### Rapport and Cooperation
+
+A major line of research examines how interviewers can establish cooperation through empathy, respect, active listening, and interpersonal rapport. Rapport-based methods attempt to reduce hostility and encourage a subject to provide a complete narrative.
+
+Research sponsored by the FBI-led High-Value Detainee Interrogation Group suggests that rapport and respectful treatment generally produce more useful information than intimidation or confrontational “tough” tactics.
+
+#### Information-Gathering Interviews
+
+Information-gathering approaches begin with open-ended questions and allow interviewees to describe events in their own words. Investigators then ask focused follow-up questions, compare statements with known evidence, and seek details that can be independently verified.
+
+This differs from **accusatorial interrogation**, in which investigators begin with the assumption that the subject is guilty and attempt to obtain a confession. Research has increasingly favored information-gathering methods because they can produce useful intelligence while reducing the danger of contaminating statements or eliciting false confessions.
+
+#### Memory and the Cognitive Interview
+
+Psychologists study how memory is formed, stored, distorted, and retrieved. This research supports techniques such as the **cognitive interview**, which helps witnesses reconstruct the setting of an event and recall details without excessive suggestion.
+
+Researchers also examine how stress, trauma, fatigue, intoxication, repeated questioning, and the passage of time affect memory. One important finding is that confidence and accuracy are not always the same: a person may sound certain while remembering an event incorrectly.
+
+#### Strategic Use of Evidence
+
+Another research area investigates when and how interviewers should disclose evidence. Revealing all evidence at the beginning may allow a deceptive subject to construct explanations around it. Withholding everything may prevent productive discussion.
+
+The **Strategic Use of Evidence** approach introduces evidence in a planned sequence so that investigators can compare a subject’s account with independently established facts. The objective is to identify contradictions and obtain testable information rather than force an admission.
+
+#### Deception Detection
+
+Researchers have found that common behavioral stereotypes—such as avoiding eye contact, appearing nervous, or fidgeting—are unreliable indicators of deception. Anxiety may reflect fear, cultural differences, trauma, or the pressure of being questioned.
+
+Current research therefore emphasizes:
+
+- Comparing statements with external evidence;
+- Examining the amount and quality of verifiable detail;
+- Asking questions that require unexpected or independently checkable answers;
+- Identifying inconsistencies without assuming that every inconsistency proves deception; and
+- Avoiding unsupported claims that an interviewer can reliably “read” guilt from body language.
+
+#### Vulnerability and False Confessions
+
+A particularly important area studies why innocent people sometimes confess. Risk factors can include:
+
+- Lengthy or exhausting questioning;
+- Threats, intimidation, or promises of leniency;
+- Presentation of false evidence;
+- Sleep deprivation;
+- Youth or developmental immaturity;
+- Intellectual or cognitive disabilities;
+- Mental illness;
+- Language and cultural barriers; and
+- A subject’s desire to escape an intolerable situation.
+
+False-confession research has encouraged reforms such as recording entire interviews, limiting coercive practices, providing legal counsel, and adopting special safeguards for juveniles and vulnerable adults.
+
+#### Culture, Language, and Interpretation
+
+Interviews conducted across languages and cultures present additional challenges. Researchers examine how interpreters affect rapport, how cultural norms influence communication, and how concepts of authority, silence, politeness, and disagreement vary among societies.
+
+A culturally unfamiliar response should not automatically be interpreted as evasive or deceptive.
+
+#### Interview Planning and Analysis
+
+Advanced interviewing also involves preparation before questioning. Investigators may develop timelines, identify gaps in available evidence, determine which facts should remain undisclosed, prepare subject-specific questions, and coordinate the roles of interviewers, analysts, linguists, and specialists.
+
+Afterward, statements must be documented, compared with other evidence, and evaluated for reliability. Information produced during an interview should be treated as an investigative lead—not automatically as established fact.
+
+### Coercive or “Enhanced” Interrogation
+
+The phrase **enhanced interrogation techniques** became associated with coercive practices used in counterterrorism operations after September 11, 2001. These practices included extreme isolation, prolonged sleep deprivation, stress positions, sensory manipulation, and waterboarding.
+
+This should be distinguished from the broader scientific study of advanced investigative interviewing. Torture and cruel, inhuman, or degrading treatment are prohibited under international law. Research also indicates that coercion can produce unreliable information because a person under extreme pressure may say whatever seems likely to end the suffering.
+
+The contemporary research direction therefore emphasizes **lawful, humane, non-coercive interviewing**. The FBI-led High-Value Detainee Interrogation Group describes its mission as developing ethical and science-informed methods that obtain cooperation without force, threats, or abuse.
+
+### Ethical and Legal Framework
+
+Research and practice must address:
+
+- The right against compelled self-incrimination;
+- Access to legal counsel;
+- The absolute prohibition of torture;
+- The treatment of juveniles and vulnerable persons;
+- The admissibility and reliability of statements;
+- Accurate recording and preservation of interviews;
+- Protection against discrimination and cultural bias; and
+- Independent review of alleged misconduct.
+
+The internationally recognized **Méndez Principles**, formally titled the *Principles on Effective Interviewing for Investigations and Information Gathering*, promote non-coercive interviewing, procedural safeguards, professional training, accountability, and respect for human rights.
+
+### Central Research Conclusion
+
+The field has increasingly moved from a **confession-driven model** toward an **information-gathering model**. The goal is to obtain a detailed account that can be tested against evidence, rather than to pressure a subject into agreeing with the investigator’s theory.
+
+The strongest contemporary approach combines:
+
+1. Careful preparation;
+2. Rapport and professional treatment;
+3. Open-ended, non-leading questions;
+4. Scientifically informed memory-retrieval methods;
+5. Strategic presentation of evidence;
+6. Recognition of personal and cultural vulnerabilities;
+7. Complete documentation or audiovisual recording; and
+8. Independent corroboration of every important claim.
+
+## Sources and Further Reading
+
+- Federal Bureau of Investigation, [High-Value Detainee Interrogation Group](https://www.fbi.gov/investigate/terrorism/high-value-detainee-interrogation-group).
+
+- Federal Bureau of Investigation, [*Interrogation: A Review of the Science*](https://www.fbi.gov/file-repository/reports-and-publications/hig-report-interrogation-a-review-of-the-science-september-2016.pdf/view), 2016.
+
+- Federal Bureau of Investigation, [*Interrogation Best Practices Report*](https://www.fbi.gov/file-repository/reports-and-publications/hig-report-august-2016.pdf/view), 2016.
+
+- Federal Bureau of Investigation, [Research Publications on Interviewing and Interrogation](https://www.fbi.gov/investigate/terrorism/research-publications-on-interviewing-and-interrogation).
+
+- FBI Law Enforcement Bulletin, [“Motivational Interviewing”](https://leb.fbi.gov/articles/featured-articles/motivational-interviewing), 2022.
+
+- American Psychological Association, [*Police Interrogations and False Confessions: Current Research, Practice, and Policy Recommendations*](https://www.apa.org/pubs/books/4318074), edited by G. Daniel Lassiter and Christian A. Meissner.
+
+- Association for the Prevention of Torture, [Principles on Effective Interviewing for Investigations and Information Gathering](https://www.apt.ch/en/resources/publications/principles-effective-interviewing-investigations-and-information-gathering), commonly called the Méndez Principles.
+
+
 # Filipino Spaghetti
 
 ## The Tatsuya Suda Conflict-of-Interest Case at UC Irvine
