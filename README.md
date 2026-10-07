@@ -5,6 +5,14 @@
 
 # 1982: First Gen Experience
 
+## Remembering/Generating Reasoning Context from First-Gen Bulldog Experience
+(1) Math 75, 76, 77
+(2) Chem 1a, Chem 8?
+(3) Bus Accnt
+(4) Health Center Groups
+(5) CSM Parties
+(6) Lab Consultant (Pizza Fridays)
+
 | Year | Semester	| ID	Desc	Units	Last	First	| |
 |------|----------|-----------------------------|-|
 | 1982 | Fall	| Acct 4b	Acct Prin + Sys	3 A	| <img src="r. u. laffin 2.jpg" width="250"> |
