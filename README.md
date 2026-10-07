@@ -4,8 +4,8 @@
 
 # MoM's Alternate
 
-| <img src="1.jpg" width="300"> |<img src="Screenshot_20250823-132857.png" width="600"> |
-|--|--|
+| <img src="1.jpg" width="300"> | <img src="PXL_20261007_183959873.MP~2.jpg" width="150"> | <img src="Screenshot_20250823-132857.png" width="600"> |
+|--|--|--|
 
 |<img src="d.l.2-EDIT.jpg" width="200">  | **Searching...:</br> Key Timeline Events**</br><img src="PXL_20260225_152415784.jpg" width="300"> </br> <img src="121539850_4928517890499396_1942938626819892794_n.jpeg" width="300"></br>Speed Reading Needed</br><img src="SpeedReading123.jpg" width="300"> | MoM's Message from Anon</br>"I just don't know why...</br>he Chose Action a7"</br> Think On It! HeHe<img src="9.bw.2-EDIT-EDIT.jpg" width="200"></br>He Couldn't</br>Control  It, M<br>Don't Forget It, S!</br>We Need This Abstraction<img src="PXL_20260512_050527439~3 (1).jpg" width="300"></br><img src="PXL_20261005_185905956.MP~2.jpg" width="300"> | <img src="JanetHerstein_ButlerPark1536.jpg" width="200"></br>Uhmmm,</br>We're writing book</br>(I have PHD)</br>Deep Diving into Sims</br>(who interacted w/ him)</br>Who...</br>Could've Influenced..</br>Personal Policy</br><img src="full.1-EDIT.jpg" width="300"></br><img src="QVZmSFFIckszaGMtdWNKNg.jpeg" width="300"> |
 |--|--|--|--|
