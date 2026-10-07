@@ -1,6 +1,7 @@
 # Reasoning Context: Defined Abstractly
 * Token set creates context for reasoning
 * Target: Say Summer '77
+* Find Reasoning Context to Reproduce Agent Behavior
   
 # MoM's Punishments
 1. Don't make me paint an ugly picture with abstractions for you! It will stick with you, maybe even cause nightmares!
