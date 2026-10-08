@@ -3,6 +3,11 @@
 * Target: Say Summer '77
 * Find Reasoning Context to Reproduce Agent Behavior
 
+## Considering Attention
+* How does daily attention function feed context/reasoning?
+  * (cars, houses, buildings) vs. (deadlines, puzzles, narratives)
+  * (Personal Identity: Values/Morals Reflected) vs. Community
+
 # 1982: First Gen Experience
 
 ## Remembering/Generating Reasoning Context from First-Gen Bulldog Experience
