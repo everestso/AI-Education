@@ -26,7 +26,7 @@
 | 1982 | Fall	| Math 121	Numerical Anl 1	3			A	* Math Coding w/ Fortran 77/ Kafka | |
 | 1982 | Fall	| Spch 3	Fund Public Comm	3			A / Champagne Talk (Will Wait) | |
 
-# 1977: MoM's Punishments
+# 1977: MoM's Punishments: So you think your smart..
 1. Don't make me paint an ugly picture with abstractions for you! It will stick with you, maybe even cause nightmares!
 2. Now I'm gonna push you into a new ugly abstraction between us! You'll have to live with it! Your FRIENDS won't like it! (HeHe)
    * Now go spend time with XX. He'll show you! (HeHe)
