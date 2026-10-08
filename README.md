@@ -29,6 +29,7 @@
 # 1977: MoM's Punishments
 1. Don't make me paint an ugly picture with abstractions for you! It will stick with you, maybe even cause nightmares!
 2. Now I'm gonna push you into a new ugly abstraction between us! You'll have to live with it! Your FRIENDS won't like it! (HeHe)
+   * Now go spend time with XX. He'll show you! (HeHe)
 
 # MoM's Alternate
 
