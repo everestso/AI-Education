@@ -1,7 +1,7 @@
 # Reasoning Context: Defined Abstractly
 * Token set creates context for reasoning
-* Target: Say Summer '77
-* Find Reasoning Context to Reproduce Agent Behavior
+ * Target: Say Summer '77
+ * Find Reasoning Context to Reproduce Agent Behavior
 * Context driven by Two Factors [Short Term Memory/Symbolic Context, Sensory Input Driven State Info]
   * Short Term Memory/Symbolic Context can be an abstraction (Puzzle)
   * Weights can be learned to focus on Symbolic Context (FOCUS), or ignored.
