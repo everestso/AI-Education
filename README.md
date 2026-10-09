@@ -5,6 +5,7 @@
 * Context driven by Two Factors [Short Term Memory/Symbolic Context, Sensory Input Driven State Info]
   * Short Term Memory/Symbolic Context can be an abstraction (Puzzle)
   * Weights can be learned to focus on Symbolic Context (FOCUS), or ignored.
+  * For Jumps: Control Environment/Context [No Surprises, Supportive of Abstraction], Drive Short Term Symbolic Context [Notes]
 
 ## Considering Attention
 * How does daily attention function feed context/reasoning?
