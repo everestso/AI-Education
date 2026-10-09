@@ -6,6 +6,92 @@
   * Short Term Memory/Symbolic Context can be an abstraction (Puzzle)
   * Weights can be learned to focus on Symbolic Context (FOCUS), or ignored.
   * For Jumps: Control Environment/Context [No Surprises, Supportive of Abstraction], Drive Short Term Symbolic Context [Notes]
+# A Brief History of “Brainwashing”
+
+Although American concern about **brainwashing** remained strong after the Vietnam War, the term entered American public discourse much earlier—during the opening years of the **Cold War and the Korean War**.
+
+## Origins of the Term
+
+The English word **“brainwashing”** was popularized in 1950 by American journalist **Edward Hunter**. Hunter presented it as a translation of the Chinese expression *xǐ nǎo* (洗脑), meaning “wash the brain.” He used the term to describe Communist China’s programs of ideological reeducation or “thought reform.”
+
+Hunter portrayed brainwashing as a systematic method by which Communist governments could break down an individual’s identity and replace it with political beliefs selected by the state. His 1951 book, *Brain-Washing in Red China*, helped establish the term in American political and popular culture.
+
+The phrase became especially influential during the **Korean War (1950–1953)**. Some American prisoners of war made propaganda broadcasts, signed statements accusing the United States of biological warfare, or appeared sympathetic to Communist ideas. American officials and journalists initially attributed this behavior to a powerful new form of psychological control.
+
+## Earlier Intellectual Background
+
+The practices grouped under the label “brainwashing” were not entirely new. They drew upon several earlier traditions:
+
+- **Religious and political conversion:** Governments and religious institutions had long used isolation, confession, repetition, surveillance, and social pressure to influence beliefs.
+- **Pavlovian conditioning:** Russian physiologist **Ivan Pavlov’s** experiments demonstrated that behavior could be shaped through conditioned associations. Western observers later assumed—often with considerable exaggeration—that Soviet interrogators had transformed Pavlov’s research into a science of political control.
+- **Soviet political interrogations:** The forced confessions presented during the Soviet show trials of the 1930s raised questions about how prisoners could be compelled to admit to improbable crimes.
+- **Wartime interrogation and propaganda:** During World War II, governments studied hypnosis, drugs, interrogation, propaganda, morale, and the psychological vulnerabilities of prisoners.
+- **Chinese “thought reform”:** After the Chinese Communist Revolution of 1949, prisons, universities, workplaces, and political organizations used criticism meetings, written confessions, ideological study, peer pressure, and repeated self-examination to reshape political attitudes.
+
+## Early Research
+
+Researchers eventually concluded that Communist interrogation did not depend upon a mysterious technique capable of mechanically erasing and rewriting the mind. Its effectiveness generally came from familiar but powerful forms of coercion: isolation, exhaustion, fear, uncertainty, humiliation, control of information, group pressure, repetition, and rewards for cooperation.
+
+In 1956, physicians **Lawrence Hinkle Jr. and Harold Wolff** published an influential study of Communist interrogation. They emphasized that interrogators could produce compliance, confessions, and temporary changes in behavior by controlling a prisoner’s physical and social environment. This did not necessarily create a permanent change in the prisoner’s deepest beliefs.
+
+Psychologist **Edgar Schein** similarly studied Chinese attempts to indoctrinate American prisoners of war. He distinguished between outward compliance, changes in attitudes, and genuine long-term conversion.
+
+Psychiatrist **Robert Jay Lifton** interviewed people who had undergone Chinese political reeducation. In *Thought Reform and the Psychology of Totalism* (1961), he described eight recurring features of coercive ideological environments, including control of communication, demands for ideological purity, compulsory confession, manipulation of language, and the elevation of doctrine over personal experience.
+
+These studies shifted the discussion away from a nearly magical power to control minds and toward the more defensible concepts of **coercive persuasion**, **thought reform**, and **environmental control**.
+
+## American Intelligence Programs
+
+Fear that Communist governments possessed advanced mind-control techniques also encouraged secret American research. The CIA established programs including:
+
+- **BLUEBIRD (1950):** Investigated interrogation, hypnosis, memory, and methods of protecting American personnel from hostile interrogation.
+- **ARTICHOKE (1951):** Expanded experiments involving drugs, hypnosis, isolation, and coercive questioning.
+- **MKULTRA (1953–1973):** Supported a wide range of experiments involving LSD and other drugs, sensory deprivation, hypnosis, behavioral conditioning, and psychological manipulation.
+
+Some experiments were conducted without meaningful informed consent and caused serious harm. Much of the surviving evidence suggests that these programs never discovered a dependable method for controlling another person’s mind. Instead, they demonstrated that drugs, deprivation, fear, and psychological pressure could disorient people, increase suggestibility, or obtain compliance—often while producing unreliable information.
+
+## Vietnam and the Revival of the Issue
+
+The Vietnam War did not originate American concern about brainwashing, but it gave the subject new importance. American officials worried about the interrogation and propaganda use of prisoners held in North Vietnam. At home, political polarization also encouraged accusations that radical groups, antiwar organizations, religious movements, universities, or the mass media were manipulating vulnerable people.
+
+After the war, investigations into CIA activities transformed the debate. The **Rockefeller Commission and Church Committee investigations in 1975**, followed by **Senate hearings on MKULTRA in 1977**, revealed that American agencies had themselves conducted secret experiments involving drugs and behavioral control.
+
+During the 1970s, the term was also increasingly applied to unconventional religious movements or “cults.” Researchers continued to debate how much such groups could change behavior through isolation, social dependency, repetition, fear, and control of information. Most psychologists rejected the sensational idea that a person could be converted into an obedient automaton, while recognizing that sustained coercive environments can exert profound influence.
+
+## Brief Timeline
+
+| Date | Development |
+|---|---|
+| **1890s–1930s** | Pavlov’s conditioning experiments provide an important scientific background for later theories of behavioral control. |
+| **1930s** | Soviet show trials and forced confessions stimulate Western speculation about psychological coercion. |
+| **1940s** | World War II governments study propaganda, interrogation, hypnosis, morale, drugs, and prisoner behavior. |
+| **1949** | The Chinese Communist Party takes control of China and expands political reeducation and thought-reform programs. |
+| **1950** | Edward Hunter popularizes the English term **“brainwashing.”** |
+| **1950–1953** | The treatment and public statements of American POWs during the Korean War make brainwashing a major American concern. |
+| **1950–1951** | The CIA establishes **BLUEBIRD** and then **ARTICHOKE** to investigate interrogation and behavioral control. |
+| **1953** | The CIA begins **MKULTRA**, its best-known program involving drugs and psychological experimentation. |
+| **1956–1957** | Hinkle, Wolff, Schein, and other researchers publish studies of Communist interrogation and indoctrination. |
+| **1961** | Robert Jay Lifton publishes *Thought Reform and the Psychology of Totalism*. |
+| **1960s–1973** | Vietnam-era POW experiences and domestic political conflict keep fears of psychological manipulation in public view. |
+| **1973** | MKULTRA is formally ended; many program records are destroyed. |
+| **1975–1977** | Congressional and executive investigations expose CIA experimentation and generate renewed concern about mind-control research. |
+| **1970s–1980s** | “Brainwashing” becomes closely associated with debates about cults, religious conversion, deprogramming, and coercive persuasion. |
+
+## Historical Assessment
+
+“Brainwashing” is best understood as a politically powerful umbrella term rather than the name of a single scientifically proven technique. Extreme environments can produce compliance, false confessions, dependency, altered beliefs, and psychological trauma. However, historical research has not demonstrated a reliable method that can erase a person’s identity and install new beliefs with mechanical certainty.
+
+The history of brainwashing therefore concerns both genuine practices of coercion and the fears surrounding them. It includes Communist thought reform, treatment of prisoners of war, Cold War propaganda, psychological research, secret CIA experiments, and later controversies involving cults and coercive organizations.
+
+## Selected Sources
+
+- Hunter, Edward. *Brain-Washing in Red China: The Calculated Destruction of Men’s Minds*. Vanguard Press, 1951.
+- Hinkle, Lawrence E., Jr., and Harold G. Wolff. “[Communist Interrogation and Indoctrination of ‘Enemies of the State.’](https://pubmed.ncbi.nlm.nih.gov/13354036/)” *AMA Archives of Neurology and Psychiatry*, vol. 76, no. 2, 1956, pp. 115–174.
+- Hinkle, Lawrence E., Jr., and Harold G. Wolff. “[The Methods of Interrogation and Indoctrination Used by the Communist State Police.](https://pmc.ncbi.nlm.nih.gov/articles/PMC1806200/)” *Bulletin of the New York Academy of Medicine*, vol. 33, no. 9, 1957, pp. 600–615.
+- Schein, Edgar H. “The Chinese Indoctrination Program for Prisoners of War: A Study of Attempted Brainwashing.” *Psychiatry*, vol. 19, no. 2, 1956, pp. 149–172.
+- Lifton, Robert Jay. *[Thought Reform and the Psychology of Totalism: A Study of “Brainwashing” in China](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp85043)*. W. W. Norton, 1961.
+- U.S. Department of State, Office of the Historian. “[National Operations Plan Concerning Communist Mistreatment of Prisoners of War](https://history.state.gov/historicaldocuments/frus1952-54v02p2/d355).” October 14, 1953.
+- National Library of Medicine. “[Brainwashing—MeSH Descriptor.](https://meshb.nlm.nih.gov/record/ui?ui=D000096965)”
 
 ## Considering Attention
 * How does daily attention function feed context/reasoning?
