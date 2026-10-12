@@ -1,7 +1,7 @@
 # Kitchens & Food Contexts
 | <img src="Restored Vintage Kitchen Snapshot.png" width="400"> | <img src="Restored vintage kitchen snapshot.png" width="450"> |<img src="Colorful gelato in a glass display.png" width="200"></br>TagoNgTago Fair Ice </br>w/ Nanny</br>@ FSU </br> Like Sanctuary. |
 |--|--|--|
-| <img src="PXL_20261011_053812739~2.jpg" width="250"> | <img src="17228087219197123922012670141254.jpg" width="370"></br>TagoNgTago</br>"You ruined my life."  | <img src="ChatGPT Image Oct 1, 2026, 09_41_49 AM.png" width="200"> </br><img src="PXL_20261011_051345207~2.jpg" width="200"> |
+| <img src="PXL_20261011_053812739~2.jpg" width="250"> | <img src="17228087219197123922012670141254.jpg" width="370"></br>TagoNgTago</br>"You ruined my life."</br><img src="PXL_20261012_215753844.jpg" width="370">  | <img src="ChatGPT Image Oct 1, 2026, 09_41_49 AM.png" width="200"> </br><img src="PXL_20261011_051345207~2.jpg" width="200"> |
 | <img src="12277a-1024x441.jpg" width="250"></br><img src="d1978_07_23.jpg" width="250"> | <img src="QVZlckdYdy0tb19uMGlBYg.jpeg" width="400"> | <img src="21mJv0HBwfL.jpg" width="250"> |
 
 # Reasoning Context: Defined Abstractly
