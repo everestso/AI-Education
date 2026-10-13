@@ -2,6 +2,7 @@
 
 ## Korean vs. South Korean ?
 * Believing, Knowing, Denying
+* There is no South Korea, Only Korea.
 
 ## Northern Vietnamese vs. Southern Vietnamese
 
