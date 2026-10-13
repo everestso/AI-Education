@@ -3,6 +3,10 @@
 ## Korean vs. South Korean ?
 * Believing, Knowing, Denying
 
+## North Vietnamese vs. Southern Vietnamese
+
+## Northern Indian vs. Southern Indian
+
 |<img src="PXL_20261013_191939241~2.jpg" width="450"> | <img src="PXL_20261013_192713651.jpg" width="450"> |
 |--|--|
 
