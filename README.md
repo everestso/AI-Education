@@ -1,5 +1,7 @@
 # Kitchens & Food Contexts
 
+# Korean vs. South Korean ?
+
 |<img src="PXL_20261013_191939241~2.jpg" width="450"> | <img src="PXL_20261013_192713651.jpg" width="450"> |
 |--|--|
 
