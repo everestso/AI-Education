@@ -3,6 +3,10 @@
 |<img src="PXL_20261013_191939241~2.jpg" width="450"> | <img src="PXL_20261013_192713651.jpg" width="450"> |
 |--|--|
 
+| <img src="1.jpg" width="300"> | <img src="PXL_20261007_183959873.MP~2.jpg" width="150"> | <img src="Screenshot_20250823-132857.png" width="600"> |
+|--|--|--|
+| | <img src="PXL_20261007_210942543~2.jpg" width="300"> |  |
+
 | <a href="https://youtu.be/1r1NAPremho"> <img src="https://img.youtube.com/vi/1r1NAPremho/hqdefault.jpg" width="300" alt="Watch on YouTube"> </a></br> bottomofthehill.com | <a href="https://youtu.be/SUJloylmEZM"><img src="https://img.youtube.com/vi/SUJloylmEZM/hqdefault.jpg" width="300" alt="Watch on YouTube"></a></br> Vallejo | <img src="PXL_20261012_215753844.jpg" width="370"></br><img src="PXL_20261013_184049727.jpg" width="200"> |
  |--|--|--|
  |<img src="Restored vintage kitchen snapshot.png" width="450"> | <img src="PXL_20261012_222000835~2.jpg" width="200"> |<img src="PXL_20261012_220352269.MP.jpg" width="250"> |
