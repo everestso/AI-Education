@@ -1,6 +1,8 @@
 # Kitchens & Food Contexts
 
-[![Watch on YouTube](https://img.youtube.com/vi/1r1NAPremho/maxresdefault.jpg)](https://youtu.be/1r1NAPremho)
+| <a href="https://youtu.be/1r1NAPremho"> <img src="https://img.youtube.com/vi/1r1NAPremho/hqdefault.jpg" width="300" alt="Watch on YouTube"> </a> | <a href="https://youtu.be/SUJloylmEZM"><img src="https://img.youtube.com/vi/SUJloylmEZM/hqdefault.jpg" width="300" alt="Watch on YouTube"></a> |
+ |--|--|
+
 
 | <img src="Restored Vintage Kitchen Snapshot.png" width="400"> | <img src="Restored vintage kitchen snapshot.png" width="450"> |<img src="Colorful gelato in a glass display.png" width="200"></br>TagoNgTago Fair Ice </br>w/ Nanny</br>@ FSU </br> Like Sanctuary. |
 |--|--|--|
