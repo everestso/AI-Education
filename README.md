@@ -3,6 +3,7 @@
 ## Korean vs. South Korean ?
 * Believing, Knowing, Denying
 * There is no South Korea, Only Korea.
+* USAG Humphreys: 213-4 Anjeong-ri, Paengseong-eup, Pyeongtaek-si, Gyeonggi-do, South Korea  17984
 
 ## Northern Vietnamese vs. Southern Vietnamese
 
