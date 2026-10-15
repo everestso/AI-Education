@@ -9,7 +9,7 @@
 
 ## Northern Indian vs. Southern Indian
 
-| <img src="Restored vintage kitchen snapshot.png" width="450"> </br><img src="PXL_20261014_144001537.jpg" width="300"></br><img src="ChatGPT Image Oct 1, 2026, 09_41_49 AM.png" width="200"> | <img src="PXL_20261012_215753844.jpg" width="370"></br><img src="PXL_20261015_164842777.jpg" width="400">  |
+| <img src="Restored vintage kitchen snapshot.png" width="450"> </br><img src="PXL_20261014_144001537.jpg" width="300"></br><img src="ChatGPT Image Oct 1, 2026, 09_41_49 AM.png" width="200"> | <img src="PXL_20261012_215753844.jpg" width="370"></br><img src="PXL_20261015_164842777.jpg" width="400"></br><img src="g1-fixedbase-step-0.gif" width="400">  |
 |--|--|
 |<img src="PXL_20261013_191939241~2.jpg" width="450"> | <img src="PXL_20261013_192713651.jpg" width="450"> |
 
