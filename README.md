@@ -9,9 +9,9 @@
 
 ## Northern Indian vs. Southern Indian
 
-| <img src="ChatGPT Image Oct 1, 2026, 09_41_49 AM.png" width="200"> | <img src="PXL_20261015_164842777.jpg" width="400">  |
+| <img src="Restored vintage kitchen snapshot.png" width="450"> </br><img src="PXL_20261014_144001537.jpg" width="300"></br><img src="ChatGPT Image Oct 1, 2026, 09_41_49 AM.png" width="200"> | <img src="PXL_20261015_164842777.jpg" width="400">  |
 |--|--|
-|<img src="PXL_20261013_191939241~2.jpg" width="450"> | <img src="PXL_20261013_192713651.jpg" width="450"> |
+|<img src="Restored vintage kitchen snapshot.png" width="450"> </br><img src="PXL_20261014_144001537.jpg" width="300"><img src="PXL_20261013_191939241~2.jpg" width="450"> | <img src="PXL_20261013_192713651.jpg" width="450"> |
 
 | <img src="1.jpg" width="300"> | <img src="PXL_20261007_183959873.MP~2.jpg" width="150"> | <img src="Screenshot_20250823-132857.png" width="600"> |
 |--|--|--|
