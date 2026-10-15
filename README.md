@@ -9,7 +9,7 @@
 
 ## Northern Indian vs. Southern Indian
 
-| <img src="ChatGPT Image Oct 1, 2026, 09_41_49 AM.png" width="200"> | <img src="ChatGPT Image Oct 1, 2026, 09_41_49 AM.png" width="200">  |
+| <img src="ChatGPT Image Oct 1, 2026, 09_41_49 AM.png" width="200"> | <img src="PXL_20261015_164842777.jpg" width="400">  |
 |--|--|
 |<img src="PXL_20261013_191939241~2.jpg" width="450"> | <img src="PXL_20261013_192713651.jpg" width="450"> |
 
