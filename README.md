@@ -1,4 +1,10 @@
 # Kitchens & Food Contexts
+|<img src="d.l.2-EDIT.jpg" width="200">  | **Searching...:</br> Key Timeline Events**</br><img src="PXL_20260225_152415784.jpg" width="300"> </br> <img src="121539850_4928517890499396_1942938626819892794_n.jpeg" width="300"></br>Speed Reading Needed</br><img src="SpeedReading123.jpg" width="300"> | MoM's Message from Anon</br>"I just don't know why...</br>he Chose Action a7"</br> Think On It! HeHe<img src="9.bw.2-EDIT-EDIT.jpg" width="200"></br>He Couldn't</br>Control  It, M<br>Don't Forget It, S!</br>YOU Need This Abstraction (HeHe)</br>THIS will Trigger IT</br><img src="PXL_20260512_050527439~3 (1).jpg" width="300"></br><img src="PXL_20261005_185905956.MP~2.jpg" width="300"> | <img src="JanetHerstein_ButlerPark1536.jpg" width="200"></br>Uhmmm,</br>We're writing book</br>(I have PHD)</br>Deep Diving into Sims</br>(who interacted w/ him)</br>Who...</br>Could've Influenced..</br>Personal Policy</br><img src="full.1-EDIT.jpg" width="300"></br><img src="QVZmSFFIckszaGMtdWNKNg.jpeg" width="300"> </br><img src="PXL_20261015_164842777.jpg" width="400"></br><img src="PXL_20261016_181859645.jpg" width="400"><br>Still Active.|
+|--|--|--|--|
+| <img src="PXL_20260910_164040683~2.jpg" width="300"></br><img src="dl.2.jpg" width="300"> | <img src="PXL_20261003_160236305.jpg" width="300"> | <img src="PXL_20261004_013023227.jpg" width="300"> |  <img src="QVZjdjN4cC01aTlmRU9rWQ-EDIT.jpg" width="200"> |
+|<img src="pete_1a.jpg" width="350">|<img src="68E26421-452F-4BF4-BD64AFE5E2860213-EDIT.jpg" width="350">  |<img src="PXL_20260923_185324678.jpg" width="250">|<img src="PXL_20260729_005208234.MP~2.jpg" width="200"> |
+| <img src="PXL_20260929_163241260~2.jpg" width="350"> | <img src="PXL_20250417_223249811-EDIT-EDIT.jpg" width="350"> | <img src="PXL_20260929_002001354.jpg" width="350"> | <img src="Screenshot_20261004-223136.png" width="350"> </br>Khmer Rouge ('75-'79)|
+| <img src="PXL_20260729_005428953-EDIT.jpg" width="350">  | <img src="d.l.2-EDIT.jpg" width="200">  |<img src="PXL_20260512_050527439~3.jpg" width="350"> </br><img src="242678_202929373084175_4339687_o.jpg" width="350">   | |
 
 ## Korean vs. South Korean ?
 * Believing, Knowing, Denying
@@ -27,6 +33,14 @@
 |--|--|--|
 | <img src="PXL_20261011_053812739~2.jpg" width="250"></br><img src="PXL_20261012_220352269.MP.jpg" width="250"></br><img src="PXL_20261012_220724715.jpg" width="250"> | <img src="PXL_20261012_222000835~2.jpg" width="200"></br><img src="17228087219197123922012670141254.jpg" width="370"></br>TagoNgTago</br>"You ruined my life."</br><img src="PXL_20261012_215753844.jpg" width="370">  | <img src="ChatGPT Image Oct 1, 2026, 09_41_49 AM.png" width="200"> </br><img src="PXL_20261011_051345207~2.jpg" width="200"> |
 | <img src="12277a-1024x441.jpg" width="250"></br><img src="d1978_07_23.jpg" width="250"> | <img src="QVZlckdYdy0tb19uMGlBYg.jpeg" width="400"> | <img src="21mJv0HBwfL.jpg" width="250"> |
+
+|<img src="d.l.2-EDIT.jpg" width="200">  | **Searching...:</br> Key Timeline Events**</br><img src="PXL_20260225_152415784.jpg" width="300"> </br> <img src="121539850_4928517890499396_1942938626819892794_n.jpeg" width="300"></br>Speed Reading Needed</br><img src="SpeedReading123.jpg" width="300"> | MoM's Message from Anon</br>"I just don't know why...</br>he Chose Action a7"</br> Think On It! HeHe<img src="9.bw.2-EDIT-EDIT.jpg" width="200"></br>He Couldn't</br>Control  It, M<br>Don't Forget It, S!</br>YOU Need This Abstraction (HeHe)</br>THIS will Trigger IT</br><img src="PXL_20260512_050527439~3 (1).jpg" width="300"></br><img src="PXL_20261005_185905956.MP~2.jpg" width="300"> | <img src="JanetHerstein_ButlerPark1536.jpg" width="200"></br>Uhmmm,</br>We're writing book</br>(I have PHD)</br>Deep Diving into Sims</br>(who interacted w/ him)</br>Who...</br>Could've Influenced..</br>Personal Policy</br><img src="full.1-EDIT.jpg" width="300"></br><img src="QVZmSFFIckszaGMtdWNKNg.jpeg" width="300"> |
+|--|--|--|--|
+| <img src="PXL_20260910_164040683~2.jpg" width="300"></br><img src="dl.2.jpg" width="300"> | <img src="PXL_20261003_160236305.jpg" width="300"> | <img src="PXL_20261004_013023227.jpg" width="300"> |  <img src="QVZjdjN4cC01aTlmRU9rWQ-EDIT.jpg" width="200"> |
+|<img src="pete_1a.jpg" width="350">|<img src="68E26421-452F-4BF4-BD64AFE5E2860213-EDIT.jpg" width="350">  |<img src="PXL_20260923_185324678.jpg" width="250">|<img src="PXL_20260729_005208234.MP~2.jpg" width="200"> |
+| <img src="PXL_20260929_163241260~2.jpg" width="350"> | <img src="PXL_20250417_223249811-EDIT-EDIT.jpg" width="350"> | <img src="PXL_20260929_002001354.jpg" width="350"> | <img src="Screenshot_20261004-223136.png" width="350"> </br>Khmer Rouge ('75-'79)|
+| <img src="PXL_20260729_005428953-EDIT.jpg" width="350">  | <img src="d.l.2-EDIT.jpg" width="200">  |<img src="PXL_20260512_050527439~3.jpg" width="350"> </br><img src="242678_202929373084175_4339687_o.jpg" width="350">   | |
+
 
 # Reasoning Context: Defined Abstractly
 * Token set creates context for reasoning
