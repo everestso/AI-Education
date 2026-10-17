@@ -1,3 +1,10 @@
+# Resume
+
+| <img src="PXL_20250912_033754553.jpg" width="200"> </br><img src="PXL_20250129_022216417.jpg" width="200"></br><img src="PXL_20261012_215753844.jpg" width="200"></br> Company Pose. | <img src="Open trapdoor beneath the tree.png" width="400"> </br><img src="PXL_20250417_223249811-EDIT-EDIT.jpg" width="400"></br><img src="opt3b.png" width="400">|<img src="JanetHerstein_ButlerPark1536.jpg" width="200"></br><img src="PXL_20260729_005208234.MP~2.jpg" width="200">  | <img src="PXL_20241031_012921717.jpg" width="200"></br><br><img src="PXL_20261015_164842777.jpg" width="400"></br><img src="PXL_20260801_051859350.MP.jpg" width="200"> |
+|--|--|--|--|
+
+# Extra
+
 | <img src="JanetHerstein_ButlerPark1536.jpg" width="200"> </br> <img src="1.jpg" width="300">  | <img src="PXL_20261016_181859645.jpg" width="400"><br><img src="PXL_20261015_164842777.jpg" width="400">    |<img src="PXL_20231014_144147967.jpg" width="300"> </br> <img src="PXL_20250904_054342352.jpg" width="300"> |<img src="QVZmSFFIckszaGMtdWNKNg.jpeg" width="300"></br>Wires Still Active.|
 |--|--|--|--|
 | <img src="PXL_20250912_033754553.jpg" width="200"> </br><img src="PXL_20250129_022216417.jpg" width="200"></br><img src="PXL_20261012_215753844.jpg" width="200"></br> Company Pose. | <img src="Open trapdoor beneath the tree.png" width="400"> </br><img src="PXL_20250417_223249811-EDIT-EDIT.jpg" width="400"></br><img src="opt3b.png" width="400">|<img src="JanetHerstein_ButlerPark1536.jpg" width="200"></br><img src="PXL_20260729_005208234.MP~2.jpg" width="200">  | <img src="PXL_20241031_012921717.jpg" width="200"></br><br><img src="PXL_20261015_164842777.jpg" width="400"></br><img src="PXL_20260801_051859350.MP.jpg" width="200"> |
