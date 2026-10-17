@@ -1,6 +1,6 @@
 # Resume / References
 
-| <img src="PXL_20250912_033754553.jpg" width="200"> </br><img src="PXL_20261017_153906078.jpg" width="200"></br><img src="PXL_20261012_215753844.jpg" width="200"></br> Company Pose. | <img src="Open trapdoor beneath the tree.png" width="400"> </br><img src="PXL_20250417_223249811-EDIT-EDIT.jpg" width="400"></br><img src="opt3b.png" width="400">|<img src="JanetHerstein_ButlerPark1536.jpg" width="200"></br><img src="PXL_20260729_005208234.MP~2.jpg" width="100"><img src="lr.2-EDIT.jpg" width="100"></br><img src="PXL_20261017_181236918.jpg" width="200">  | <img src="PXL_20241031_012921717.jpg" width="200"></br><br><img src="PXL_20261015_164842777.jpg" width="400"></br><img src="PXL_20261017_180507723.jpg" width="200"> |
+| <img src="PXL_20250912_033754553.jpg" width="200"> </br><img src="PXL_20261017_153906078.jpg" width="200"></br><img src="PXL_20261012_215753844.jpg" width="200"></br> Company Pose. | <img src="Open trapdoor beneath the tree.png" width="400"> </br><img src="PXL_20250417_223249811-EDIT-EDIT.jpg" width="400"></br><img src="opt3b.png" width="400">|<img src="JanetHerstein_ButlerPark1536.jpg" width="200"></br><img src="PXL_20260729_005208234.MP~2.jpg" width="100"><img src="lr.2-EDIT.jpg" width="100"></br><img src="PXL_20261017_181236918.jpg" width="200">  | <img src="PXL_20241031_012921717.jpg" width="200"></br><br><img src="PXL_20261015_164842777.jpg" width="400"></br><img src="PXL_20261017_180507723.jpg" width="200"></br>Rocker Walking?</br><img src="PXL_20261017_194340416.jpg" width="200"> |
 |--|--|--|--|
 
 # Extra
